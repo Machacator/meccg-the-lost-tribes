@@ -11,18 +11,18 @@
 			"en": "https://github.com/Machacator/meccg-the-lost-tribes/tree/main/images/",
 			"es": "REPOSITORIO_IMAGENES" },
 		"cards": {
-			"LT-001": {
-				"id": "LT-001",
+			"LT-1": {
+				"id": "LT-1",
 				"set": "LT",
 				"name": {
-					"en": " Setmaenen -The Seven Stones",
-					"es": " Setmaenen -The Seven Stones",
-					"de": " Setmaenen -The Seven Stones",
-					"fr": " Setmaenen -The Seven Stones",
-					"it": " Setmaenen -The Seven Stones",
-					"nl": " Setmaenen -The Seven Stones",
-					"fi": " Setmaenen -The Seven Stones",
-					"ja": " Setmaenen -The Seven Stones"},
+					"en": "Setmaenen -The Seven Stones",
+					"es": "Setmaenen -The Seven Stones",
+					"de": "Setmaenen -The Seven Stones",
+					"fr": "Setmaenen -The Seven Stones",
+					"it": "Setmaenen -The Seven Stones",
+					"nl": "Setmaenen -The Seven Stones",
+					"fi": "Setmaenen -The Seven Stones",
+					"ja": "Setmaenen -The Seven Stones"},
 				"type": "Site",
 				"alignment": "Hero",
 				"attributes": {
@@ -45,8 +45,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-036": {
-				"id": "LT-036",
+			"LT-36": {
+				"id": "LT-36",
 				"set": "LT",
 				"name": {
 					"en": "A Cursed Power",
@@ -72,8 +72,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-073": {
-				"id": "LT-073",
+			"LT-73": {
+				"id": "LT-73",
 				"set": "LT",
 				"name": {
 					"en": "A Folk´s Dream",
@@ -98,8 +98,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-090": {
-				"id": "LT-090",
+			"LT-90": {
+				"id": "LT-90",
 				"set": "LT",
 				"name": {
 					"en": "A Hope and a Despair",
@@ -128,14 +128,14 @@
 				"id": "LT-101",
 				"set": "LT",
 				"name": {
-					"en": "A King's Reward",
-					"es": "A King's Reward",
-					"de": "A King's Reward",
-					"fr": "A King's Reward",
-					"it": "A King's Reward",
-					"nl": "A King's Reward",
-					"fi": "A King's Reward",
-					"ja": "A King's Reward"},
+					"en": "A King´s Reward",
+					"es": "A King´s Reward",
+					"de": "A King´s Reward",
+					"fr": "A King´s Reward",
+					"it": "A King´s Reward",
+					"nl": "A King´s Reward",
+					"fi": "A King´s Reward",
+					"ja": "A King´s Reward"},
 				"type": "Resource",
 				"alignment": "Hero",
 				"attributes": {
@@ -148,7 +148,7 @@
 					{"en": "Ghân-buri-Ghân specific. Playable on Ghân-buri-Ghân as your Wose-Chief on Drûadan Forest if you have at least: 2 Fogu, 4 factions, and 6 characters in play. Other players may not use the Wose-haven [H] for Drûadan Forest. A company moving to or from Drûadan Forest is not considered to be moving through Anórien (including one less Free-hold [f] in their site path). Cannot be duplicated."},
 				"quote": 
 					{"en": "“In reward, after the War of the Ring, Aragorn granted the Forest to the Drúedain who lived there.” —LotRIII"},
-				"image": "A King's Reward.jpg",
+				"image": "A King´s Reward.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -206,8 +206,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-002": {
-				"id": "LT-002",
+			"LT-2": {
+				"id": "LT-2",
 				"set": "LT",
 				"name": {
 					"en": "Abdahkil",
@@ -240,8 +240,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-003": {
-				"id": "LT-003",
+			"LT-3": {
+				"id": "LT-3",
 				"set": "LT",
 				"name": {
 					"en": "Aghan",
@@ -275,8 +275,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-004": {
-				"id": "LT-004",
+			"LT-4": {
+				"id": "LT-4",
 				"set": "LT",
 				"name": {
 					"en": "Ambush",
@@ -301,8 +301,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-005": {
-				"id": "LT-005",
+			"LT-5": {
+				"id": "LT-5",
 				"set": "LT",
 				"name": {
 					"en": "Ancestral Pathways",
@@ -327,8 +327,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-006": {
-				"id": "LT-006",
+			"LT-6": {
+				"id": "LT-6",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Deep-Hold",
@@ -349,7 +349,7 @@
 					"auto_attack": "Undead (1st attack) — 4 strikes with 7 prowess; Undead (2nd attack) — 3 strikes with 8 prowess; Undead (3rd attack) — 2 strikes with 10 prowess. Each character wounded must make a corruption check modified by -2.",
 					"site_type": "{R}",
 					"playable": "Information, Items (minor, major, greater, gold ring)",
-					"special": "Hidden Site. A company may not travel to this site unless it contains a ranger.Any Undead and Spider creatures may be keyed to this site. This site is never discarded or returned to its location deck.",
+					"special": "Hidden Site. A company may not travel to this site unless it contains a ranger. Any Undead and Spider creatures may be keyed to this site. This site is never discarded or returned to its location deck.",
 					"drawOpponent": "3",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -361,8 +361,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-007": {
-				"id": "LT-007",
+			"LT-7": {
+				"id": "LT-7",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Darkness",
@@ -390,8 +390,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-008": {
-				"id": "LT-008",
+			"LT-8": {
+				"id": "LT-8",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Harmony",
@@ -419,8 +419,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-009": {
-				"id": "LT-009",
+			"LT-9": {
+				"id": "LT-9",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Protection",
@@ -448,8 +448,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-010": {
-				"id": "LT-010",
+			"LT-10": {
+				"id": "LT-10",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Resistance",
@@ -477,8 +477,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-011": {
-				"id": "LT-011",
+			"LT-11": {
+				"id": "LT-11",
 				"set": "LT",
 				"name": {
 					"en": "Animated Statue",
@@ -493,7 +493,7 @@
 				"alignment": "Hero",
 				"attributes": {
 					"corruption": "1",
-					"subtype": "Permanent Event",
+					"subtype": "Permanent-event",
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
@@ -504,8 +504,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-012": {
-				"id": "LT-012",
+			"LT-12": {
+				"id": "LT-12",
 				"set": "LT",
 				"name": {
 					"en": "Anticipate",
@@ -530,8 +530,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-013": {
-				"id": "LT-013",
+			"LT-13": {
+				"id": "LT-13",
 				"set": "LT",
 				"name": {
 					"en": "Ari-Ghân",
@@ -565,8 +565,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-014": {
-				"id": "LT-014",
+			"LT-14": {
+				"id": "LT-14",
 				"set": "LT",
 				"name": {
 					"en": "Ari-Lam",
@@ -600,8 +600,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-015": {
-				"id": "LT-015",
+			"LT-15": {
+				"id": "LT-15",
 				"set": "LT",
 				"name": {
 					"en": "Barach the Forester",
@@ -635,8 +635,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-016": {
-				"id": "LT-016",
+			"LT-16": {
+				"id": "LT-16",
 				"set": "LT",
 				"name": {
 					"en": "Beffraen",
@@ -664,8 +664,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-017": {
-				"id": "LT-017",
+			"LT-17": {
+				"id": "LT-17",
 				"set": "LT",
 				"name": {
 					"en": "Black Alder",
@@ -695,8 +695,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-018": {
-				"id": "LT-018",
+			"LT-18": {
+				"id": "LT-18",
 				"set": "LT",
 				"name": {
 					"en": "Black Clover",
@@ -721,8 +721,8 @@
 				"rarity": "CA",
 				"artist": "César Germánico"
 			},
-			"LT-019": {
-				"id": "LT-019",
+			"LT-19": {
+				"id": "LT-19",
 				"set": "LT",
 				"name": {
 					"en": "Blogath",
@@ -752,8 +752,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-020": {
-				"id": "LT-020",
+			"LT-20": {
+				"id": "LT-20",
 				"set": "LT",
 				"name": {
 					"en": "Bowels of Gobha",
@@ -779,8 +779,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-021": {
-				"id": "LT-021",
+			"LT-21": {
+				"id": "LT-21",
 				"set": "LT",
 				"name": {
 					"en": "Cadno op Gobha",
@@ -813,8 +813,8 @@
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-023": {
-				"id": "LT-023",
+			"LT-23": {
+				"id": "LT-23",
 				"set": "LT",
 				"name": {
 					"en": "Caichan Puchel",
@@ -847,8 +847,8 @@
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-024": {
-				"id": "LT-024",
+			"LT-24": {
+				"id": "LT-24",
 				"set": "LT",
 				"name": {
 					"en": "Carn Gasadaer",
@@ -881,8 +881,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-025": {
-				"id": "LT-025",
+			"LT-25": {
+				"id": "LT-25",
 				"set": "LT",
 				"name": {
 					"en": "Carved Marks",
@@ -907,8 +907,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-027": {
-				"id": "LT-027",
+			"LT-27": {
+				"id": "LT-27",
 				"set": "LT",
 				"name": {
 					"en": "Claim it Back!",
@@ -935,8 +935,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-028": {
-				"id": "LT-028",
+			"LT-28": {
+				"id": "LT-28",
 				"set": "LT",
 				"name": {
 					"en": "Clan Drughân",
@@ -969,8 +969,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-029": {
-				"id": "LT-029",
+			"LT-29": {
+				"id": "LT-29",
 				"set": "LT",
 				"name": {
 					"en": "Clan Warrior",
@@ -1002,8 +1002,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-031": {
-				"id": "LT-031",
+			"LT-31": {
+				"id": "LT-31",
 				"set": "LT",
 				"name": {
 					"en": "Closely Vigilant",
@@ -1029,8 +1029,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-032": {
-				"id": "LT-032",
+			"LT-32": {
+				"id": "LT-32",
 				"set": "LT",
 				"name": {
 					"en": "Colbran, Pûkel Giant",
@@ -1057,8 +1057,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-033": {
-				"id": "LT-033",
+			"LT-33": {
+				"id": "LT-33",
 				"set": "LT",
 				"name": {
 					"en": "Colored Marks",
@@ -1083,8 +1083,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-038": {
-				"id": "LT-038",
+			"LT-38": {
+				"id": "LT-38",
 				"set": "LT",
 				"name": {
 					"en": "Daen Bindings",
@@ -1108,10 +1108,10 @@
 					{"en": ""},
 				"image": "Daen Bindings.jpg",
 				"rarity": "CA",
-				"artist": "C.R. and Stable Diffusion"
+				"artist": "Stable Diffusion"
 			},
-			"LT-039": {
-				"id": "LT-039",
+			"LT-39": {
+				"id": "LT-39",
 				"set": "LT",
 				"name": {
 					"en": "Daen clans",
@@ -1139,8 +1139,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-040": {
-				"id": "LT-040",
+			"LT-40": {
+				"id": "LT-40",
 				"set": "LT",
 				"name": {
 					"en": "Daintree Staff",
@@ -1169,8 +1169,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-041": {
-				"id": "LT-041",
+			"LT-41": {
+				"id": "LT-41",
 				"set": "LT",
 				"name": {
 					"en": "Dark Woses",
@@ -1197,8 +1197,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-042": {
-				"id": "LT-042",
+			"LT-42": {
+				"id": "LT-42",
 				"set": "LT",
 				"name": {
 					"en": "Deadmen´s Dike",
@@ -1230,8 +1230,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-043": {
-				"id": "LT-043",
+			"LT-43": {
+				"id": "LT-43",
 				"set": "LT",
 				"name": {
 					"en": "Derndingle",
@@ -1264,8 +1264,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-044": {
-				"id": "LT-044",
+			"LT-44": {
+				"id": "LT-44",
 				"set": "LT",
 				"name": {
 					"en": "Diverse Shape Aberration Awaken",
@@ -1293,8 +1293,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-045": {
-				"id": "LT-045",
+			"LT-45": {
+				"id": "LT-45",
 				"set": "LT",
 				"name": {
 					"en": "Dragon Bone Coloring Stone",
@@ -1326,8 +1326,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-046": {
-				"id": "LT-046",
+			"LT-46": {
+				"id": "LT-46",
 				"set": "LT",
 				"name": {
 					"en": "Dragon-Tooth Ceremonial Knife",
@@ -1358,8 +1358,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-047": {
-				"id": "LT-047",
+			"LT-47": {
+				"id": "LT-47",
 				"set": "LT",
 				"name": {
 					"en": "Drought from the Wellinghall",
@@ -1388,8 +1388,8 @@
 				"rarity": "CA",
 				"artist": "Art By Hildebrandt"
 			},
-			"LT-049": {
-				"id": "LT-049",
+			"LT-49": {
+				"id": "LT-49",
 				"set": "LT",
 				"name": {
 					"en": "Drû Folk",
@@ -1417,8 +1417,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-050": {
-				"id": "LT-050",
+			"LT-50": {
+				"id": "LT-50",
 				"set": "LT",
 				"name": {
 					"en": "Drû-buri-Drû",
@@ -1442,15 +1442,15 @@
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
-					{"en": "Unique. Can use pûkel-magic. May be tapped to cancel an attack keyed to w or ww against his company. +2 to all rolls required for his company to move to an adjacent site in the Under-deeps and opponent draws one less card. +1 prowess and +1 body when moving to or from an Under-Deeps site or moving through a Wilderness [w] +4 to his direct influence against Woses and Wose factions.“Drû-buri-Drû has great powers and is, without a doubt, the best ranger in the region” —Woses of the Black Wood"},
+					{"en": "Unique. Can use pûkel-magic. May be tapped to cancel an attack keyed to w or ww against his company. +2 to all rolls required for his company to move to an adjacent site in the Under-deeps and opponent draws one less card. +1 prowess and +1 body when moving to or from an Under-Deeps site or moving through a Wilderness [w] +4 to his direct influence against Woses and Wose factions.“without a doubt, the best ranger in the region” —Woses of the Black Wood"},
 				"quote": 
 					{"en": ""},
 				"image": "Drû-buri-Drû.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-051": {
-				"id": "LT-051",
+			"LT-51": {
+				"id": "LT-51",
 				"set": "LT",
 				"name": {
 					"en": "Dru-Shaman",
@@ -1483,8 +1483,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-053": {
-				"id": "LT-053",
+			"LT-53": {
+				"id": "LT-53",
 				"set": "LT",
 				"name": {
 					"en": "Drûadan Forest",
@@ -1513,8 +1513,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-054": {
-				"id": "LT-054",
+			"LT-54": {
+				"id": "LT-54",
 				"set": "LT",
 				"name": {
 					"en": "Drûghan Sea Sanctuary",
@@ -1535,7 +1535,7 @@
 					"auto_attack": "Drake — 2 strikes with 9 prowess",
 					"site_type": "{R}",
 					"playable": "Items (minor, major, greater)",
-					"special": "Hidden site.A company may not travel to this site unless it taps two rangers or contains a single Wose ranger.",
+					"special": "Hidden site. A company may not travel to this site unless it taps two rangers or contains a single Wose ranger.",
 					"drawOpponent": "2",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -1547,8 +1547,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-055": {
-				"id": "LT-055",
+			"LT-55": {
+				"id": "LT-55",
 				"set": "LT",
 				"name": {
 					"en": "Drûghan-Amulet",
@@ -1580,8 +1580,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-056": {
-				"id": "LT-056",
+			"LT-56": {
+				"id": "LT-56",
 				"set": "LT",
 				"name": {
 					"en": "Dunland Hill-Chief",
@@ -1615,8 +1615,8 @@
 				"rarity": "CA",
 				"artist": "Angus McBride"
 			},
-			"LT-057": {
-				"id": "LT-057",
+			"LT-57": {
+				"id": "LT-57",
 				"set": "LT",
 				"name": {
 					"en": "Dunland Hunter",
@@ -1650,8 +1650,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-058": {
-				"id": "LT-058",
+			"LT-58": {
+				"id": "LT-58",
 				"set": "LT",
 				"name": {
 					"en": "Dunland Warlord",
@@ -1684,8 +1684,8 @@
 				"rarity": "CA",
 				"artist": "Angus McBride"
 			},
-			"LT-059": {
-				"id": "LT-059",
+			"LT-59": {
+				"id": "LT-59",
 				"set": "LT",
 				"name": {
 					"en": "Dunlending Outcast",
@@ -1717,8 +1717,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-060": {
-				"id": "LT-060",
+			"LT-60": {
+				"id": "LT-60",
 				"set": "LT",
 				"name": {
 					"en": "Duranil",
@@ -1748,8 +1748,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-062": {
-				"id": "LT-062",
+			"LT-62": {
+				"id": "LT-62",
 				"set": "LT",
 				"name": {
 					"en": "Eldebeth Whispershadow",
@@ -1781,8 +1781,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-063": {
-				"id": "LT-063",
+			"LT-63": {
+				"id": "LT-63",
 				"set": "LT",
 				"name": {
 					"en": "Elmlimb",
@@ -1808,13 +1808,13 @@
 				"text": 
 					{"en": "Unique. Ent-wife. Playable at any Hidden site in a Wilderness [w]. May not be attacked by automatic attacks or hazards keyed to her site. Tap Elmlimb to untap another Ent ally in the same company as Elmlimb."},
 				"quote": 
-					{"en": "“At twelve feet of height, she was smallish, but her elegant arched branches long ago sent every Ent in the wood into a fit of swooning.” LoMEVolIII"},
+					{"en": "“At twelve feet of height, she was smallish, but her elegant arched branches long ago sent every Ent in the wood into a fit of swooning.” —LoMEVolIII"},
 				"image": "Elmlimb.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-065": {
-				"id": "LT-065",
+			"LT-65": {
+				"id": "LT-65",
 				"set": "LT",
 				"name": {
 					"en": "Ent Oil",
@@ -1840,8 +1840,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-066": {
-				"id": "LT-066",
+			"LT-66": {
+				"id": "LT-66",
 				"set": "LT",
 				"name": {
 					"en": "Ered Tarthonion",
@@ -1874,8 +1874,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-067": {
-				"id": "LT-067",
+			"LT-67": {
+				"id": "LT-67",
 				"set": "LT",
 				"name": {
 					"en": "Eryn Vorn",
@@ -1904,8 +1904,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-068": {
-				"id": "LT-068",
+			"LT-68": {
+				"id": "LT-68",
 				"set": "LT",
 				"name": {
 					"en": "Exploring Party",
@@ -1920,7 +1920,7 @@
 				"alignment": "Hero",
 				"attributes": {
 					"corruption": "1",
-					"subtype": "Permanent Event",
+					"subtype": "Permanent-event",
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
@@ -1931,8 +1931,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-070": {
-				"id": "LT-070",
+			"LT-70": {
+				"id": "LT-70",
 				"set": "LT",
 				"name": {
 					"en": "Fine Craftsmanship",
@@ -1957,8 +1957,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-071": {
-				"id": "LT-071",
+			"LT-71": {
+				"id": "LT-71",
 				"set": "LT",
 				"name": {
 					"en": "Fit for this Terrain",
@@ -1983,8 +1983,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-072": {
-				"id": "LT-072",
+			"LT-72": {
+				"id": "LT-72",
 				"set": "LT",
 				"name": {
 					"en": "Fogu",
@@ -2009,8 +2009,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-074": {
-				"id": "LT-074",
+			"LT-74": {
+				"id": "LT-74",
 				"set": "LT",
 				"name": {
 					"en": "Follow Them!",
@@ -2035,8 +2035,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-075": {
-				"id": "LT-075",
+			"LT-75": {
+				"id": "LT-75",
 				"set": "LT",
 				"name": {
 					"en": "Foreign Tattooed Animist",
@@ -2065,8 +2065,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-076": {
-				"id": "LT-076",
+			"LT-76": {
+				"id": "LT-76",
 				"set": "LT",
 				"name": {
 					"en": "Forest Gloom",
@@ -2091,8 +2091,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-077": {
-				"id": "LT-077",
+			"LT-77": {
+				"id": "LT-77",
 				"set": "LT",
 				"name": {
 					"en": "Foul Aberration Awaken",
@@ -2120,8 +2120,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-078": {
-				"id": "LT-078",
+			"LT-78": {
+				"id": "LT-78",
 				"set": "LT",
 				"name": {
 					"en": "Furious Stone-Heart",
@@ -2154,8 +2154,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-079": {
-				"id": "LT-079",
+			"LT-79": {
+				"id": "LT-79",
 				"set": "LT",
 				"name": {
 					"en": "Gathering Hosts",
@@ -2184,8 +2184,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-080": {
-				"id": "LT-080",
+			"LT-80": {
+				"id": "LT-80",
 				"set": "LT",
 				"name": {
 					"en": "Ghân-buri-Ghân",
@@ -2216,8 +2216,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-081": {
-				"id": "LT-081",
+			"LT-81": {
+				"id": "LT-81",
 				"set": "LT",
 				"name": {
 					"en": "Ghîm",
@@ -2251,8 +2251,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-082": {
-				"id": "LT-082",
+			"LT-82": {
+				"id": "LT-82",
 				"set": "LT",
 				"name": {
 					"en": "Great Greenwood",
@@ -2279,8 +2279,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-083": {
-				"id": "LT-083",
+			"LT-83": {
+				"id": "LT-83",
 				"set": "LT",
 				"name": {
 					"en": "Great Healing Foot",
@@ -2313,8 +2313,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-084": {
-				"id": "LT-084",
+			"LT-84": {
+				"id": "LT-84",
 				"set": "LT",
 				"name": {
 					"en": "Great Mother",
@@ -2340,15 +2340,15 @@
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
-					{"en": "Unique. Lost Tribes Specific. Pûkel Totem.You may play one additional character per turn, not counting against the character play limit. Tap to search your sideboard for a character, Wose or Men, and place it in your hand or from your discard pile to your play deck. Shuffle your deck afterwards. “Chailûza, so they called her, a deity for the tribes of the distant south lands. Maybe the first Mam-ugu-Mam, protector of all childs.” —The Lost Tribes"},
+					{"en": "Unique. Lost Tribes Specific. Pûkel Totem.You may play one additional character per turn, not counting against the character play limit. Tap to search your sideboard for a character, Wose or Men, and place it in your hand or from your discard pile to your play deck. Shuffle your deck afterwards. “Chailûza, so they called her, a deity for the tribes of the distant south lands.” —The Lost Tribes"},
 				"quote": 
 					{"en": ""},
 				"image": "Great Mother.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-086": {
-				"id": "LT-086",
+			"LT-86": {
+				"id": "LT-86",
 				"set": "LT",
 				"name": {
 					"en": "Heath-Wooden Pipe",
@@ -2374,8 +2374,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-087": {
-				"id": "LT-087",
+			"LT-87": {
+				"id": "LT-87",
 				"set": "LT",
 				"name": {
 					"en": "Hidden Forest to Foreign Eyes",
@@ -2408,8 +2408,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-088": {
-				"id": "LT-088",
+			"LT-88": {
+				"id": "LT-88",
 				"set": "LT",
 				"name": {
 					"en": "Hidden Ruins",
@@ -2442,8 +2442,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-089": {
-				"id": "LT-089",
+			"LT-89": {
+				"id": "LT-89",
 				"set": "LT",
 				"name": {
 					"en": "High Glens",
@@ -2476,8 +2476,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-091": {
-				"id": "LT-091",
+			"LT-91": {
+				"id": "LT-91",
 				"set": "LT",
 				"name": {
 					"en": "Hullob",
@@ -2510,8 +2510,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-092": {
-				"id": "LT-092",
+			"LT-92": {
+				"id": "LT-92",
 				"set": "LT",
 				"name": {
 					"en": "Hurndaen",
@@ -2541,8 +2541,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-093": {
-				"id": "LT-093",
+			"LT-93": {
+				"id": "LT-93",
 				"set": "LT",
 				"name": {
 					"en": "Hurnspire Tomb Guardian",
@@ -2574,8 +2574,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-095": {
-				"id": "LT-095",
+			"LT-95": {
+				"id": "LT-95",
 				"set": "LT",
 				"name": {
 					"en": "Insatiable Aberration Awaken",
@@ -2603,8 +2603,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-096": {
-				"id": "LT-096",
+			"LT-96": {
+				"id": "LT-96",
 				"set": "LT",
 				"name": {
 					"en": "Ivory Coloring Stone",
@@ -2629,13 +2629,13 @@
 				"text": 
 					{"en": "Unique. Coloring Stone. Artifact. Playable at any [B] in Harondor, Khand or Horseplains. +4 to direct influence (+1 in addition against Men factions). Pûkel-magic-using character only: Tap to add +2 to target’s character direct influence in the same company as the bearer until end of turn. Bearer makes a corruption check."},
 				"quote": 
-					{"en": "“unique both in pattern and color.” Riders of Rohan"},
+					{"en": "“unique both in pattern and color.” —Riders of Rohan"},
 				"image": "Ivory Coloring Stone.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-097": {
-				"id": "LT-097",
+			"LT-97": {
+				"id": "LT-97",
 				"set": "LT",
 				"name": {
 					"en": "Jerls",
@@ -2662,18 +2662,18 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-098": {
-				"id": "LT-098",
+			"LT-98": {
+				"id": "LT-98",
 				"set": "LT",
 				"name": {
-					"en": "Juju's Bubble",
-					"es": "Juju's Bubble",
-					"de": "Juju's Bubble",
-					"fr": "Juju's Bubble",
-					"it": "Juju's Bubble",
-					"nl": "Juju's Bubble",
-					"fi": "Juju's Bubble",
-					"ja": "Juju's Bubble"},
+					"en": "Juju´s Bubble",
+					"es": "Juju´s Bubble",
+					"de": "Juju´s Bubble",
+					"fr": "Juju´s Bubble",
+					"it": "Juju´s Bubble",
+					"nl": "Juju´s Bubble",
+					"fi": "Juju´s Bubble",
+					"ja": "Juju´s Bubble"},
 				"type": "Resource",
 				"alignment": "Hero",
 				"attributes": {
@@ -2688,7 +2688,7 @@
 					{"en": "Unique. Artifact. Tap to choose and discard one card from your hand. Draw one card from your play deck (two if bearer can use spirit-magic or pûkel-magic). Bearer makes a corruption check."},
 				"quote": 
 					{"en": "“Believed to be crafted by Juju himself it grants visions of-coming events to those who dare to use it.” —Tribal Lore"},
-				"image": "Juju's Bubble.jpg",
+				"image": "Juju´s Bubble.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2730,14 +2730,14 @@
 				"id": "LT-102",
 				"set": "LT",
 				"name": {
-					"en": "Klorin's Amulet",
-					"es": "Klorin's Amulet",
-					"de": "Klorin's Amulet",
-					"fr": "Klorin's Amulet",
-					"it": "Klorin's Amulet",
-					"nl": "Klorin's Amulet",
-					"fi": "Klorin's Amulet",
-					"ja": "Klorin's Amulet"},
+					"en": "Klorin´s Amulet",
+					"es": "Klorin´s Amulet",
+					"de": "Klorin´s Amulet",
+					"fr": "Klorin´s Amulet",
+					"it": "Klorin´s Amulet",
+					"nl": "Klorin´s Amulet",
+					"fi": "Klorin´s Amulet",
+					"ja": "Klorin´s Amulet"},
 				"type": "Resource",
 				"alignment": "Hero",
 				"attributes": {
@@ -2752,7 +2752,7 @@
 					{"en": "Unique. Artifact. Bearer does not receive any penalty when not tapping against a strike. Additionally, if bearer is a pûkel-magic-using character: Cancels a hazard creature’s ability to choose defending characters when facing a strike. Bearer’s company chooses defending characters in CvCC."},
 				"quote": 
 					{"en": "“..he added a charm, an amulet, made from the loam” —Woses of the Black Wood"},
-				"image": "Klorin's Amulet.jpg",
+				"image": "Klorin´s Amulet.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2881,14 +2881,14 @@
 				"id": "LT-108",
 				"set": "LT",
 				"name": {
-					"en": "Lord Bel'zordin",
-					"es": "Lord Bel'zordin",
-					"de": "Lord Bel'zordin",
-					"fr": "Lord Bel'zordin",
-					"it": "Lord Bel'zordin",
-					"nl": "Lord Bel'zordin",
-					"fi": "Lord Bel'zordin",
-					"ja": "Lord Bel'zordin"},
+					"en": "Lord Bel´zordin",
+					"es": "Lord Bel´zordin",
+					"de": "Lord Bel´zordin",
+					"fr": "Lord Bel´zordin",
+					"it": "Lord Bel´zordin",
+					"nl": "Lord Bel´zordin",
+					"fi": "Lord Bel´zordin",
+					"ja": "Lord Bel´zordin"},
 				"type": "Hazard",
 				"alignment": "Neutral",
 				"attributes": {
@@ -2901,10 +2901,10 @@
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
-					{"en": "Unique. Undead. Haunted. Haudh-in-Gwanûr has an additional automatic-attack: Undead—2 strikes at 13/7. In addition, as a permanent-event, it will remain in play until tapped during the opponent’s movement/hazard phase (tapping counts against the hazard limit). When tapped, Lord Bel’zordin becomes a short-event; target a faction already in play. The faction’s player makes a roll (or draws a #), the faction is discarded if the result plus his unused general influence is less than 7."},
+					{"en": "Unique. Undead. Haunted. Haudh-in-Gwanûr has an additional automatic-attack: Undead—2 strikes at 13/7. In addition, as a permanent-event, it will remain in play until tapped during the opponent’s movement/hazard phase (tapping counts against the hazard limit). When tapped, Lord Bel´zordin becomes a short-event; target a faction already in play. The faction’s player makes a roll (or draws a #), the faction is discarded if the result plus his unused general influence is less than 7."},
 				"quote": 
 					{"en": ""},
-				"image": "Lord Bel'zordin.jpg",
+				"image": "Lord Bel´zordin.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -2938,7 +2938,7 @@
 				"text": 
 					{"en": "Unique. Lost Tribes Specific.Can use pûkel-magic. +2 to his direct influence against Woses or Wose factions. Untap a Wose character in his company during your organization phase."},
 				"quote": 
-					{"en": "“The tattoos that covered his body, a distinguishing mark of the Sage class”.—MERP: Raiders of Cardolan"},
+					{"en": "“The tattoos that covered his body, a distinguishing mark of the Sage class.” —Raiders of Cardolan"},
 				"image": "Maelcûm the Gora of Nansret.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
@@ -4041,7 +4041,7 @@
 					"auto_attack": "Drake (1st attack) — 2 strikes with 12 prowess; (2nd attack) Opponent may play as an automatic-attack one hazard creature from his hand normally keyed to Coastal Sea [c]]",
 					"site_type": "{R}",
 					"playable": "Information, Items (minor, major, greater)",
-					"special": "Hidden siteA company may not travel to this site unless it contains a ranger. Creatures keyed to Coastal Seas [[c]] may be keyed to this site.",
+					"special": "Hidden site. A company may not travel to this site unless it contains a ranger. Creatures keyed to Coastal Seas [[c]] may be keyed to this site.",
 					"drawOpponent": "3",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -4215,7 +4215,7 @@
 				"attributes": {
 					"unique": true,
 					"corruption": "+1",
-					"skills": "Scout/Ranger",
+					"skills": "Scout",
 					"marshallingPoints": "1",
 					"marshallingPointsType": "character",
 					"body": "9",
@@ -4509,8 +4509,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-022": {
-				"id": "LT-022",
+			"LT-22": {
+				"id": "LT-22",
 				"set": "LT",
 				"name": {
 					"en": "The Caerdh Wood",
@@ -4543,8 +4543,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-026": {
-				"id": "LT-026",
+			"LT-26": {
+				"id": "LT-26",
 				"set": "LT",
 				"name": {
 					"en": "The Chief´s Path",
@@ -4571,8 +4571,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-030": {
-				"id": "LT-030",
+			"LT-30": {
+				"id": "LT-30",
 				"set": "LT",
 				"name": {
 					"en": "The Cleddif",
@@ -4604,8 +4604,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-034": {
-				"id": "LT-034",
+			"LT-34": {
+				"id": "LT-34",
 				"set": "LT",
 				"name": {
 					"en": "The Coloring Stone",
@@ -4635,8 +4635,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-035": {
-				"id": "LT-035",
+			"LT-35": {
+				"id": "LT-35",
 				"set": "LT",
 				"name": {
 					"en": "The Curse of Maellin Lothedel",
@@ -4661,13 +4661,13 @@
 				"text": 
 					{"en": "Unique. Undead. Haunted. Carn Gassadaer has an additional automatic-attack: Undead—1 strike at 12/8, attacker chooses defending characters. In addition, Haunted permanents cannot be discarded by resources (i.e. Marvels Told) while this card is in play."},
 				"quote": 
-					{"en": "“...a child waking up in the middle of the night, a sad voice begging to be saved from burning....a nightmare whispering night tales of horror” —Woses of the Black Wood"},
+					{"en": "“... a sad voice begging to be saved from burning....a nightmare whispering night tales of horror” —Woses of the Black Wood"},
 				"image": "The Curse of Maellin Lothedel.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-037": {
-				"id": "LT-037",
+			"LT-37": {
+				"id": "LT-37",
 				"set": "LT",
 				"name": {
 					"en": "The Daedhel",
@@ -4697,8 +4697,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-048": {
-				"id": "LT-048",
+			"LT-48": {
+				"id": "LT-48",
 				"set": "LT",
 				"name": {
 					"en": "The Drowning-deeps",
@@ -4731,8 +4731,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-052": {
-				"id": "LT-052",
+			"LT-52": {
+				"id": "LT-52",
 				"set": "LT",
 				"name": {
 					"en": "The Drúadain",
@@ -4760,8 +4760,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-061": {
-				"id": "LT-061",
+			"LT-61": {
+				"id": "LT-61",
 				"set": "LT",
 				"name": {
 					"en": "The Dweller of Fornost",
@@ -4791,8 +4791,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-064": {
-				"id": "LT-064",
+			"LT-64": {
+				"id": "LT-64",
 				"set": "LT",
 				"name": {
 					"en": "The Enemy of my Enemy",
@@ -4818,8 +4818,8 @@
 				"rarity": "CA",
 				"artist": "Hildebrandt"
 			},
-			"LT-069": {
-				"id": "LT-069",
+			"LT-69": {
+				"id": "LT-69",
 				"set": "LT",
 				"name": {
 					"en": "The Faithful Stone",
@@ -4849,8 +4849,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-085": {
-				"id": "LT-085",
+			"LT-85": {
+				"id": "LT-85",
 				"set": "LT",
 				"name": {
 					"en": "The Haunting of Bor Leath",
@@ -4879,8 +4879,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-094": {
-				"id": "LT-094",
+			"LT-94": {
+				"id": "LT-94",
 				"set": "LT",
 				"name": {
 					"en": "The Influence of Father Darkness",
@@ -4907,8 +4907,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-099": {
-				"id": "LT-099",
+			"LT-99": {
+				"id": "LT-99",
 				"set": "LT",
 				"name": {
 					"en": "The Keeper of Colors",
@@ -5022,7 +5022,7 @@
 					"auto_attack": "Trolls — 1x10",
 					"site_type": "{R}",
 					"playable": "Items (minor, major)",
-					"special": "Hidden site.A company may not travel to this site unless it contains a Wose ranger.",
+					"special": "Hidden site. A company may not travel to this site unless it contains a Wose ranger.",
 					"drawOpponent": "2",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -5856,7 +5856,7 @@
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
-					{"en": "Artifact. Playable on a pûkel-magic-using character.If bearer is a pûkel-magic-using character:Tap to cancel an attack against the bearer´s company.Tap to modify by -2 the prowess and body of any hazard creature attack keyed to a [S], D, [s] or [d] . You choose targets of such an attack’s strikes (regardless of tapped status, wounded status, and the normal abilities of the attack). Bearer makes a corruption check."},
+					{"en": "Artifact. Playable on a pûkel-magic-using character.If bearer is a pûkel-magic-using character:Tap to cancel an attack against the bearer´s company.Tap to modify by -2 the prowess and body of any hazard creature attack keyed to a [S], D, [s] or [d] . You choose targets of such an attack´s strikes (regardless of tapped status, wounded status, and the normal abilities of the attack). Bearer makes a corruption check."},
 				"quote": 
 					{"en": ""},
 				"image": "Willow-Wood Wand.jpg",
@@ -6209,19 +6209,3 @@
 		"order": 99 
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
