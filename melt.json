@@ -3,55 +3,21 @@
 		"id": "LT",
 		"name": {
 			"en": "The Lost Tribes",
-			"es": "The Lost Tribes"},
+			"es": "Las Tribus Perdidas"},
 		"context": "Fanmade",
 		"extendsFromSetId": null,
 		"isReleased": false,
 		"imageBaseUrl": {
-			"en": "https://github.com/Machacator/meccg-the-lost-tribes/tree/main/images/",
-			"es": "REPOSITORIO_IMAGENES" },
+			"en": "https://github.com/Machacator/meccg-the-lost-tribes/tree/main/images_en/",
+			"es": "https://github.com/Machacator/meccg-the-lost-tribes/tree/main/images_es/" },
 		"cards": {
-			"LT-1": {
-				"id": "LT-1",
-				"set": "LT",
-				"name": {
-					"en": "Setmaenen -The Seven Stones",
-					"es": "Setmaenen -The Seven Stones",
-					"de": "Setmaenen -The Seven Stones",
-					"fr": "Setmaenen -The Seven Stones",
-					"it": "Setmaenen -The Seven Stones",
-					"nl": "Setmaenen -The Seven Stones",
-					"fi": "Setmaenen -The Seven Stones",
-					"ja": "Setmaenen -The Seven Stones"},
-				"type": "Site",
-				"alignment": "Hero",
-				"attributes": {
-					"unique": true,
-					"haven": "Edhellond / Minas Morgul",
-					"draw": "2",
-					"region": "Lamedon",
-					"auto_attack": "Pûkel-creature — 2 strikes with 9 prowess",
-					"site_type": "{R}",
-					"playable": "Information, Items (minor, major*) *—weapon items only.",
-					"special": "Hidden Site. A company may not travel to this site unless it taps a Wose ranger.Corruption checks made by Spirit-magic or Pûkel-magic characters in this site are modified with a +3.",
-					"drawOpponent": "2",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Rules Text"},
-				"quote": 
-					{"en": ""},
-				"image": "Setmaenen -The Seven Stones.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"LT-36": {
-				"id": "LT-36",
+			"LT-35": {
+				"id": "LT-35",
 				"set": "LT",
 				"name": {
 					"en": "A Cursed Power",
-					"es": "A Cursed Power",
-					"de": "A Cursed Power",
+					"es": "Un Poder Maldito",
+					"de": "Eine verfluchte Macht",
 					"fr": "A Cursed Power",
 					"it": "A Cursed Power",
 					"nl": "A Cursed Power",
@@ -72,13 +38,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-73": {
-				"id": "LT-73",
+			"LT-72": {
+				"id": "LT-72",
 				"set": "LT",
 				"name": {
 					"en": "A Folk´s Dream",
-					"es": "A Folk´s Dream",
-					"de": "A Folk´s Dream",
+					"es": "El Sueño de un Pueblo",
+					"de": "Name DE",
 					"fr": "A Folk´s Dream",
 					"it": "A Folk´s Dream",
 					"nl": "A Folk´s Dream",
@@ -98,13 +64,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-90": {
-				"id": "LT-90",
+			"LT-89": {
+				"id": "LT-89",
 				"set": "LT",
 				"name": {
 					"en": "A Hope and a Despair",
-					"es": "A Hope and a Despair",
-					"de": "A Hope and a Despair",
+					"es": "Una Esperanza y una Desesperación",
+					"de": "Name DE",
 					"fr": "A Hope and a Despair",
 					"it": "A Hope and a Despair",
 					"nl": "A Hope and a Despair",
@@ -124,13 +90,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-101": {
-				"id": "LT-101",
+			"LT-100": {
+				"id": "LT-100",
 				"set": "LT",
 				"name": {
 					"en": "A King´s Reward",
-					"es": "A King´s Reward",
-					"de": "A King´s Reward",
+					"es": "Una Recompensa Real",
+					"de": "Name DE",
 					"fr": "A King´s Reward",
 					"it": "A King´s Reward",
 					"nl": "A King´s Reward",
@@ -152,13 +118,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-134": {
-				"id": "LT-134",
+			"LT-133": {
+				"id": "LT-133",
 				"set": "LT",
 				"name": {
 					"en": "A Nice Place to Settle",
-					"es": "A Nice Place to Settle",
-					"de": "A Nice Place to Settle",
+					"es": "Un Buen Lugar para Asentarse",
+					"de": "Name DE",
 					"fr": "A Nice Place to Settle",
 					"it": "A Nice Place to Settle",
 					"nl": "A Nice Place to Settle",
@@ -185,8 +151,8 @@
 				"set": "LT",
 				"name": {
 					"en": "A Somewhat Hidden Spot",
-					"es": "A Somewhat Hidden Spot",
-					"de": "A Somewhat Hidden Spot",
+					"es": "Un Lugar un tanto Oculto",
+					"de": "Name DE",
 					"fr": "A Somewhat Hidden Spot",
 					"it": "A Somewhat Hidden Spot",
 					"nl": "A Somewhat Hidden Spot",
@@ -206,13 +172,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-2": {
-				"id": "LT-2",
+			"LT-1": {
+				"id": "LT-1",
 				"set": "LT",
 				"name": {
 					"en": "Abdahkil",
 					"es": "Abdahkil",
-					"de": "Abdahkil",
+					"de": "Name DE",
 					"fr": "Abdahkil",
 					"it": "Abdahkil",
 					"nl": "Abdahkil",
@@ -240,13 +206,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-3": {
-				"id": "LT-3",
+			"LT-2": {
+				"id": "LT-2",
 				"set": "LT",
 				"name": {
 					"en": "Aghan",
 					"es": "Aghan",
-					"de": "Aghan",
+					"de": "Name DE",
 					"fr": "Aghan",
 					"it": "Aghan",
 					"nl": "Aghan",
@@ -275,13 +241,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-4": {
-				"id": "LT-4",
+			"LT-3": {
+				"id": "LT-3",
 				"set": "LT",
 				"name": {
 					"en": "Ambush",
-					"es": "Ambush",
-					"de": "Ambush",
+					"es": "Tender una Emboscada",
+					"de": "Name DE",
 					"fr": "Ambush",
 					"it": "Ambush",
 					"nl": "Ambush",
@@ -301,13 +267,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-5": {
-				"id": "LT-5",
+			"LT-4": {
+				"id": "LT-4",
 				"set": "LT",
 				"name": {
 					"en": "Ancestral Pathways",
-					"es": "Ancestral Pathways",
-					"de": "Ancestral Pathways",
+					"es": "Caminos Ancestrales",
+					"de": "Name DE",
 					"fr": "Ancestral Pathways",
 					"it": "Ancestral Pathways",
 					"nl": "Ancestral Pathways",
@@ -327,47 +293,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-6": {
-				"id": "LT-6",
-				"set": "LT",
-				"name": {
-					"en": "Ancient Deep-Hold",
-					"es": "Ancient Deep-Hold",
-					"de": "Ancient Deep-Hold",
-					"fr": "Ancient Deep-Hold",
-					"it": "Ancient Deep-Hold",
-					"nl": "Ancient Deep-Hold",
-					"fi": "Ancient Deep-Hold",
-					"ja": "Ancient Deep-Hold"},
-				"type": "Site",
-				"alignment": "Hero",
-				"attributes": {
-					"unique": true,
-					"adjacent": "no surface site, one Under-deeps Ruins &amp; Lairs [R]] chosen by you when playing this card (8)",
-					"draw": "2",
-					"region": "Under-Deeps",
-					"auto_attack": "Undead (1st attack) — 4 strikes with 7 prowess; Undead (2nd attack) — 3 strikes with 8 prowess; Undead (3rd attack) — 2 strikes with 10 prowess. Each character wounded must make a corruption check modified by -2.",
-					"site_type": "{R}",
-					"playable": "Information, Items (minor, major, greater, gold ring)",
-					"special": "Hidden Site. A company may not travel to this site unless it contains a ranger. Any Undead and Spider creatures may be keyed to this site. This site is never discarded or returned to its location deck.",
-					"drawOpponent": "3",
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Rules Text"},
-				"quote": 
-					{"en": ""},
-				"image": "Ancient Deep-Hold.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"LT-7": {
-				"id": "LT-7",
+			"LT-5": {
+				"id": "LT-5",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Darkness",
-					"es": "Ancient Pûkel of Darkness",
-					"de": "Ancient Pûkel of Darkness",
+					"es": "Antiguo Pûkel de la Oscuridad",
+					"de": "Name DE",
 					"fr": "Ancient Pûkel of Darkness",
 					"it": "Ancient Pûkel of Darkness",
 					"nl": "Ancient Pûkel of Darkness",
@@ -390,13 +322,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-8": {
-				"id": "LT-8",
+			"LT-6": {
+				"id": "LT-6",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Harmony",
-					"es": "Ancient Pûkel of Harmony",
-					"de": "Ancient Pûkel of Harmony",
+					"es": "Antiguo Pûkel de la Armonía",
+					"de": "Name DE",
 					"fr": "Ancient Pûkel of Harmony",
 					"it": "Ancient Pûkel of Harmony",
 					"nl": "Ancient Pûkel of Harmony",
@@ -419,13 +351,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-9": {
-				"id": "LT-9",
+			"LT-7": {
+				"id": "LT-7",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Protection",
-					"es": "Ancient Pûkel of Protection",
-					"de": "Ancient Pûkel of Protection",
+					"es": "Antiguo Pûkel de Protección",
+					"de": "Name DE",
 					"fr": "Ancient Pûkel of Protection",
 					"it": "Ancient Pûkel of Protection",
 					"nl": "Ancient Pûkel of Protection",
@@ -448,13 +380,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-10": {
-				"id": "LT-10",
+			"LT-8": {
+				"id": "LT-8",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Resistance",
-					"es": "Ancient Pûkel of Resistance",
-					"de": "Ancient Pûkel of Resistance",
+					"es": "Antiguo Pûkel de Resistencia",
+					"de": "Name DE",
 					"fr": "Ancient Pûkel of Resistance",
 					"it": "Ancient Pûkel of Resistance",
 					"nl": "Ancient Pûkel of Resistance",
@@ -477,13 +409,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-11": {
-				"id": "LT-11",
+			"LT-9": {
+				"id": "LT-9",
 				"set": "LT",
 				"name": {
 					"en": "Animated Statue",
-					"es": "Animated Statue",
-					"de": "Animated Statue",
+					"es": "Estatua Animada",
+					"de": "Name DE",
 					"fr": "Animated Statue",
 					"it": "Animated Statue",
 					"nl": "Animated Statue",
@@ -504,13 +436,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-12": {
-				"id": "LT-12",
+			"LT-10": {
+				"id": "LT-10",
 				"set": "LT",
 				"name": {
 					"en": "Anticipate",
-					"es": "Anticipate",
-					"de": "Anticipate",
+					"es": "Anticipación",
+					"de": "Name DE",
 					"fr": "Anticipate",
 					"it": "Anticipate",
 					"nl": "Anticipate",
@@ -530,13 +462,47 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-13": {
-				"id": "LT-13",
+			"LT-11": {
+				"id": "LT-11",
+				"set": "LT",
+				"name": {
+					"en": "Antigua Fortaleza Subterránea",
+					"es": "Antigua Fortaleza Subterránea",
+					"de": "Name DE",
+					"fr": "Antigua Fortaleza Subterránea",
+					"it": "Antigua Fortaleza Subterránea",
+					"nl": "Antigua Fortaleza Subterránea",
+					"fi": "Antigua Fortaleza Subterránea",
+					"ja": "Antigua Fortaleza Subterránea"},
+				"type": "Site",
+				"alignment": "Hero",
+				"attributes": {
+					"unique": true,
+					"haven": "sin lugar de la superficie, unas Ruinas y Guaridas [[R]] de las Profundidades elegidas por ti cuando juegas esta carta (8)",
+					"draw": "2",
+					"region": "Lugar de las Profundidades",
+					"auto_attack": "2 golpes con Poder 10; Cada personaje herido debe realizar un chequeo de corrupción modificado en -2.",
+					"site_type": "{R}",
+					"playable": "Información, Objetos (Menores, Mayores, Grandes, Anillos de Oro)",
+					"special": "Lugar Oculto. Una compañía no puede mover a este lugar a menos que contenga un Montaraz. Cualquier criatura de Arañas o Muertos Vivientes puede ser situada en este lugar. Este lugar nunca es descartado ni regresa al mazo de localizaciones.",
+					"drawOpponent": "3",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "Antigua Fortaleza Subterránea.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-12": {
+				"id": "LT-12",
 				"set": "LT",
 				"name": {
 					"en": "Ari-Ghân",
 					"es": "Ari-Ghân",
-					"de": "Ari-Ghân",
+					"de": "Name DE",
 					"fr": "Ari-Ghân",
 					"it": "Ari-Ghân",
 					"nl": "Ari-Ghân",
@@ -565,13 +531,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-14": {
-				"id": "LT-14",
+			"LT-13": {
+				"id": "LT-13",
 				"set": "LT",
 				"name": {
 					"en": "Ari-Lam",
 					"es": "Ari-Lam",
-					"de": "Ari-Lam",
+					"de": "Name DE",
 					"fr": "Ari-Lam",
 					"it": "Ari-Lam",
 					"nl": "Ari-Lam",
@@ -600,13 +566,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-15": {
-				"id": "LT-15",
+			"LT-14": {
+				"id": "LT-14",
 				"set": "LT",
 				"name": {
 					"en": "Barach the Forester",
-					"es": "Barach the Forester",
-					"de": "Barach the Forester",
+					"es": "Barach el Guardabosques",
+					"de": "Name DE",
 					"fr": "Barach the Forester",
 					"it": "Barach the Forester",
 					"nl": "Barach the Forester",
@@ -635,13 +601,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-16": {
-				"id": "LT-16",
+			"LT-15": {
+				"id": "LT-15",
 				"set": "LT",
 				"name": {
 					"en": "Beffraen",
 					"es": "Beffraen",
-					"de": "Beffraen",
+					"de": "Name DE",
 					"fr": "Beffraen",
 					"it": "Beffraen",
 					"nl": "Beffraen",
@@ -652,7 +618,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "2",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Wose Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -664,13 +630,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-17": {
-				"id": "LT-17",
+			"LT-16": {
+				"id": "LT-16",
 				"set": "LT",
 				"name": {
 					"en": "Black Alder",
-					"es": "Black Alder",
-					"de": "Black Alder",
+					"es": "Aliso Negro",
+					"de": "Name DE",
 					"fr": "Black Alder",
 					"it": "Black Alder",
 					"nl": "Black Alder",
@@ -695,13 +661,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-18": {
-				"id": "LT-18",
+			"LT-17": {
+				"id": "LT-17",
 				"set": "LT",
 				"name": {
 					"en": "Black Clover",
-					"es": "Black Clover",
-					"de": "Black Clover",
+					"es": "Trébol Negro",
+					"de": "Name DE",
 					"fr": "Black Clover",
 					"it": "Black Clover",
 					"nl": "Black Clover",
@@ -721,13 +687,13 @@
 				"rarity": "CA",
 				"artist": "César Germánico"
 			},
-			"LT-19": {
-				"id": "LT-19",
+			"LT-18": {
+				"id": "LT-18",
 				"set": "LT",
 				"name": {
 					"en": "Blogath",
 					"es": "Blogath",
-					"de": "Blogath",
+					"de": "Name DE",
 					"fr": "Blogath",
 					"it": "Blogath",
 					"nl": "Blogath",
@@ -752,13 +718,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-20": {
-				"id": "LT-20",
+			"LT-19": {
+				"id": "LT-19",
 				"set": "LT",
 				"name": {
 					"en": "Bowels of Gobha",
-					"es": "Bowels of Gobha",
-					"de": "Bowels of Gobha",
+					"es": "Entrañas de Gobha",
+					"de": "Name DE",
 					"fr": "Bowels of Gobha",
 					"it": "Bowels of Gobha",
 					"nl": "Bowels of Gobha",
@@ -779,24 +745,25 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-21": {
-				"id": "LT-21",
+			"LT-20": {
+				"id": "LT-20",
 				"set": "LT",
 				"name": {
 					"en": "Cadno op Gobha",
 					"es": "Cadno op Gobha",
-					"de": "Cadno op Gobha",
+					"de": "Name DE",
 					"fr": "Cadno op Gobha",
 					"it": "Cadno op Gobha",
 					"nl": "Cadno op Gobha",
 					"fi": "Cadno op Gobha",
 					"ja": "Cadno op Gobha"},
-				"type": "Resource",
+				"type": "Character",
 				"alignment": "Hero",
 				"attributes": {
 					"unique": true,
+					"skills": "Scout",
 					"marshallingPoints": "2",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "character",
 					"body": "9",
 					"prowess": "1",
 					"homeSite": "Glittering Caves",
@@ -813,24 +780,25 @@
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-23": {
-				"id": "LT-23",
+			"LT-22": {
+				"id": "LT-22",
 				"set": "LT",
 				"name": {
 					"en": "Caichan Puchel",
 					"es": "Caichan Puchel",
-					"de": "Caichan Puchel",
+					"de": "Name DE",
 					"fr": "Caichan Puchel",
 					"it": "Caichan Puchel",
 					"nl": "Caichan Puchel",
 					"fi": "Caichan Puchel",
 					"ja": "Caichan Puchel"},
-				"type": "Resource",
+				"type": "Character",
 				"alignment": "Hero",
 				"attributes": {
 					"unique": true,
+					"skills": "Sage",
 					"marshallingPoints": "2",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "character",
 					"body": "10",
 					"prowess": "0",
 					"homeSite": "Tolfalas",
@@ -847,13 +815,13 @@
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-24": {
-				"id": "LT-24",
+			"LT-23": {
+				"id": "LT-23",
 				"set": "LT",
 				"name": {
 					"en": "Carn Gasadaer",
 					"es": "Carn Gasadaer",
-					"de": "Carn Gasadaer",
+					"de": "Name DE",
 					"fr": "Carn Gasadaer",
 					"it": "Carn Gasadaer",
 					"nl": "Carn Gasadaer",
@@ -881,13 +849,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-25": {
-				"id": "LT-25",
+			"LT-24": {
+				"id": "LT-24",
 				"set": "LT",
 				"name": {
 					"en": "Carved Marks",
-					"es": "Carved Marks",
-					"de": "Carved Marks",
+					"es": "Marcas Talladas",
+					"de": "Name DE",
 					"fr": "Carved Marks",
 					"it": "Carved Marks",
 					"nl": "Carved Marks",
@@ -907,13 +875,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-27": {
-				"id": "LT-27",
+			"LT-26": {
+				"id": "LT-26",
 				"set": "LT",
 				"name": {
 					"en": "Claim it Back!",
-					"es": "Claim it Back!",
-					"de": "Claim it Back!",
+					"es": "¡Reclamar de Vuelta! ",
+					"de": "Name DE",
 					"fr": "Claim it Back!",
 					"it": "Claim it Back!",
 					"nl": "Claim it Back!",
@@ -935,13 +903,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-28": {
-				"id": "LT-28",
+			"LT-27": {
+				"id": "LT-27",
 				"set": "LT",
 				"name": {
 					"en": "Clan Drughân",
-					"es": "Clan Drughân",
-					"de": "Clan Drughân",
+					"es": "Drughân del Clan",
+					"de": "Name DE",
 					"fr": "Clan Drughân",
 					"it": "Clan Drughân",
 					"nl": "Clan Drughân",
@@ -969,13 +937,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-29": {
-				"id": "LT-29",
+			"LT-28": {
+				"id": "LT-28",
 				"set": "LT",
 				"name": {
 					"en": "Clan Warrior",
-					"es": "Clan Warrior",
-					"de": "Clan Warrior",
+					"es": "Guerrero del Clan",
+					"de": "Name DE",
 					"fr": "Clan Warrior",
 					"it": "Clan Warrior",
 					"nl": "Clan Warrior",
@@ -1002,13 +970,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-31": {
-				"id": "LT-31",
+			"LT-30": {
+				"id": "LT-30",
 				"set": "LT",
 				"name": {
 					"en": "Closely Vigilant",
-					"es": "Closely Vigilant",
-					"de": "Closely Vigilant",
+					"es": "Vigilancia Cercana",
+					"de": "Name DE",
 					"fr": "Closely Vigilant",
 					"it": "Closely Vigilant",
 					"nl": "Closely Vigilant",
@@ -1029,13 +997,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-32": {
-				"id": "LT-32",
+			"LT-31": {
+				"id": "LT-31",
 				"set": "LT",
 				"name": {
 					"en": "Colbran, Pûkel Giant",
-					"es": "Colbran, Pûkel Giant",
-					"de": "Colbran, Pûkel Giant",
+					"es": "Colbran, Pûkel Gigante",
+					"de": "Name DE",
 					"fr": "Colbran, Pûkel Giant",
 					"it": "Colbran, Pûkel Giant",
 					"nl": "Colbran, Pûkel Giant",
@@ -1057,13 +1025,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-33": {
-				"id": "LT-33",
+			"LT-32": {
+				"id": "LT-32",
 				"set": "LT",
 				"name": {
 					"en": "Colored Marks",
-					"es": "Colored Marks",
-					"de": "Colored Marks",
+					"es": "Marcas Coloridas",
+					"de": "Name DE",
 					"fr": "Colored Marks",
 					"it": "Colored Marks",
 					"nl": "Colored Marks",
@@ -1083,13 +1051,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-38": {
-				"id": "LT-38",
+			"LT-37": {
+				"id": "LT-37",
 				"set": "LT",
 				"name": {
 					"en": "Daen Bindings",
-					"es": "Daen Bindings",
-					"de": "Daen Bindings",
+					"es": "Ataduras Daen",
+					"de": "Name DE",
 					"fr": "Daen Bindings",
 					"it": "Daen Bindings",
 					"nl": "Daen Bindings",
@@ -1110,13 +1078,13 @@
 				"rarity": "CA",
 				"artist": "Stable Diffusion"
 			},
-			"LT-39": {
-				"id": "LT-39",
+			"LT-38": {
+				"id": "LT-38",
 				"set": "LT",
 				"name": {
 					"en": "Daen clans",
-					"es": "Daen clans",
-					"de": "Daen clans",
+					"es": "Clanes Daen",
+					"de": "Name DE",
 					"fr": "Daen clans",
 					"it": "Daen clans",
 					"nl": "Daen clans",
@@ -1127,7 +1095,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "2",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Men Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -1139,13 +1107,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-40": {
-				"id": "LT-40",
+			"LT-39": {
+				"id": "LT-39",
 				"set": "LT",
 				"name": {
 					"en": "Daintree Staff",
-					"es": "Daintree Staff",
-					"de": "Daintree Staff",
+					"es": "Bastón Daintree",
+					"de": "Name DE",
 					"fr": "Daintree Staff",
 					"it": "Daintree Staff",
 					"nl": "Daintree Staff",
@@ -1169,13 +1137,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-41": {
-				"id": "LT-41",
+			"LT-40": {
+				"id": "LT-40",
 				"set": "LT",
 				"name": {
 					"en": "Dark Woses",
-					"es": "Dark Woses",
-					"de": "Dark Woses",
+					"es": "Woses Oscuros",
+					"de": "Name DE",
 					"fr": "Dark Woses",
 					"it": "Dark Woses",
 					"nl": "Dark Woses",
@@ -1185,7 +1153,7 @@
 				"alignment": "Hero",
 				"attributes": {
 					"marshallingPoints": "2",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Wose Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -1197,13 +1165,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-42": {
-				"id": "LT-42",
+			"LT-41": {
+				"id": "LT-41",
 				"set": "LT",
 				"name": {
 					"en": "Deadmen´s Dike",
 					"es": "Deadmen´s Dike",
-					"de": "Deadmen´s Dike",
+					"de": "Name DE",
 					"fr": "Deadmen´s Dike",
 					"it": "Deadmen´s Dike",
 					"nl": "Deadmen´s Dike",
@@ -1230,13 +1198,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-43": {
-				"id": "LT-43",
+			"LT-42": {
+				"id": "LT-42",
 				"set": "LT",
 				"name": {
 					"en": "Derndingle",
 					"es": "Derndingle",
-					"de": "Derndingle",
+					"de": "Name DE",
 					"fr": "Derndingle",
 					"it": "Derndingle",
 					"nl": "Derndingle",
@@ -1252,7 +1220,7 @@
 					"auto_attack": "Awakened plants —1 strikes with 9 prowess (detainment against hero companies, may be cancelled by tapping an Ent or Hobbit in the company)",
 					"site_type": "{F}",
 					"playable": "Information.",
-					"special": "Hidden Site. A company may not travel to this site unless it contains a ranger and an Ent ally. Ent allies may be played at this site as if it were Wellinghall.",
+					"special": "A company may not travel to this site unless it contains a ranger and an Ent ally. Ent allies may be played at this site as if it were Wellinghall.",
 					"drawOpponent": "1",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -1264,13 +1232,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-44": {
-				"id": "LT-44",
+			"LT-43": {
+				"id": "LT-43",
 				"set": "LT",
 				"name": {
 					"en": "Diverse Shape Aberration Awaken",
-					"es": "Diverse Shape Aberration Awaken",
-					"de": "Diverse Shape Aberration Awaken",
+					"es": "Aberración de Formas Diversas Despierta",
+					"de": "Name DE",
 					"fr": "Diverse Shape Aberration Awaken",
 					"it": "Diverse Shape Aberration Awaken",
 					"nl": "Diverse Shape Aberration Awaken",
@@ -1281,7 +1249,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "4",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Spawn Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -1293,13 +1261,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-45": {
-				"id": "LT-45",
+			"LT-44": {
+				"id": "LT-44",
 				"set": "LT",
 				"name": {
 					"en": "Dragon Bone Coloring Stone",
-					"es": "Dragon Bone Coloring Stone",
-					"de": "Dragon Bone Coloring Stone",
+					"es": "Piedra Colorante de Hueso de Dragón",
+					"de": "Name DE",
 					"fr": "Dragon Bone Coloring Stone",
 					"it": "Dragon Bone Coloring Stone",
 					"nl": "Dragon Bone Coloring Stone",
@@ -1326,13 +1294,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-46": {
-				"id": "LT-46",
+			"LT-45": {
+				"id": "LT-45",
 				"set": "LT",
 				"name": {
 					"en": "Dragon-Tooth Ceremonial Knife",
-					"es": "Dragon-Tooth Ceremonial Knife",
-					"de": "Dragon-Tooth Ceremonial Knife",
+					"es": "Cuchillo Ceremonial de Diente de Dragón",
+					"de": "Name DE",
 					"fr": "Dragon-Tooth Ceremonial Knife",
 					"it": "Dragon-Tooth Ceremonial Knife",
 					"nl": "Dragon-Tooth Ceremonial Knife",
@@ -1358,13 +1326,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-47": {
-				"id": "LT-47",
+			"LT-46": {
+				"id": "LT-46",
 				"set": "LT",
 				"name": {
 					"en": "Drought from the Wellinghall",
-					"es": "Drought from the Wellinghall",
-					"de": "Drought from the Wellinghall",
+					"es": "Bebedizo de la Sala del Manantial",
+					"de": "Name DE",
 					"fr": "Drought from the Wellinghall",
 					"it": "Drought from the Wellinghall",
 					"nl": "Drought from the Wellinghall",
@@ -1388,13 +1356,13 @@
 				"rarity": "CA",
 				"artist": "Art By Hildebrandt"
 			},
-			"LT-49": {
-				"id": "LT-49",
+			"LT-48": {
+				"id": "LT-48",
 				"set": "LT",
 				"name": {
 					"en": "Drû Folk",
-					"es": "Drû Folk",
-					"de": "Drû Folk",
+					"es": "Pueblo Drû",
+					"de": "Name DE",
 					"fr": "Drû Folk",
 					"it": "Drû Folk",
 					"nl": "Drû Folk",
@@ -1405,7 +1373,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "2",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Wose Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -1417,45 +1385,47 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-50": {
-				"id": "LT-50",
+			"LT-49": {
+				"id": "LT-49",
 				"set": "LT",
 				"name": {
 					"en": "Drû-buri-Drû",
 					"es": "Drû-buri-Drû",
-					"de": "Drû-buri-Drû",
+					"de": "Name DE",
 					"fr": "Drû-buri-Drû",
 					"it": "Drû-buri-Drû",
 					"nl": "Drû-buri-Drû",
 					"fi": "Drû-buri-Drû",
 					"ja": "Drû-buri-Drû"},
-				"type": "Resource",
+				"type": "Character",
 				"alignment": "Stage",
 				"attributes": {
 					"unique": true,
+					"skills": "Scout/Ranger/Sage",
 					"marshallingPoints": "D",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "character",
 					"body": "8",
 					"prowess": "3",
 					"homeSite": "Stone-Circle",
 					"directInfluence": "1",
+					"avatar": true,
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
-					{"en": "Unique. Can use pûkel-magic. May be tapped to cancel an attack keyed to w or ww against his company. +2 to all rolls required for his company to move to an adjacent site in the Under-deeps and opponent draws one less card. +1 prowess and +1 body when moving to or from an Under-Deeps site or moving through a Wilderness [w] +4 to his direct influence against Woses and Wose factions.“without a doubt, the best ranger in the region” —Woses of the Black Wood"},
+					{"en": "Unique. Can use pûkel-magic. May be tapped to cancel an attack keyed to w or ww against his company. +2 to all rolls required for his company to move to an adjacent site in the Under-deeps and opponent draws one less card. +1 prowess and +1 body when moving to or from an Under-Deeps site or moving through a Wilderness [w]. +4 to his direct influence against Woses and Wose factions.“without a doubt, the best ranger in the region” —Woses of the Black Wood"},
 				"quote": 
 					{"en": ""},
 				"image": "Drû-buri-Drû.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-51": {
-				"id": "LT-51",
+			"LT-50": {
+				"id": "LT-50",
 				"set": "LT",
 				"name": {
 					"en": "Dru-Shaman",
-					"es": "Dru-Shaman",
-					"de": "Dru-Shaman",
+					"es": "Chamán Dru",
+					"de": "Name DE",
 					"fr": "Dru-Shaman",
 					"it": "Dru-Shaman",
 					"nl": "Dru-Shaman",
@@ -1483,13 +1453,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-53": {
-				"id": "LT-53",
+			"LT-52": {
+				"id": "LT-52",
 				"set": "LT",
 				"name": {
 					"en": "Drûadan Forest",
-					"es": "Drûadan Forest",
-					"de": "Drûadan Forest",
+					"es": "Bosque Drúadan",
+					"de": "Name DE",
 					"fr": "Drûadan Forest",
 					"it": "Drûadan Forest",
 					"nl": "Drûadan Forest",
@@ -1513,13 +1483,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-54": {
-				"id": "LT-54",
+			"LT-53": {
+				"id": "LT-53",
 				"set": "LT",
 				"name": {
 					"en": "Drûghan Sea Sanctuary",
-					"es": "Drûghan Sea Sanctuary",
-					"de": "Drûghan Sea Sanctuary",
+					"es": "Santuario Marino Drûghan",
+					"de": "Name DE",
 					"fr": "Drûghan Sea Sanctuary",
 					"it": "Drûghan Sea Sanctuary",
 					"nl": "Drûghan Sea Sanctuary",
@@ -1547,13 +1517,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-55": {
-				"id": "LT-55",
+			"LT-54": {
+				"id": "LT-54",
 				"set": "LT",
 				"name": {
 					"en": "Drûghan-Amulet",
-					"es": "Drûghan-Amulet",
-					"de": "Drûghan-Amulet",
+					"es": "Amuleto Drûghân",
+					"de": "Name DE",
 					"fr": "Drûghan-Amulet",
 					"it": "Drûghan-Amulet",
 					"nl": "Drûghan-Amulet",
@@ -1580,13 +1550,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-56": {
-				"id": "LT-56",
+			"LT-55": {
+				"id": "LT-55",
 				"set": "LT",
 				"name": {
 					"en": "Dunland Hill-Chief",
-					"es": "Dunland Hill-Chief",
-					"de": "Dunland Hill-Chief",
+					"es": "Caudillo Dunlendino",
+					"de": "Name DE",
 					"fr": "Dunland Hill-Chief",
 					"it": "Dunland Hill-Chief",
 					"nl": "Dunland Hill-Chief",
@@ -1615,13 +1585,13 @@
 				"rarity": "CA",
 				"artist": "Angus McBride"
 			},
-			"LT-57": {
-				"id": "LT-57",
+			"LT-56": {
+				"id": "LT-56",
 				"set": "LT",
 				"name": {
 					"en": "Dunland Hunter",
-					"es": "Dunland Hunter",
-					"de": "Dunland Hunter",
+					"es": "Cazador Dunlendino",
+					"de": "Name DE",
 					"fr": "Dunland Hunter",
 					"it": "Dunland Hunter",
 					"nl": "Dunland Hunter",
@@ -1650,13 +1620,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-58": {
-				"id": "LT-58",
+			"LT-57": {
+				"id": "LT-57",
 				"set": "LT",
 				"name": {
 					"en": "Dunland Warlord",
-					"es": "Dunland Warlord",
-					"de": "Dunland Warlord",
+					"es": "Señor de la Guerra Dunlendino",
+					"de": "Name DE",
 					"fr": "Dunland Warlord",
 					"it": "Dunland Warlord",
 					"nl": "Dunland Warlord",
@@ -1684,13 +1654,13 @@
 				"rarity": "CA",
 				"artist": "Angus McBride"
 			},
-			"LT-59": {
-				"id": "LT-59",
+			"LT-58": {
+				"id": "LT-58",
 				"set": "LT",
 				"name": {
 					"en": "Dunlending Outcast",
-					"es": "Dunlending Outcast",
-					"de": "Dunlending Outcast",
+					"es": "Dunlendino Marginado",
+					"de": "Name DE",
 					"fr": "Dunlending Outcast",
 					"it": "Dunlending Outcast",
 					"nl": "Dunlending Outcast",
@@ -1717,13 +1687,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-60": {
-				"id": "LT-60",
+			"LT-59": {
+				"id": "LT-59",
 				"set": "LT",
 				"name": {
 					"en": "Duranil",
 					"es": "Duranil",
-					"de": "Duranil",
+					"de": "Name DE",
 					"fr": "Duranil",
 					"it": "Duranil",
 					"nl": "Duranil",
@@ -1748,13 +1718,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-62": {
-				"id": "LT-62",
+			"LT-61": {
+				"id": "LT-61",
 				"set": "LT",
 				"name": {
 					"en": "Eldebeth Whispershadow",
-					"es": "Eldebeth Whispershadow",
-					"de": "Eldebeth Whispershadow",
+					"es": "Eldebeth Sombra Susurrante",
+					"de": "Name DE",
 					"fr": "Eldebeth Whispershadow",
 					"it": "Eldebeth Whispershadow",
 					"nl": "Eldebeth Whispershadow",
@@ -1781,13 +1751,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-63": {
-				"id": "LT-63",
+			"LT-62": {
+				"id": "LT-62",
 				"set": "LT",
 				"name": {
 					"en": "Elmlimb",
-					"es": "Elmlimb",
-					"de": "Elmlimb",
+					"es": "Olmilla",
+					"de": "Name DE",
 					"fr": "Elmlimb",
 					"it": "Elmlimb",
 					"nl": "Elmlimb",
@@ -1813,13 +1783,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-65": {
-				"id": "LT-65",
+			"LT-64": {
+				"id": "LT-64",
 				"set": "LT",
 				"name": {
 					"en": "Ent Oil",
-					"es": "Ent Oil",
-					"de": "Ent Oil",
+					"es": "Aceite Ent",
+					"de": "Name DE",
 					"fr": "Ent Oil",
 					"it": "Ent Oil",
 					"nl": "Ent Oil",
@@ -1840,13 +1810,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-66": {
-				"id": "LT-66",
+			"LT-65": {
+				"id": "LT-65",
 				"set": "LT",
 				"name": {
 					"en": "Ered Tarthonion",
 					"es": "Ered Tarthonion",
-					"de": "Ered Tarthonion",
+					"de": "Name DE",
 					"fr": "Ered Tarthonion",
 					"it": "Ered Tarthonion",
 					"nl": "Ered Tarthonion",
@@ -1874,13 +1844,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-67": {
-				"id": "LT-67",
+			"LT-66": {
+				"id": "LT-66",
 				"set": "LT",
 				"name": {
 					"en": "Eryn Vorn",
 					"es": "Eryn Vorn",
-					"de": "Eryn Vorn",
+					"de": "Name DE",
 					"fr": "Eryn Vorn",
 					"it": "Eryn Vorn",
 					"nl": "Eryn Vorn",
@@ -1904,13 +1874,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-68": {
-				"id": "LT-68",
+			"LT-67": {
+				"id": "LT-67",
 				"set": "LT",
 				"name": {
 					"en": "Exploring Party",
-					"es": "Exploring Party",
-					"de": "Exploring Party",
+					"es": "Banda de Exploración",
+					"de": "Name DE",
 					"fr": "Exploring Party",
 					"it": "Exploring Party",
 					"nl": "Exploring Party",
@@ -1931,13 +1901,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-70": {
-				"id": "LT-70",
+			"LT-69": {
+				"id": "LT-69",
 				"set": "LT",
 				"name": {
 					"en": "Fine Craftsmanship",
-					"es": "Fine Craftsmanship",
-					"de": "Fine Craftsmanship",
+					"es": "Artesanía Fina",
+					"de": "Name DE",
 					"fr": "Fine Craftsmanship",
 					"it": "Fine Craftsmanship",
 					"nl": "Fine Craftsmanship",
@@ -1957,13 +1927,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-71": {
-				"id": "LT-71",
+			"LT-70": {
+				"id": "LT-70",
 				"set": "LT",
 				"name": {
 					"en": "Fit for this Terrain",
-					"es": "Fit for this Terrain",
-					"de": "Fit for this Terrain",
+					"es": "Adaptado a este Terreno",
+					"de": "Name DE",
 					"fr": "Fit for this Terrain",
 					"it": "Fit for this Terrain",
 					"nl": "Fit for this Terrain",
@@ -1983,13 +1953,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-72": {
-				"id": "LT-72",
+			"LT-71": {
+				"id": "LT-71",
 				"set": "LT",
 				"name": {
 					"en": "Fogu",
 					"es": "Fogu",
-					"de": "Fogu",
+					"de": "Name DE",
 					"fr": "Fogu",
 					"it": "Fogu",
 					"nl": "Fogu",
@@ -2009,13 +1979,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-74": {
-				"id": "LT-74",
+			"LT-73": {
+				"id": "LT-73",
 				"set": "LT",
 				"name": {
 					"en": "Follow Them!",
-					"es": "Follow Them!",
-					"de": "Follow Them!",
+					"es": "¡Seguidlos!",
+					"de": "Name DE",
 					"fr": "Follow Them!",
 					"it": "Follow Them!",
 					"nl": "Follow Them!",
@@ -2035,13 +2005,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-75": {
-				"id": "LT-75",
+			"LT-74": {
+				"id": "LT-74",
 				"set": "LT",
 				"name": {
 					"en": "Foreign Tattooed Animist",
-					"es": "Foreign Tattooed Animist",
-					"de": "Foreign Tattooed Animist",
+					"es": "Animista Extranjero Tatuado",
+					"de": "Name DE",
 					"fr": "Foreign Tattooed Animist",
 					"it": "Foreign Tattooed Animist",
 					"nl": "Foreign Tattooed Animist",
@@ -2065,13 +2035,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-76": {
-				"id": "LT-76",
+			"LT-75": {
+				"id": "LT-75",
 				"set": "LT",
 				"name": {
 					"en": "Forest Gloom",
-					"es": "Forest Gloom",
-					"de": "Forest Gloom",
+					"es": "Bosque en Penumbra",
+					"de": "Name DE",
 					"fr": "Forest Gloom",
 					"it": "Forest Gloom",
 					"nl": "Forest Gloom",
@@ -2091,13 +2061,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-77": {
-				"id": "LT-77",
+			"LT-76": {
+				"id": "LT-76",
 				"set": "LT",
 				"name": {
 					"en": "Foul Aberration Awaken",
-					"es": "Foul Aberration Awaken",
-					"de": "Foul Aberration Awaken",
+					"es": "Aberración Maligna Despierta",
+					"de": "Name DE",
 					"fr": "Foul Aberration Awaken",
 					"it": "Foul Aberration Awaken",
 					"nl": "Foul Aberration Awaken",
@@ -2108,7 +2078,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "4",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Spawn Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -2120,24 +2090,25 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-78": {
-				"id": "LT-78",
+			"LT-77": {
+				"id": "LT-77",
 				"set": "LT",
 				"name": {
 					"en": "Furious Stone-Heart",
-					"es": "Furious Stone-Heart",
-					"de": "Furious Stone-Heart",
+					"es": "Corazón de Piedra Furioso",
+					"de": "Name DE",
 					"fr": "Furious Stone-Heart",
 					"it": "Furious Stone-Heart",
 					"nl": "Furious Stone-Heart",
 					"fi": "Furious Stone-Heart",
 					"ja": "Furious Stone-Heart"},
-				"type": "Resource",
+				"type": "Character",
 				"alignment": "Hero",
 				"attributes": {
 					"unique": true,
+					"skills": "Warrior",
 					"marshallingPoints": "2",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "character",
 					"body": "9",
 					"prowess": "2",
 					"homeSite": "Set Maenen; Carn Gasadaer",
@@ -2154,13 +2125,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-79": {
-				"id": "LT-79",
+			"LT-78": {
+				"id": "LT-78",
 				"set": "LT",
 				"name": {
 					"en": "Gathering Hosts",
-					"es": "Gathering Hosts",
-					"de": "Gathering Hosts",
+					"es": "Reunión de Anfitriones",
+					"de": "Name DE",
 					"fr": "Gathering Hosts",
 					"it": "Gathering Hosts",
 					"nl": "Gathering Hosts",
@@ -2184,28 +2155,30 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-80": {
-				"id": "LT-80",
+			"LT-79": {
+				"id": "LT-79",
 				"set": "LT",
 				"name": {
 					"en": "Ghân-buri-Ghân",
 					"es": "Ghân-buri-Ghân",
-					"de": "Ghân-buri-Ghân",
+					"de": "Name DE",
 					"fr": "Ghân-buri-Ghân",
 					"it": "Ghân-buri-Ghân",
 					"nl": "Ghân-buri-Ghân",
 					"fi": "Ghân-buri-Ghân",
 					"ja": "Ghân-buri-Ghân"},
-				"type": "Resource",
+				"type": "Character",
 				"alignment": "Stage",
 				"attributes": {
 					"unique": true,
+					"skills": "Scout/Ranger/Diplomat",
 					"marshallingPoints": "G",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "character",
 					"body": "9",
 					"prowess": "2",
 					"homeSite": "Drûadan Forest",
 					"directInfluence": "3",
+					"avatar": true,
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
@@ -2216,13 +2189,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-81": {
-				"id": "LT-81",
+			"LT-80": {
+				"id": "LT-80",
 				"set": "LT",
 				"name": {
 					"en": "Ghîm",
 					"es": "Ghîm",
-					"de": "Ghîm",
+					"de": "Name DE",
 					"fr": "Ghîm",
 					"it": "Ghîm",
 					"nl": "Ghîm",
@@ -2251,13 +2224,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-82": {
-				"id": "LT-82",
+			"LT-81": {
+				"id": "LT-81",
 				"set": "LT",
 				"name": {
 					"en": "Great Greenwood",
-					"es": "Great Greenwood",
-					"de": "Great Greenwood",
+					"es": "Gran Bosque Verde",
+					"de": "Name DE",
 					"fr": "Great Greenwood",
 					"it": "Great Greenwood",
 					"nl": "Great Greenwood",
@@ -2279,24 +2252,25 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-83": {
-				"id": "LT-83",
+			"LT-82": {
+				"id": "LT-82",
 				"set": "LT",
 				"name": {
 					"en": "Great Healing Foot",
-					"es": "Great Healing Foot",
-					"de": "Great Healing Foot",
+					"es": "Gran Base Curativa",
+					"de": "Name DE",
 					"fr": "Great Healing Foot",
 					"it": "Great Healing Foot",
 					"nl": "Great Healing Foot",
 					"fi": "Great Healing Foot",
 					"ja": "Great Healing Foot"},
-				"type": "Resource",
+				"type": "Character",
 				"alignment": "Hero",
 				"attributes": {
 					"unique": true,
+					"skills": "Ranger",
 					"marshallingPoints": "2",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "character",
 					"body": "9",
 					"prowess": "1",
 					"homeSite": "Penn-Cûms",
@@ -2313,24 +2287,25 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-84": {
-				"id": "LT-84",
+			"LT-83": {
+				"id": "LT-83",
 				"set": "LT",
 				"name": {
 					"en": "Great Mother",
-					"es": "Great Mother",
-					"de": "Great Mother",
+					"es": "Gran Madre",
+					"de": "Name DE",
 					"fr": "Great Mother",
 					"it": "Great Mother",
 					"nl": "Great Mother",
 					"fi": "Great Mother",
 					"ja": "Great Mother"},
-				"type": "Resource",
+				"type": "Character",
 				"alignment": "Hero",
 				"attributes": {
 					"unique": true,
+					"skills": "Diplomat",
 					"marshallingPoints": "2",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "character",
 					"body": "10",
 					"prowess": "0",
 					"homeSite": "The Caerdh Wood",
@@ -2347,13 +2322,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-86": {
-				"id": "LT-86",
+			"LT-85": {
+				"id": "LT-85",
 				"set": "LT",
 				"name": {
 					"en": "Heath-Wooden Pipe",
-					"es": "Heath-Wooden Pipe",
-					"de": "Heath-Wooden Pipe",
+					"es": "Pipa de Madera de Brezo",
+					"de": "Name DE",
 					"fr": "Heath-Wooden Pipe",
 					"it": "Heath-Wooden Pipe",
 					"nl": "Heath-Wooden Pipe",
@@ -2374,13 +2349,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-87": {
-				"id": "LT-87",
+			"LT-86": {
+				"id": "LT-86",
 				"set": "LT",
 				"name": {
 					"en": "Hidden Forest to Foreign Eyes",
-					"es": "Hidden Forest to Foreign Eyes",
-					"de": "Hidden Forest to Foreign Eyes",
+					"es": "Bosque Oculto a Ojos Extraños",
+					"de": "Name DE",
 					"fr": "Hidden Forest to Foreign Eyes",
 					"it": "Hidden Forest to Foreign Eyes",
 					"nl": "Hidden Forest to Foreign Eyes",
@@ -2408,13 +2383,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-88": {
-				"id": "LT-88",
+			"LT-87": {
+				"id": "LT-87",
 				"set": "LT",
 				"name": {
 					"en": "Hidden Ruins",
-					"es": "Hidden Ruins",
-					"de": "Hidden Ruins",
+					"es": "Ruinas Ocultas",
+					"de": "Name DE",
 					"fr": "Hidden Ruins",
 					"it": "Hidden Ruins",
 					"nl": "Hidden Ruins",
@@ -2442,13 +2417,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-89": {
-				"id": "LT-89",
+			"LT-88": {
+				"id": "LT-88",
 				"set": "LT",
 				"name": {
 					"en": "High Glens",
-					"es": "High Glens",
-					"de": "High Glens",
+					"es": "Senderos Altos",
+					"de": "Name DE",
 					"fr": "High Glens",
 					"it": "High Glens",
 					"nl": "High Glens",
@@ -2476,13 +2451,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-91": {
-				"id": "LT-91",
+			"LT-90": {
+				"id": "LT-90",
 				"set": "LT",
 				"name": {
 					"en": "Hullob",
 					"es": "Hullob",
-					"de": "Hullob",
+					"de": "Name DE",
 					"fr": "Hullob",
 					"it": "Hullob",
 					"nl": "Hullob",
@@ -2510,13 +2485,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-92": {
-				"id": "LT-92",
+			"LT-91": {
+				"id": "LT-91",
 				"set": "LT",
 				"name": {
 					"en": "Hurndaen",
 					"es": "Hurndaen",
-					"de": "Hurndaen",
+					"de": "Name DE",
 					"fr": "Hurndaen",
 					"it": "Hurndaen",
 					"nl": "Hurndaen",
@@ -2541,13 +2516,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-93": {
-				"id": "LT-93",
+			"LT-92": {
+				"id": "LT-92",
 				"set": "LT",
 				"name": {
 					"en": "Hurnspire Tomb Guardian",
-					"es": "Hurnspire Tomb Guardian",
-					"de": "Hurnspire Tomb Guardian",
+					"es": "Hurnspire Guardián de la Tumba",
+					"de": "Name DE",
 					"fr": "Hurnspire Tomb Guardian",
 					"it": "Hurnspire Tomb Guardian",
 					"nl": "Hurnspire Tomb Guardian",
@@ -2574,13 +2549,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-95": {
-				"id": "LT-95",
+			"LT-94": {
+				"id": "LT-94",
 				"set": "LT",
 				"name": {
 					"en": "Insatiable Aberration Awaken",
-					"es": "Insatiable Aberration Awaken",
-					"de": "Insatiable Aberration Awaken",
+					"es": "Aberración Insaciable Despierta",
+					"de": "Name DE",
 					"fr": "Insatiable Aberration Awaken",
 					"it": "Insatiable Aberration Awaken",
 					"nl": "Insatiable Aberration Awaken",
@@ -2591,7 +2566,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "4",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Spawn Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -2603,13 +2578,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-96": {
-				"id": "LT-96",
+			"LT-95": {
+				"id": "LT-95",
 				"set": "LT",
 				"name": {
 					"en": "Ivory Coloring Stone",
-					"es": "Ivory Coloring Stone",
-					"de": "Ivory Coloring Stone",
+					"es": "Piedra Colorante de Marfil",
+					"de": "Name DE",
 					"fr": "Ivory Coloring Stone",
 					"it": "Ivory Coloring Stone",
 					"nl": "Ivory Coloring Stone",
@@ -2634,13 +2609,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-97": {
-				"id": "LT-97",
+			"LT-96": {
+				"id": "LT-96",
 				"set": "LT",
 				"name": {
 					"en": "Jerls",
 					"es": "Jerls",
-					"de": "Jerls",
+					"de": "Name DE",
 					"fr": "Jerls",
 					"it": "Jerls",
 					"nl": "Jerls",
@@ -2650,7 +2625,7 @@
 				"alignment": "Hero",
 				"attributes": {
 					"marshallingPoints": "1",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Wose Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -2662,13 +2637,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-98": {
-				"id": "LT-98",
+			"LT-97": {
+				"id": "LT-97",
 				"set": "LT",
 				"name": {
 					"en": "Juju´s Bubble",
-					"es": "Juju´s Bubble",
-					"de": "Juju´s Bubble",
+					"es": "Burbuja de Juju",
+					"de": "Name DE",
 					"fr": "Juju´s Bubble",
 					"it": "Juju´s Bubble",
 					"nl": "Juju´s Bubble",
@@ -2692,13 +2667,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-100": {
-				"id": "LT-100",
+			"LT-99": {
+				"id": "LT-99",
 				"set": "LT",
 				"name": {
 					"en": "Khûn-buri-Khûn",
 					"es": "Khûn-buri-Khûn",
-					"de": "Khûn-buri-Khûn",
+					"de": "Name DE",
 					"fr": "Khûn-buri-Khûn",
 					"it": "Khûn-buri-Khûn",
 					"nl": "Khûn-buri-Khûn",
@@ -2726,13 +2701,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-102": {
-				"id": "LT-102",
+			"LT-101": {
+				"id": "LT-101",
 				"set": "LT",
 				"name": {
 					"en": "Klorin´s Amulet",
-					"es": "Klorin´s Amulet",
-					"de": "Klorin´s Amulet",
+					"es": "Amuleto de Klorin",
+					"de": "Name DE",
 					"fr": "Klorin´s Amulet",
 					"it": "Klorin´s Amulet",
 					"nl": "Klorin´s Amulet",
@@ -2756,13 +2731,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-104": {
-				"id": "LT-104",
+			"LT-103": {
+				"id": "LT-103",
 				"set": "LT",
 				"name": {
 					"en": "Limbkeeper",
-					"es": "Limbkeeper",
-					"de": "Limbkeeper",
+					"es": "Guardarrama",
+					"de": "Name DE",
 					"fr": "Limbkeeper",
 					"it": "Limbkeeper",
 					"nl": "Limbkeeper",
@@ -2788,13 +2763,13 @@
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-105": {
-				"id": "LT-105",
+			"LT-104": {
+				"id": "LT-104",
 				"set": "LT",
 				"name": {
 					"en": "Lindenroot",
-					"es": "Lindenroot",
-					"de": "Lindenroot",
+					"es": "Raíz de Tilo",
+					"de": "Name DE",
 					"fr": "Lindenroot",
 					"it": "Lindenroot",
 					"nl": "Lindenroot",
@@ -2820,13 +2795,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-106": {
-				"id": "LT-106",
+			"LT-105": {
+				"id": "LT-105",
 				"set": "LT",
 				"name": {
 					"en": "Long Blowpipe",
-					"es": "Long Blowpipe",
-					"de": "Long Blowpipe",
+					"es": "Cerbatana Larga",
+					"de": "Name DE",
 					"fr": "Long Blowpipe",
 					"it": "Long Blowpipe",
 					"nl": "Long Blowpipe",
@@ -2851,13 +2826,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-107": {
-				"id": "LT-107",
+			"LT-106": {
+				"id": "LT-106",
 				"set": "LT",
 				"name": {
 					"en": "Long Forgotten Ritual",
-					"es": "Long Forgotten Ritual",
-					"de": "Long Forgotten Ritual",
+					"es": "Un Antiguo Rito Olvidado",
+					"de": "Name DE",
 					"fr": "Long Forgotten Ritual",
 					"it": "Long Forgotten Ritual",
 					"nl": "Long Forgotten Ritual",
@@ -2877,13 +2852,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-108": {
-				"id": "LT-108",
+			"LT-107": {
+				"id": "LT-107",
 				"set": "LT",
 				"name": {
 					"en": "Lord Bel´zordin",
 					"es": "Lord Bel´zordin",
-					"de": "Lord Bel´zordin",
+					"de": "Name DE",
 					"fr": "Lord Bel´zordin",
 					"it": "Lord Bel´zordin",
 					"nl": "Lord Bel´zordin",
@@ -2908,13 +2883,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-112": {
-				"id": "LT-112",
+			"LT-111": {
+				"id": "LT-111",
 				"set": "LT",
 				"name": {
 					"en": "Maelcûm the Gora of Nansret",
-					"es": "Maelcûm the Gora of Nansret",
-					"de": "Maelcûm the Gora of Nansret",
+					"es": "Maelcûm el Gora de Nansret",
+					"de": "Name DE",
 					"fr": "Maelcûm the Gora of Nansret",
 					"it": "Maelcûm the Gora of Nansret",
 					"nl": "Maelcûm the Gora of Nansret",
@@ -2943,28 +2918,30 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-113": {
-				"id": "LT-113",
+			"LT-112": {
+				"id": "LT-112",
 				"set": "LT",
 				"name": {
 					"en": "Mam-ugi-Mam",
-					"es": "Mam-ugi-Mam",
-					"de": "Mam-ugi-Mam",
+					"es": "Man-ugi-Man",
+					"de": "Name DE",
 					"fr": "Mam-ugi-Mam",
 					"it": "Mam-ugi-Mam",
 					"nl": "Mam-ugi-Mam",
 					"fi": "Mam-ugi-Mam",
 					"ja": "Mam-ugi-Mam"},
-				"type": "Resource",
+				"type": "Character",
 				"alignment": "Stage",
 				"attributes": {
 					"unique": true,
+					"skills": "Ranger/Sage/Diplomat",
 					"marshallingPoints": "M",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "character",
 					"body": "9",
 					"prowess": "1",
 					"homeSite": "Eryn Vorn",
 					"directInfluence": "4",
+					"avatar": true,
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
@@ -2975,13 +2952,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-114": {
-				"id": "LT-114",
+			"LT-113": {
+				"id": "LT-113",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Camouflaging",
-					"es": "Mark of Camouflaging",
-					"de": "Mark of Camouflaging",
+					"es": "Marca de Camuflaje",
+					"de": "Name DE",
 					"fr": "Mark of Camouflaging",
 					"it": "Mark of Camouflaging",
 					"nl": "Mark of Camouflaging",
@@ -3002,13 +2979,13 @@
 				"rarity": "CA",
 				"artist": "Jean Dominique Lavoix"
 			},
-			"LT-115": {
-				"id": "LT-115",
+			"LT-114": {
+				"id": "LT-114",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Friendship",
-					"es": "Mark of Friendship",
-					"de": "Mark of Friendship",
+					"es": "Marca de Amistad",
+					"de": "Name DE",
 					"fr": "Mark of Friendship",
 					"it": "Mark of Friendship",
 					"nl": "Mark of Friendship",
@@ -3030,13 +3007,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-116": {
-				"id": "LT-116",
+			"LT-115": {
+				"id": "LT-115",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Harmony",
-					"es": "Mark of Harmony",
-					"de": "Mark of Harmony",
+					"es": "Marca de Armonía",
+					"de": "Name DE",
 					"fr": "Mark of Harmony",
 					"it": "Mark of Harmony",
 					"nl": "Mark of Harmony",
@@ -3058,13 +3035,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-117": {
-				"id": "LT-117",
+			"LT-116": {
+				"id": "LT-116",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Power",
-					"es": "Mark of Power",
-					"de": "Mark of Power",
+					"es": "Marca de Poder",
+					"de": "Name DE",
 					"fr": "Mark of Power",
 					"it": "Mark of Power",
 					"nl": "Mark of Power",
@@ -3084,13 +3061,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-118": {
-				"id": "LT-118",
+			"LT-117": {
+				"id": "LT-117",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Protection",
-					"es": "Mark of Protection",
-					"de": "Mark of Protection",
+					"es": "Marca de Protección",
+					"de": "Name DE",
 					"fr": "Mark of Protection",
 					"it": "Mark of Protection",
 					"nl": "Mark of Protection",
@@ -3113,13 +3090,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-119": {
-				"id": "LT-119",
+			"LT-118": {
+				"id": "LT-118",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Savagery",
-					"es": "Mark of Savagery",
-					"de": "Mark of Savagery",
+					"es": "Marca de Ferocidad",
+					"de": "Name DE",
 					"fr": "Mark of Savagery",
 					"it": "Mark of Savagery",
 					"nl": "Mark of Savagery",
@@ -3141,13 +3118,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-120": {
-				"id": "LT-120",
+			"LT-119": {
+				"id": "LT-119",
 				"set": "LT",
 				"name": {
 					"en": "Mark of the Sentry",
-					"es": "Mark of the Sentry",
-					"de": "Mark of the Sentry",
+					"es": "Marca del Centinela",
+					"de": "Name DE",
 					"fr": "Mark of the Sentry",
 					"it": "Mark of the Sentry",
 					"nl": "Mark of the Sentry",
@@ -3168,13 +3145,13 @@
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-121": {
-				"id": "LT-121",
+			"LT-120": {
+				"id": "LT-120",
 				"set": "LT",
 				"name": {
 					"en": "Marsh Adder",
-					"es": "Marsh Adder",
-					"de": "Marsh Adder",
+					"es": "Víbora del Pantano",
+					"de": "Name DE",
 					"fr": "Marsh Adder",
 					"it": "Marsh Adder",
 					"nl": "Marsh Adder",
@@ -3201,13 +3178,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-122": {
-				"id": "LT-122",
+			"LT-121": {
+				"id": "LT-121",
 				"set": "LT",
 				"name": {
 					"en": "Marsh Hermit",
-					"es": "Marsh Hermit",
-					"de": "Marsh Hermit",
+					"es": "Ermitaño del Pantano",
+					"de": "Name DE",
 					"fr": "Marsh Hermit",
 					"it": "Marsh Hermit",
 					"nl": "Marsh Hermit",
@@ -3235,13 +3212,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-123": {
-				"id": "LT-123",
+			"LT-122": {
+				"id": "LT-122",
 				"set": "LT",
 				"name": {
 					"en": "Mendaen",
 					"es": "Mendaen",
-					"de": "Mendaen",
+					"de": "Name DE",
 					"fr": "Mendaen",
 					"it": "Mendaen",
 					"nl": "Mendaen",
@@ -3266,13 +3243,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-124": {
-				"id": "LT-124",
+			"LT-123": {
+				"id": "LT-123",
 				"set": "LT",
 				"name": {
 					"en": "Mensharag",
 					"es": "Mensharag",
-					"de": "Mensharag",
+					"de": "Name DE",
 					"fr": "Mensharag",
 					"it": "Mensharag",
 					"nl": "Mensharag",
@@ -3297,13 +3274,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-125": {
-				"id": "LT-125",
+			"LT-124": {
+				"id": "LT-124",
 				"set": "LT",
 				"name": {
 					"en": "Mewlips",
-					"es": "Mewlips",
-					"de": "Mewlips",
+					"es": "Maulladores",
+					"de": "Name DE",
 					"fr": "Mewlips",
 					"it": "Mewlips",
 					"nl": "Mewlips",
@@ -3330,13 +3307,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-126": {
-				"id": "LT-126",
+			"LT-125": {
+				"id": "LT-125",
 				"set": "LT",
 				"name": {
 					"en": "Môn",
 					"es": "Môn",
-					"de": "Môn",
+					"de": "Name DE",
 					"fr": "Môn",
 					"it": "Môn",
 					"nl": "Môn",
@@ -3365,13 +3342,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-127": {
-				"id": "LT-127",
+			"LT-126": {
+				"id": "LT-126",
 				"set": "LT",
 				"name": {
 					"en": "Mor Maigh",
 					"es": "Mor Maigh",
-					"de": "Mor Maigh",
+					"de": "Name DE",
 					"fr": "Mor Maigh",
 					"it": "Mor Maigh",
 					"nl": "Mor Maigh",
@@ -3401,13 +3378,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-128": {
-				"id": "LT-128",
+			"LT-127": {
+				"id": "LT-127",
 				"set": "LT",
 				"name": {
 					"en": "Morthec the Oath Breaker",
-					"es": "Morthec the Oath Breaker",
-					"de": "Morthec the Oath Breaker",
+					"es": "Morthec el Rompejuramentos",
+					"de": "Name DE",
 					"fr": "Morthec the Oath Breaker",
 					"it": "Morthec the Oath Breaker",
 					"nl": "Morthec the Oath Breaker",
@@ -3432,13 +3409,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-132": {
-				"id": "LT-132",
+			"LT-131": {
+				"id": "LT-131",
 				"set": "LT",
 				"name": {
 					"en": "Nature Coloring Stone",
-					"es": "Nature Coloring Stone",
-					"de": "Nature Coloring Stone",
+					"es": "Piedra Colorante de la Naturaleza",
+					"de": "Name DE",
 					"fr": "Nature Coloring Stone",
 					"it": "Nature Coloring Stone",
 					"nl": "Nature Coloring Stone",
@@ -3460,13 +3437,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-133": {
-				"id": "LT-133",
+			"LT-132": {
+				"id": "LT-132",
 				"set": "LT",
 				"name": {
 					"en": "Nature Rites",
-					"es": "Nature Rites",
-					"de": "Nature Rites",
+					"es": "Ritos Naturales",
+					"de": "Name DE",
 					"fr": "Nature Rites",
 					"it": "Nature Rites",
 					"nl": "Nature Rites",
@@ -3486,13 +3463,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-135": {
-				"id": "LT-135",
+			"LT-134": {
+				"id": "LT-134",
 				"set": "LT",
 				"name": {
 					"en": "Oathbreakers",
-					"es": "Oathbreakers",
-					"de": "Oathbreakers",
+					"es": "Rompejuramentos",
+					"de": "Name DE",
 					"fr": "Oathbreakers",
 					"it": "Oathbreakers",
 					"nl": "Oathbreakers",
@@ -3519,13 +3496,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-136": {
-				"id": "LT-136",
+			"LT-135": {
+				"id": "LT-135",
 				"set": "LT",
 				"name": {
 					"en": "Ôk-weni-Dhûr",
 					"es": "Ôk-weni-Dhûr",
-					"de": "Ôk-weni-Dhûr",
+					"de": "Name DE",
 					"fr": "Ôk-weni-Dhûr",
 					"it": "Ôk-weni-Dhûr",
 					"nl": "Ôk-weni-Dhûr",
@@ -3554,13 +3531,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-138": {
-				"id": "LT-138",
+			"LT-137": {
+				"id": "LT-137",
 				"set": "LT",
 				"name": {
 					"en": "Ôlth",
 					"es": "Ôlth",
-					"de": "Ôlth",
+					"de": "Name DE",
 					"fr": "Ôlth",
 					"it": "Ôlth",
 					"nl": "Ôlth",
@@ -3589,13 +3566,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-139": {
-				"id": "LT-139",
+			"LT-138": {
+				"id": "LT-138",
 				"set": "LT",
 				"name": {
 					"en": "Open War",
-					"es": "Open War",
-					"de": "Open War",
+					"es": "Guerra Abierta",
+					"de": "Name DE",
 					"fr": "Open War",
 					"it": "Open War",
 					"nl": "Open War",
@@ -3616,13 +3593,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-140": {
-				"id": "LT-140",
+			"LT-139": {
+				"id": "LT-139",
 				"set": "LT",
 				"name": {
 					"en": "Ôshaghan",
 					"es": "Ôshaghan",
-					"de": "Ôshaghan",
+					"de": "Name DE",
 					"fr": "Ôshaghan",
 					"it": "Ôshaghan",
 					"nl": "Ôshaghan",
@@ -3649,13 +3626,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-141": {
-				"id": "LT-141",
+			"LT-140": {
+				"id": "LT-140",
 				"set": "LT",
 				"name": {
 					"en": "Our Own Borders",
-					"es": "Our Own Borders",
-					"de": "Our Own Borders",
+					"es": "Nuestras Propias Fronteras",
+					"de": "Name DE",
 					"fr": "Our Own Borders",
 					"it": "Our Own Borders",
 					"nl": "Our Own Borders",
@@ -3675,13 +3652,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-142": {
-				"id": "LT-142",
+			"LT-141": {
+				"id": "LT-141",
 				"set": "LT",
 				"name": {
 					"en": "Paths of Midnight Prowl",
-					"es": "Paths of Midnight Prowl",
-					"de": "Paths of Midnight Prowl",
+					"es": "Senderos de Caza de Medianoche",
+					"de": "Name DE",
 					"fr": "Paths of Midnight Prowl",
 					"it": "Paths of Midnight Prowl",
 					"nl": "Paths of Midnight Prowl",
@@ -3701,13 +3678,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-143": {
-				"id": "LT-143",
+			"LT-142": {
+				"id": "LT-142",
 				"set": "LT",
 				"name": {
 					"en": "Penn-Cûms",
 					"es": "Penn-Cûms",
-					"de": "Penn-Cûms",
+					"de": "Name DE",
 					"fr": "Penn-Cûms",
 					"it": "Penn-Cûms",
 					"nl": "Penn-Cûms",
@@ -3734,13 +3711,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-144": {
-				"id": "LT-144",
+			"LT-143": {
+				"id": "LT-143",
 				"set": "LT",
 				"name": {
 					"en": "Pilgrimage",
-					"es": "Pilgrimage",
-					"de": "Pilgrimage",
+					"es": "Peregrinaje",
+					"de": "Name DE",
 					"fr": "Pilgrimage",
 					"it": "Pilgrimage",
 					"nl": "Pilgrimage",
@@ -3760,13 +3737,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-145": {
-				"id": "LT-145",
+			"LT-144": {
+				"id": "LT-144",
 				"set": "LT",
 				"name": {
 					"en": "Pool Creature",
-					"es": "Pool Creature",
-					"de": "Pool Creature",
+					"es": "Criatura de la Charca",
+					"de": "Name DE",
 					"fr": "Pool Creature",
 					"it": "Pool Creature",
 					"nl": "Pool Creature",
@@ -3793,13 +3770,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-146": {
-				"id": "LT-146",
+			"LT-145": {
+				"id": "LT-145",
 				"set": "LT",
 				"name": {
 					"en": "Prâga-ura-Prâga",
 					"es": "Prâga-ura-Prâga",
-					"de": "Prâga-ura-Prâga",
+					"de": "Name DE",
 					"fr": "Prâga-ura-Prâga",
 					"it": "Prâga-ura-Prâga",
 					"nl": "Prâga-ura-Prâga",
@@ -3828,13 +3805,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-147": {
-				"id": "LT-147",
+			"LT-146": {
+				"id": "LT-146",
 				"set": "LT",
 				"name": {
 					"en": "Progeny Aberration Awaken",
-					"es": "Progeny Aberration Awaken",
-					"de": "Progeny Aberration Awaken",
+					"es": "Aberración Progenie Despierta",
+					"de": "Name DE",
 					"fr": "Progeny Aberration Awaken",
 					"it": "Progeny Aberration Awaken",
 					"nl": "Progeny Aberration Awaken",
@@ -3845,7 +3822,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "4",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Spawn Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -3857,13 +3834,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-148": {
-				"id": "LT-148",
+			"LT-147": {
+				"id": "LT-147",
 				"set": "LT",
 				"name": {
 					"en": "Promises of Greatness and Destruction",
-					"es": "Promises of Greatness and Destruction",
-					"de": "Promises of Greatness and Destruction",
+					"es": "Promesas de Grandeza y Destrucción",
+					"de": "Name DE",
 					"fr": "Promises of Greatness and Destruction",
 					"it": "Promises of Greatness and Destruction",
 					"nl": "Promises of Greatness and Destruction",
@@ -3885,13 +3862,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-149": {
-				"id": "LT-149",
+			"LT-148": {
+				"id": "LT-148",
 				"set": "LT",
 				"name": {
 					"en": "Protecting Spirits",
-					"es": "Protecting Spirits",
-					"de": "Protecting Spirits",
+					"es": "Espíritus Protectores",
+					"de": "Name DE",
 					"fr": "Protecting Spirits",
 					"it": "Protecting Spirits",
 					"nl": "Protecting Spirits",
@@ -3912,13 +3889,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-150": {
-				"id": "LT-150",
+			"LT-149": {
+				"id": "LT-149",
 				"set": "LT",
 				"name": {
 					"en": "Pûkel Circle of Protection",
-					"es": "Pûkel Circle of Protection",
-					"de": "Pûkel Circle of Protection",
+					"es": "Círculo de Protección Pûkel",
+					"de": "Name DE",
 					"fr": "Pûkel Circle of Protection",
 					"it": "Pûkel Circle of Protection",
 					"nl": "Pûkel Circle of Protection",
@@ -3938,13 +3915,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-151": {
-				"id": "LT-151",
+			"LT-150": {
+				"id": "LT-150",
 				"set": "LT",
 				"name": {
 					"en": "Pûkel Milestones",
-					"es": "Pûkel Milestones",
-					"de": "Pûkel Milestones",
+					"es": "Hitos Pûkel",
+					"de": "Name DE",
 					"fr": "Pûkel Milestones",
 					"it": "Pûkel Milestones",
 					"nl": "Pûkel Milestones",
@@ -3964,13 +3941,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-152": {
-				"id": "LT-152",
+			"LT-151": {
+				"id": "LT-151",
 				"set": "LT",
 				"name": {
 					"en": "Pûra",
 					"es": "Pûra",
-					"de": "Pûra",
+					"de": "Name DE",
 					"fr": "Pûra",
 					"it": "Pûra",
 					"nl": "Pûra",
@@ -3990,13 +3967,13 @@
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-153": {
-				"id": "LT-153",
+			"LT-152": {
+				"id": "LT-152",
 				"set": "LT",
 				"name": {
 					"en": "Queens of the Stone Age",
-					"es": "Queens of the Stone Age",
-					"de": "Queens of the Stone Age",
+					"es": "Reina de la Edad de Piedra",
+					"de": "Name DE",
 					"fr": "Queens of the Stone Age",
 					"it": "Queens of the Stone Age",
 					"nl": "Queens of the Stone Age",
@@ -4007,7 +3984,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "4",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Spawn Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -4019,13 +3996,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-154": {
-				"id": "LT-154",
+			"LT-153": {
+				"id": "LT-153",
 				"set": "LT",
 				"name": {
 					"en": "Remains of Thangorodrim",
-					"es": "Remains of Thangorodrim",
-					"de": "Remains of Thangorodrim",
+					"es": "Restos de Thangorodrim",
+					"de": "Name DE",
 					"fr": "Remains of Thangorodrim",
 					"it": "Remains of Thangorodrim",
 					"nl": "Remains of Thangorodrim",
@@ -4038,6 +4015,7 @@
 					"adjacent": "Any Hidden site in Andrast Coast or Eriadoran Coast, The Drowning-deeps (9)",
 					"draw": "3",
 					"region": "Under-Deeps",
+					"underDeeps": true,
 					"auto_attack": "Drake (1st attack) — 2 strikes with 12 prowess; (2nd attack) Opponent may play as an automatic-attack one hazard creature from his hand normally keyed to Coastal Sea [c]]",
 					"site_type": "{R}",
 					"playable": "Information, Items (minor, major, greater)",
@@ -4053,13 +4031,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-155": {
-				"id": "LT-155",
+			"LT-154": {
+				"id": "LT-154",
 				"set": "LT",
 				"name": {
 					"en": "Remnants of the Petty-Dwarves",
-					"es": "Remnants of the Petty-Dwarves",
-					"de": "Remnants of the Petty-Dwarves",
+					"es": "Retazos de los Enanos Mezquinos",
+					"de": "Name DE",
 					"fr": "Remnants of the Petty-Dwarves",
 					"it": "Remnants of the Petty-Dwarves",
 					"nl": "Remnants of the Petty-Dwarves",
@@ -4084,13 +4062,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-156": {
-				"id": "LT-156",
+			"LT-155": {
+				"id": "LT-155",
 				"set": "LT",
 				"name": {
 					"en": "Restored Garden",
-					"es": "Restored Garden",
-					"de": "Restored Garden",
+					"es": "Jardín Renovado",
+					"de": "Name DE",
 					"fr": "Restored Garden",
 					"it": "Restored Garden",
 					"nl": "Restored Garden",
@@ -4112,13 +4090,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-157": {
-				"id": "LT-157",
+			"LT-156": {
+				"id": "LT-156",
 				"set": "LT",
 				"name": {
 					"en": "Revealed to the World",
-					"es": "Revealed to the World",
-					"de": "Revealed to the World",
+					"es": "Revelado al Mundo",
+					"de": "Name DE",
 					"fr": "Revealed to the World",
 					"it": "Revealed to the World",
 					"nl": "Revealed to the World",
@@ -4138,28 +4116,30 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-158": {
-				"id": "LT-158",
+			"LT-157": {
+				"id": "LT-157",
 				"set": "LT",
 				"name": {
 					"en": "Rhân-bun-Rhân",
 					"es": "Rhân-bun-Rhân",
-					"de": "Rhân-bun-Rhân",
+					"de": "Name DE",
 					"fr": "Rhân-bun-Rhân",
 					"it": "Rhân-bun-Rhân",
 					"nl": "Rhân-bun-Rhân",
 					"fi": "Rhân-bun-Rhân",
 					"ja": "Rhân-bun-Rhân"},
-				"type": "Resource",
+				"type": "Character",
 				"alignment": "Stage",
 				"attributes": {
 					"unique": true,
+					"skills": "Scout/Ranger/Warrior",
 					"marshallingPoints": "R",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "character",
 					"body": "9",
 					"prowess": "4",
 					"homeSite": "The Lost Woods",
 					"directInfluence": "2",
+					"avatar": true,
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
@@ -4170,13 +4150,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-159": {
-				"id": "LT-159",
+			"LT-158": {
+				"id": "LT-158",
 				"set": "LT",
 				"name": {
 					"en": "Rise in Arms!",
-					"es": "Rise in Arms!",
-					"de": "Rise in Arms!",
+					"es": "¡Alzarse en Armas!",
+					"de": "Name DE",
 					"fr": "Rise in Arms!",
 					"it": "Rise in Arms!",
 					"nl": "Rise in Arms!",
@@ -4198,13 +4178,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-161": {
-				"id": "LT-161",
+			"LT-160": {
+				"id": "LT-160",
 				"set": "LT",
 				"name": {
 					"en": "Sador Labadal",
 					"es": "Sador Labadal",
-					"de": "Sador Labadal",
+					"de": "Name DE",
 					"fr": "Sador Labadal",
 					"it": "Sador Labadal",
 					"nl": "Sador Labadal",
@@ -4234,13 +4214,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-162": {
-				"id": "LT-162",
+			"LT-161": {
+				"id": "LT-161",
 				"set": "LT",
 				"name": {
 					"en": "Sap Coloring Stone",
-					"es": "Sap Coloring Stone",
-					"de": "Sap Coloring Stone",
+					"es": "Piedra Colorante de Savia",
+					"de": "Name DE",
 					"fr": "Sap Coloring Stone",
 					"it": "Sap Coloring Stone",
 					"nl": "Sap Coloring Stone",
@@ -4267,13 +4247,47 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
+			"LT-162": {
+				"id": "LT-162",
+				"set": "LT",
+				"name": {
+					"en": "Setmaenen -The Seven Stones",
+					"es": "Setmaenen Las Siete Piedras",
+					"de": "Name DE",
+					"fr": "Setmaenen -The Seven Stones",
+					"it": "Setmaenen -The Seven Stones",
+					"nl": "Setmaenen -The Seven Stones",
+					"fi": "Setmaenen -The Seven Stones",
+					"ja": "Setmaenen -The Seven Stones"},
+				"type": "Site",
+				"alignment": "Hero",
+				"attributes": {
+					"unique": true,
+					"haven": "Edhellond / Minas Morgul",
+					"draw": "2",
+					"region": "Lamedon",
+					"auto_attack": "Pûkel-creature — 2 strikes with 9 prowess",
+					"site_type": "{R}",
+					"playable": "Information, Items (minor, major*) *—weapon items only.",
+					"special": "Hidden Site. A company may not travel to this site unless it taps a Wose ranger.Corruption checks made by Spirit-magic or Pûkel-magic characters in this site are modified with a +3.",
+					"drawOpponent": "2",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "Setmaenen -The Seven Stones.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
 			"LT-163": {
 				"id": "LT-163",
 				"set": "LT",
 				"name": {
 					"en": "Sherl",
 					"es": "Sherl",
-					"de": "Sherl",
+					"de": "Name DE",
 					"fr": "Sherl",
 					"it": "Sherl",
 					"nl": "Sherl",
@@ -4308,7 +4322,7 @@
 				"name": {
 					"en": "Siol Speriang",
 					"es": "Siol Speriang",
-					"de": "Siol Speriang",
+					"de": "Name DE",
 					"fr": "Siol Speriang",
 					"it": "Siol Speriang",
 					"nl": "Siol Speriang",
@@ -4319,7 +4333,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "1",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Man Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -4336,8 +4350,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Spells of the Ancients",
-					"es": "Spells of the Ancients",
-					"de": "Spells of the Ancients",
+					"es": "Sortilegios de los Antiguos",
+					"de": "Name DE",
 					"fr": "Spells of the Ancients",
 					"it": "Spells of the Ancients",
 					"nl": "Spells of the Ancients",
@@ -4363,8 +4377,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Spiders´ Nest ",
-					"es": "Spiders´ Nest ",
-					"de": "Spiders´ Nest ",
+					"es": "Nido de Arañas",
+					"de": "Name DE",
 					"fr": "Spiders´ Nest ",
 					"it": "Spiders´ Nest ",
 					"nl": "Spiders´ Nest ",
@@ -4397,8 +4411,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Stone Charted Paths",
-					"es": "Stone Charted Paths",
-					"de": "Stone Charted Paths",
+					"es": "Caminos de Piedra Mapeados",
+					"de": "Name DE",
 					"fr": "Stone Charted Paths",
 					"it": "Stone Charted Paths",
 					"nl": "Stone Charted Paths",
@@ -4424,8 +4438,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Stone Guardian",
-					"es": "Stone Guardian",
-					"de": "Stone Guardian",
+					"es": "Guardián de Piedra",
+					"de": "Name DE",
 					"fr": "Stone Guardian",
 					"it": "Stone Guardian",
 					"nl": "Stone Guardian",
@@ -4450,8 +4464,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Stone-mace of Setmaenen",
-					"es": "Stone-mace of Setmaenen",
-					"de": "Stone-mace of Setmaenen",
+					"es": "Piedra Maza de Setmaenen",
+					"de": "Name DE",
 					"fr": "Stone-mace of Setmaenen",
 					"it": "Stone-mace of Setmaenen",
 					"nl": "Stone-mace of Setmaenen",
@@ -4482,8 +4496,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Sûzush Conjurer",
-					"es": "Sûzush Conjurer",
-					"de": "Sûzush Conjurer",
+					"es": "Presdigitador Sûzush",
+					"de": "Name DE",
 					"fr": "Sûzush Conjurer",
 					"it": "Sûzush Conjurer",
 					"nl": "Sûzush Conjurer",
@@ -4509,13 +4523,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-22": {
-				"id": "LT-22",
+			"LT-21": {
+				"id": "LT-21",
 				"set": "LT",
 				"name": {
 					"en": "The Caerdh Wood",
-					"es": "The Caerdh Wood",
-					"de": "The Caerdh Wood",
+					"es": "El Bosque Caerdh",
+					"de": "Name DE",
 					"fr": "The Caerdh Wood",
 					"it": "The Caerdh Wood",
 					"nl": "The Caerdh Wood",
@@ -4543,13 +4557,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-26": {
-				"id": "LT-26",
+			"LT-25": {
+				"id": "LT-25",
 				"set": "LT",
 				"name": {
 					"en": "The Chief´s Path",
-					"es": "The Chief´s Path",
-					"de": "The Chief´s Path",
+					"es": "El Sendero del Jefe",
+					"de": "Name DE",
 					"fr": "The Chief´s Path",
 					"it": "The Chief´s Path",
 					"nl": "The Chief´s Path",
@@ -4571,13 +4585,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-30": {
-				"id": "LT-30",
+			"LT-29": {
+				"id": "LT-29",
 				"set": "LT",
 				"name": {
 					"en": "The Cleddif",
-					"es": "The Cleddif",
-					"de": "The Cleddif",
+					"es": "La Cleddif",
+					"de": "Name DE",
 					"fr": "The Cleddif",
 					"it": "The Cleddif",
 					"nl": "The Cleddif",
@@ -4604,13 +4618,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-34": {
-				"id": "LT-34",
+			"LT-33": {
+				"id": "LT-33",
 				"set": "LT",
 				"name": {
 					"en": "The Coloring Stone",
-					"es": "The Coloring Stone",
-					"de": "The Coloring Stone",
+					"es": "La Piedra Colorante",
+					"de": "Name DE",
 					"fr": "The Coloring Stone",
 					"it": "The Coloring Stone",
 					"nl": "The Coloring Stone",
@@ -4635,13 +4649,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-35": {
-				"id": "LT-35",
+			"LT-34": {
+				"id": "LT-34",
 				"set": "LT",
 				"name": {
 					"en": "The Curse of Maellin Lothedel",
-					"es": "The Curse of Maellin Lothedel",
-					"de": "The Curse of Maellin Lothedel",
+					"es": "La Maldición de Maellin Lothedel",
+					"de": "Name DE",
 					"fr": "The Curse of Maellin Lothedel",
 					"it": "The Curse of Maellin Lothedel",
 					"nl": "The Curse of Maellin Lothedel",
@@ -4666,13 +4680,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-37": {
-				"id": "LT-37",
+			"LT-36": {
+				"id": "LT-36",
 				"set": "LT",
 				"name": {
 					"en": "The Daedhel",
-					"es": "The Daedhel",
-					"de": "The Daedhel",
+					"es": "La Daedhel",
+					"de": "Name DE",
 					"fr": "The Daedhel",
 					"it": "The Daedhel",
 					"nl": "The Daedhel",
@@ -4697,13 +4711,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-48": {
-				"id": "LT-48",
+			"LT-47": {
+				"id": "LT-47",
 				"set": "LT",
 				"name": {
 					"en": "The Drowning-deeps",
-					"es": "The Drowning-deeps",
-					"de": "The Drowning-deeps",
+					"es": "Las Profundidades Anegadas",
+					"de": "Name DE",
 					"fr": "The Drowning-deeps",
 					"it": "The Drowning-deeps",
 					"nl": "The Drowning-deeps",
@@ -4716,6 +4730,7 @@
 					"adjacent": "Blue Mountain Dwarf-hold (6), The Under-vaults (8), Remains of Thangorodrim (9)",
 					"draw": "1",
 					"region": "Under-Deeps",
+					"underDeeps": true,
 					"auto_attack": "Drake (1st attack) — 2 strikes with 11 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to Coastal Seas [c].",
 					"site_type": "{R}",
 					"playable": "Items (minor, major)",
@@ -4731,13 +4746,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-52": {
-				"id": "LT-52",
+			"LT-51": {
+				"id": "LT-51",
 				"set": "LT",
 				"name": {
 					"en": "The Drúadain",
-					"es": "The Drúadain",
-					"de": "The Drúadain",
+					"es": "Los Drúadain",
+					"de": "Name DE",
 					"fr": "The Drúadain",
 					"it": "The Drúadain",
 					"nl": "The Drúadain",
@@ -4748,7 +4763,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "2",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Wose Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -4760,13 +4775,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-61": {
-				"id": "LT-61",
+			"LT-60": {
+				"id": "LT-60",
 				"set": "LT",
 				"name": {
 					"en": "The Dweller of Fornost",
-					"es": "The Dweller of Fornost",
-					"de": "The Dweller of Fornost",
+					"es": "El Morador de Fornost",
+					"de": "Name DE",
 					"fr": "The Dweller of Fornost",
 					"it": "The Dweller of Fornost",
 					"nl": "The Dweller of Fornost",
@@ -4791,13 +4806,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-64": {
-				"id": "LT-64",
+			"LT-63": {
+				"id": "LT-63",
 				"set": "LT",
 				"name": {
 					"en": "The Enemy of my Enemy",
-					"es": "The Enemy of my Enemy",
-					"de": "The Enemy of my Enemy",
+					"es": "El Enemigo de mi Enemigo",
+					"de": "Name DE",
 					"fr": "The Enemy of my Enemy",
 					"it": "The Enemy of my Enemy",
 					"nl": "The Enemy of my Enemy",
@@ -4818,13 +4833,13 @@
 				"rarity": "CA",
 				"artist": "Hildebrandt"
 			},
-			"LT-69": {
-				"id": "LT-69",
+			"LT-68": {
+				"id": "LT-68",
 				"set": "LT",
 				"name": {
 					"en": "The Faithful Stone",
-					"es": "The Faithful Stone",
-					"de": "The Faithful Stone",
+					"es": "La Piedra Leal",
+					"de": "Name DE",
 					"fr": "The Faithful Stone",
 					"it": "The Faithful Stone",
 					"nl": "The Faithful Stone",
@@ -4849,13 +4864,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-85": {
-				"id": "LT-85",
+			"LT-84": {
+				"id": "LT-84",
 				"set": "LT",
 				"name": {
 					"en": "The Haunting of Bor Leath",
-					"es": "The Haunting of Bor Leath",
-					"de": "The Haunting of Bor Leath",
+					"es": "El Embrujo de Bor Leath",
+					"de": "Name DE",
 					"fr": "The Haunting of Bor Leath",
 					"it": "The Haunting of Bor Leath",
 					"nl": "The Haunting of Bor Leath",
@@ -4879,13 +4894,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-94": {
-				"id": "LT-94",
+			"LT-93": {
+				"id": "LT-93",
 				"set": "LT",
 				"name": {
 					"en": "The Influence of Father Darkness",
-					"es": "The Influence of Father Darkness",
-					"de": "The Influence of Father Darkness",
+					"es": "La influencia del Padre Oscuridad",
+					"de": "Name DE",
 					"fr": "The Influence of Father Darkness",
 					"it": "The Influence of Father Darkness",
 					"nl": "The Influence of Father Darkness",
@@ -4907,13 +4922,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-99": {
-				"id": "LT-99",
+			"LT-98": {
+				"id": "LT-98",
 				"set": "LT",
 				"name": {
 					"en": "The Keeper of Colors",
-					"es": "The Keeper of Colors",
-					"de": "The Keeper of Colors",
+					"es": "Guardián de los Colores",
+					"de": "Name DE",
 					"fr": "The Keeper of Colors",
 					"it": "The Keeper of Colors",
 					"nl": "The Keeper of Colors",
@@ -4922,26 +4937,27 @@
 				"type": "Resource",
 				"alignment": "Hero",
 				"attributes": {
+					"unique": true,
 					"marshallingPoints": "4",
 					"marshallingPointsType": "miscellaneous",
 					"subtype": "Permanent-event",
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
-					{"en": "Lost Tribes Specific. Playable if you tap, for this specific reason: 3 Coloring Stones and 3 Wose factions you control. Place this card on your Wose-Chief if he is play, if so played: your Wose-Chief becomes The Keeper of Colors. +7 to your general influence, Wose characters with a mind attribute of 2 or less controlled by general influence or in the same company as your Wose-Chief require no influence to control. Your Wose-Chief may tap to bring a Wose character into play under general or direct influence at any non [D] or [S] with any company. This does not count against the one character per turn limit."},
+					{"en": "Unique. Lost Tribes Specific. Playable if you tap, for this specific reason: 3 Coloring Stones and 3 Wose factions you control. Place this card on your Wose-Chief if he is play, if so played: your Wose-Chief becomes The Keeper of Colors. +7 to your general influence, Wose characters with a mind attribute of 2 or less controlled by general influence or in the same company as your Wose-Chief require no influence to control. Your Wose-Chief may tap to bring a Wose character into play under general or direct influence at any non [D] or [S] with any company. This does not count against the one character per turn limit."},
 				"quote": 
 					{"en": ""},
 				"image": "The Keeper of Colors.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-103": {
-				"id": "LT-103",
+			"LT-102": {
+				"id": "LT-102",
 				"set": "LT",
 				"name": {
 					"en": "The Last King of Cardolan",
-					"es": "The Last King of Cardolan",
-					"de": "The Last King of Cardolan",
+					"es": "El Último Rey de Cardolan",
+					"de": "Name DE",
 					"fr": "The Last King of Cardolan",
 					"it": "The Last King of Cardolan",
 					"nl": "The Last King of Cardolan",
@@ -4966,13 +4982,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-109": {
-				"id": "LT-109",
+			"LT-108": {
+				"id": "LT-108",
 				"set": "LT",
 				"name": {
 					"en": "The Lost Grottos of the Choil Borba",
-					"es": "The Lost Grottos of the Choil Borba",
-					"de": "The Lost Grottos of the Choil Borba",
+					"es": "Las Grutas Perdidas de los Choil Borba",
+					"de": "Name DE",
 					"fr": "The Lost Grottos of the Choil Borba",
 					"it": "The Lost Grottos of the Choil Borba",
 					"nl": "The Lost Grottos of the Choil Borba",
@@ -4985,6 +5001,7 @@
 					"adjacent": "Hidden Forest to Foreign Eyes (0), The Drowning-deeps (6), The Sparkling Caves (6).",
 					"draw": "2",
 					"region": "Under-Deeps",
+					"underDeeps": true,
 					"auto_attack": "Pûkel-creature (1st attack) — 2x11 (a Wose character may be tapped to cancel this attack). (2nd attack) — Opponent may play as an automatic attack one non-unique hazard creature from his hand normally keyed to [S].",
 					"site_type": "{R}",
 					"playable": "Items (minor, major, gold ring)",
@@ -5000,13 +5017,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-110": {
-				"id": "LT-110",
+			"LT-109": {
+				"id": "LT-109",
 				"set": "LT",
 				"name": {
 					"en": "The Lost Temples",
-					"es": "The Lost Temples",
-					"de": "The Lost Temples",
+					"es": "Los Templos Perdidos",
+					"de": "Name DE",
 					"fr": "The Lost Temples",
 					"it": "The Lost Temples",
 					"nl": "The Lost Temples",
@@ -5034,13 +5051,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-111": {
-				"id": "LT-111",
+			"LT-110": {
+				"id": "LT-110",
 				"set": "LT",
 				"name": {
 					"en": "The Lost Woods",
-					"es": "The Lost Woods",
-					"de": "The Lost Woods",
+					"es": "Los Bosques Perdidos",
+					"de": "Name DE",
 					"fr": "The Lost Woods",
 					"it": "The Lost Woods",
 					"nl": "The Lost Woods",
@@ -5064,13 +5081,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-129": {
-				"id": "LT-129",
+			"LT-128": {
+				"id": "LT-128",
 				"set": "LT",
 				"name": {
 					"en": "The Moss-Deeps",
-					"es": "The Moss-Deeps",
-					"de": "The Moss-Deeps",
+					"es": "Las Profundidades Musgosas",
+					"de": "Name DE",
 					"fr": "The Moss-Deeps",
 					"it": "The Moss-Deeps",
 					"nl": "The Moss-Deeps",
@@ -5083,6 +5100,7 @@
 					"adjacent": "Spiders´ Nest (0),Underground Lake (6), The Sûlfur-Deeps (7).",
 					"draw": "1",
 					"region": "Under-Deeps",
+					"underDeeps": true,
 					"auto_attack": "Corruption checks made by spirit-magic or pûkel-magic characters in this site are modified with a +3.",
 					"site_type": "{S}",
 					"playable": "Items (minor, major, greater)",
@@ -5097,13 +5115,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-130": {
-				"id": "LT-130",
+			"LT-129": {
+				"id": "LT-129",
 				"set": "LT",
 				"name": {
 					"en": "The Mother of Woods",
-					"es": "The Mother of Woods",
-					"de": "The Mother of Woods",
+					"es": "La Madre de los Bosques",
+					"de": "Name DE",
 					"fr": "The Mother of Woods",
 					"it": "The Mother of Woods",
 					"nl": "The Mother of Woods",
@@ -5125,13 +5143,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-131": {
-				"id": "LT-131",
+			"LT-130": {
+				"id": "LT-130",
 				"set": "LT",
 				"name": {
 					"en": "The Mournshaws",
-					"es": "The Mournshaws",
-					"de": "The Mournshaws",
+					"es": "Los Pesares",
+					"de": "Name DE",
 					"fr": "The Mournshaws",
 					"it": "The Mournshaws",
 					"nl": "The Mournshaws",
@@ -5159,13 +5177,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-137": {
-				"id": "LT-137",
+			"LT-136": {
+				"id": "LT-136",
 				"set": "LT",
 				"name": {
 					"en": "The Old Pûkel Man",
-					"es": "The Old Pûkel Man",
-					"de": "The Old Pûkel Man",
+					"es": "El Viejo Hombre Pûkel",
+					"de": "Name DE",
 					"fr": "The Old Pûkel Man",
 					"it": "The Old Pûkel Man",
 					"nl": "The Old Pûkel Man",
@@ -5187,13 +5205,13 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-160": {
-				"id": "LT-160",
+			"LT-159": {
+				"id": "LT-159",
 				"set": "LT",
 				"name": {
 					"en": "The Rusted-deeps",
-					"es": "The Rusted-deeps",
-					"de": "The Rusted-deeps",
+					"es": "Las Profundidades Oxidadas",
+					"de": "Name DE",
 					"fr": "The Rusted-deeps",
 					"it": "The Rusted-deeps",
 					"nl": "The Rusted-deeps",
@@ -5206,6 +5224,7 @@
 					"adjacent": "Iron Hill Dwarf-hold (6), The Wind-deeps (8)",
 					"draw": "1",
 					"region": "Under-Deeps",
+					"underDeeps": true,
 					"auto_attack": "Drake (1st attack) — 2 strikes with 11 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold [S].",
 					"site_type": "{R}",
 					"playable": "Items (minor, major)",
@@ -5226,8 +5245,8 @@
 				"set": "LT",
 				"name": {
 					"en": "The Sparkling Caves",
-					"es": "The Sparkling Caves",
-					"de": "The Sparkling Caves",
+					"es": "Las Grutas Centelleantes",
+					"de": "Name DE",
 					"fr": "The Sparkling Caves",
 					"it": "The Sparkling Caves",
 					"nl": "The Sparkling Caves",
@@ -5240,6 +5259,7 @@
 					"adjacent": "Hidden Ruins (0), The Lost Grottos of the Choil Borba (6), The Haunted Grottos (7), The Deafening Grottos (7), The Pûkel-deeps (6)",
 					"draw": "2",
 					"region": "Under-Deeps",
+					"underDeeps": true,
 					"auto_attack": "Pûkel-creature (1st attack) — 2x11 (a Wose character may be tapped to cancel this attack)(2nd attack) — Opponent may play as an automatic attack one non-unique hazard creature from his hand normally keyed to [S].",
 					"site_type": "{R}",
 					"playable": "Items (minor, major, gold ring)",
@@ -5260,8 +5280,8 @@
 				"set": "LT",
 				"name": {
 					"en": "The Stone-Deeps",
-					"es": "The Stone-Deeps",
-					"de": "The Stone-Deeps",
+					"es": "Las Profundidades de Piedra",
+					"de": "Name DE",
 					"fr": "The Stone-Deeps",
 					"it": "The Stone-Deeps",
 					"nl": "The Stone-Deeps",
@@ -5274,6 +5294,7 @@
 					"adjacent": "High Glens (0), The Pûkel-Deeps (5), The Deafening Grottos (7), Shelob´s Great Pit (11).",
 					"draw": "2",
 					"region": "Under-Deeps",
+					"underDeeps": true,
 					"auto_attack": "Pûkel-creature (1st attack) — 2x11 (a Wose character may be tapped to cancel this attack)(2nd attack) — Opponent may play as an automatic attack one non-unique hazard creature from his hand normally keyed to [S].",
 					"site_type": "{R}",
 					"playable": "Items (minor, major, gold ring)",
@@ -5294,8 +5315,8 @@
 				"set": "LT",
 				"name": {
 					"en": "The Stones",
-					"es": "The Stones",
-					"de": "The Stones",
+					"es": "Las Piedras",
+					"de": "Name DE",
 					"fr": "The Stones",
 					"it": "The Stones",
 					"nl": "The Stones",
@@ -5324,8 +5345,8 @@
 				"set": "LT",
 				"name": {
 					"en": "The Wind-deeps",
-					"es": "The Wind-deeps",
-					"de": "The Wind-deeps",
+					"es": "Los Subterráneos del Viento",
+					"de": "Name DE",
 					"fr": "The Wind-deeps",
 					"it": "The Wind-deeps",
 					"nl": "The Wind-deeps",
@@ -5338,6 +5359,7 @@
 					"adjacent": "The Wind Throne (0), The Under-leas (5), The Rusted-deeps (8)",
 					"draw": "1",
 					"region": "Under-Deeps",
+					"underDeeps": true,
 					"auto_attack": "Orcs (1st attack) — 3 strikes with 7 prowess; (2nd attack) Opponent may play as an automatic-attack one non-unique hazard creature from his hand normally keyed to a Shadow-hold [S].",
 					"site_type": "{R}",
 					"playable": "Items (minor, major)",
@@ -5358,8 +5380,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Thornbite Staff",
-					"es": "Thornbite Staff",
-					"de": "Thornbite Staff",
+					"es": "Bastón de Picadura de Espinas",
+					"de": "Name DE",
 					"fr": "Thornbite Staff",
 					"it": "Thornbite Staff",
 					"nl": "Thornbite Staff",
@@ -5392,7 +5414,7 @@
 				"name": {
 					"en": "Tika",
 					"es": "Tika",
-					"de": "Tika",
+					"de": "Name DE",
 					"fr": "Tika",
 					"it": "Tika",
 					"nl": "Tika",
@@ -5425,7 +5447,7 @@
 				"name": {
 					"en": "Tolwen",
 					"es": "Tolwen",
-					"de": "Tolwen",
+					"de": "Name DE",
 					"fr": "Tolwen",
 					"it": "Tolwen",
 					"nl": "Tolwen",
@@ -5459,8 +5481,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Tree Horrors",
-					"es": "Tree Horrors",
-					"de": "Tree Horrors",
+					"es": "Horrores Arbóreos",
+					"de": "Name DE",
 					"fr": "Tree Horrors",
 					"it": "Tree Horrors",
 					"nl": "Tree Horrors",
@@ -5492,8 +5514,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Treespeaker",
-					"es": "Treespeaker",
-					"de": "Treespeaker",
+					"es": "Orador de Árboles",
+					"de": "Name DE",
 					"fr": "Treespeaker",
 					"it": "Treespeaker",
 					"nl": "Treespeaker",
@@ -5519,8 +5541,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Tribal Ritual",
-					"es": "Tribal Ritual",
-					"de": "Tribal Ritual",
+					"es": "Ritual Tribal",
+					"de": "Name DE",
 					"fr": "Tribal Ritual",
 					"it": "Tribal Ritual",
 					"nl": "Tribal Ritual",
@@ -5545,8 +5567,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Tribe Blessings",
-					"es": "Tribe Blessings",
-					"de": "Tribe Blessings",
+					"es": "Bendiciones de la Tribu",
+					"de": "Name DE",
 					"fr": "Tribe Blessings",
 					"it": "Tribe Blessings",
 					"nl": "Tribe Blessings",
@@ -5572,8 +5594,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Tribe Tactics",
-					"es": "Tribe Tactics",
-					"de": "Tribe Tactics",
+					"es": "Tácticas de Tribu",
+					"de": "Name DE",
 					"fr": "Tribe Tactics",
 					"it": "Tribe Tactics",
 					"nl": "Tribe Tactics",
@@ -5599,8 +5621,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Underground Lake",
-					"es": "Underground Lake",
-					"de": "Underground Lake",
+					"es": "Lago Subterráneo",
+					"de": "Name DE",
 					"fr": "Underground Lake",
 					"it": "Underground Lake",
 					"nl": "Underground Lake",
@@ -5613,6 +5635,7 @@
 					"adjacent": "The Lost Temples (0), The Moss-Deeps (6), The Sûlfur-Deeps (6).",
 					"draw": "2",
 					"region": "Under-Deeps",
+					"underDeeps": true,
 					"auto_attack": "Pûkel-creature (1st attack) — 2x11 (a Wose character may be tapped to cancel this attack).(2nd attack) — Opponent may play as an automatic attack one non-unique hazard creature from his hand normally keyed to [c].",
 					"site_type": "{R}",
 					"playable": "Items (minor, major, gold ring)",
@@ -5633,8 +5656,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Ungoliant Aberration Awaken",
-					"es": "Ungoliant Aberration Awaken",
-					"de": "Ungoliant Aberration Awaken",
+					"es": "Aberración de Ungoliant Despierta",
+					"de": "Name DE",
 					"fr": "Ungoliant Aberration Awaken",
 					"it": "Ungoliant Aberration Awaken",
 					"nl": "Ungoliant Aberration Awaken",
@@ -5645,7 +5668,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "4",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Spawn Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -5662,8 +5685,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Unspeakable Rituals",
-					"es": "Unspeakable Rituals",
-					"de": "Unspeakable Rituals",
+					"es": "Rituales Indescriptibles",
+					"de": "Name DE",
 					"fr": "Unspeakable Rituals",
 					"it": "Unspeakable Rituals",
 					"nl": "Unspeakable Rituals",
@@ -5688,8 +5711,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Vigor of Mother Earth",
-					"es": "Vigor of Mother Earth",
-					"de": "Vigor of Mother Earth",
+					"es": "Vigor de la Madre Tierra ",
+					"de": "Name DE",
 					"fr": "Vigor of Mother Earth",
 					"it": "Vigor of Mother Earth",
 					"nl": "Vigor of Mother Earth",
@@ -5715,8 +5738,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Wandlimb",
-					"es": "Wandlimb",
-					"de": "Wandlimb",
+					"es": "Miembros de Junco",
+					"de": "Name DE",
 					"fr": "Wandlimb",
 					"it": "Wandlimb",
 					"nl": "Wandlimb",
@@ -5747,8 +5770,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Water Coloring Stone",
-					"es": "Water Coloring Stone",
-					"de": "Water Coloring Stone",
+					"es": "Piedra Colorante de Agua",
+					"de": "Name DE",
 					"fr": "Water Coloring Stone",
 					"it": "Water Coloring Stone",
 					"nl": "Water Coloring Stone",
@@ -5780,8 +5803,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Water Leaper",
-					"es": "Water Leaper",
-					"de": "Water Leaper",
+					"es": "Saltador del Agua",
+					"de": "Name DE",
 					"fr": "Water Leaper",
 					"it": "Water Leaper",
 					"nl": "Water Leaper",
@@ -5813,8 +5836,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Will Driven by Revenge",
-					"es": "Will Driven by Revenge",
-					"de": "Will Driven by Revenge",
+					"es": "Voluntad Guiada por la Venganza",
+					"de": "Name DE",
 					"fr": "Will Driven by Revenge",
 					"it": "Will Driven by Revenge",
 					"nl": "Will Driven by Revenge",
@@ -5839,8 +5862,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Willow-Wood Wand",
-					"es": "Willow-Wood Wand",
-					"de": "Willow-Wood Wand",
+					"es": "Varita de Madera de Sauce",
+					"de": "Name DE",
 					"fr": "Willow-Wood Wand",
 					"it": "Willow-Wood Wand",
 					"nl": "Willow-Wood Wand",
@@ -5868,8 +5891,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Wooden Ceremonials",
-					"es": "Wooden Ceremonials",
-					"de": "Wooden Ceremonials",
+					"es": "Ceremoniales de Madera",
+					"de": "Name DE",
 					"fr": "Wooden Ceremonials",
 					"it": "Wooden Ceremonials",
 					"nl": "Wooden Ceremonials",
@@ -5899,8 +5922,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Wose Blood Ties",
-					"es": "Wose Blood Ties",
-					"de": "Wose Blood Ties",
+					"es": "Lazos de Sangre Wose",
+					"de": "Name DE",
 					"fr": "Wose Blood Ties",
 					"it": "Wose Blood Ties",
 					"nl": "Wose Blood Ties",
@@ -5926,8 +5949,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Wose Blowpipe",
-					"es": "Wose Blowpipe",
-					"de": "Wose Blowpipe",
+					"es": "Cerbatana Wose",
+					"de": "Name DE",
 					"fr": "Wose Blowpipe",
 					"it": "Wose Blowpipe",
 					"nl": "Wose Blowpipe",
@@ -5953,8 +5976,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Wose Elite Guard",
-					"es": "Wose Elite Guard",
-					"de": "Wose Elite Guard",
+					"es": "Guardia de Élite Wose",
+					"de": "Name DE",
 					"fr": "Wose Elite Guard",
 					"it": "Wose Elite Guard",
 					"nl": "Wose Elite Guard",
@@ -5986,8 +6009,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Wose Laborer",
-					"es": "Wose Laborer",
-					"de": "Wose Laborer",
+					"es": "Trabajador Wose",
+					"de": "Name DE",
 					"fr": "Wose Laborer",
 					"it": "Wose Laborer",
 					"nl": "Wose Laborer",
@@ -6019,8 +6042,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Wose Memories",
-					"es": "Wose Memories",
-					"de": "Wose Memories",
+					"es": "Memorias Wose",
+					"de": "Name DE",
 					"fr": "Wose Memories",
 					"it": "Wose Memories",
 					"nl": "Wose Memories",
@@ -6045,8 +6068,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Wose Sentinel",
-					"es": "Wose Sentinel",
-					"de": "Wose Sentinel",
+					"es": "Centinela Wose",
+					"de": "Name DE",
 					"fr": "Wose Sentinel",
 					"it": "Wose Sentinel",
 					"nl": "Wose Sentinel",
@@ -6079,8 +6102,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Wose Shaman",
-					"es": "Wose Shaman",
-					"de": "Wose Shaman",
+					"es": "Chamán Wose",
+					"de": "Name DE",
 					"fr": "Wose Shaman",
 					"it": "Wose Shaman",
 					"nl": "Wose Shaman",
@@ -6114,8 +6137,8 @@
 				"set": "LT",
 				"name": {
 					"en": "Wose Tracker",
-					"es": "Wose Tracker",
-					"de": "Wose Tracker",
+					"es": "Rastreador Wose",
+					"de": "Name DE",
 					"fr": "Wose Tracker",
 					"it": "Wose Tracker",
 					"nl": "Wose Tracker",
@@ -6148,7 +6171,7 @@
 				"name": {
 					"en": "Wudu-Wasa",
 					"es": "Wudu-Wasa",
-					"de": "Wudu-Wasa",
+					"de": "Name DE",
 					"fr": "Wudu-Wasa",
 					"it": "Wudu-Wasa",
 					"nl": "Wudu-Wasa",
@@ -6159,7 +6182,7 @@
 				"attributes": {
 					"unique": true,
 					"marshallingPoints": "1",
-					"marshallingPointsType": "miscellaneous",
+					"marshallingPointsType": "faction",
 					"subtype": "Wose Faction",
 					"spawn": false,
 					"keywords": ["-"]},
@@ -6177,7 +6200,7 @@
 				"name": {
 					"en": "Yfelwood",
 					"es": "Yfelwood",
-					"de": "Yfelwood",
+					"de": "Name DE",
 					"fr": "Yfelwood",
 					"it": "Yfelwood",
 					"nl": "Yfelwood",
