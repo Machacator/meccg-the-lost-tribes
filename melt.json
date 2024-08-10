@@ -11,8 +11,8 @@
 			"en": "https://github.com/Machacator/meccg-the-lost-tribes/tree/main/images_en/",
 			"es": "https://github.com/Machacator/meccg-the-lost-tribes/tree/main/images_es/" },
 		"cards": {
-			"LT-35": {
-				"id": "LT-35",
+			"LT-37": {
+				"id": "LT-37",
 				"set": "LT",
 				"name": {
 					"en": "A Cursed Power",
@@ -34,12 +34,12 @@
 					{"en": "Unique. Lost Tribes specific. Only playable if The One Ring and your Wose-chief are both at Mount Doom during the site phase. Make a roll. Add 1 for each Wose ranger in your Wose-chief´s company you decide to tap for this purpose and 1 for each Wose-chief follower in the company. If the result is less than 6, your Wose-chief is eliminated. If the result is greater than 9, you win the game; else, discard this card."},
 				"quote": 
 					{"en": "“...a flicker of their true self struggled to break free from the Ring’s grasp, yearning to cast off the weight of this alluring but treacherous artifact.” —LotRII"},
-				"image": "acursedpower_35.jpg",
+				"image": "acursedpower_37.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-73": {
-				"id": "LT-73",
+			"LT-77": {
+				"id": "LT-77",
 				"set": "LT",
 				"name": {
 					"en": "A Folk´s Dream",
@@ -60,12 +60,12 @@
 					{"en": "Wose-chief only. Playable on your Wose-Chief. You may play this card from your sideboard. The selected Wose-Chief becomes your Wose-Chief for the purpose of playing Wose-Chief specific cards. Additionally, you may put into play a second Wose-Chief from your hand or discard pile. This Wose-Chief is not considered your Wose-Chief for the purpose of playing Wose-Chief specific cards. He requires 0 influence to control if controlled by your Wose-Chief or 2 points of influence if controlled by general influence and may only be controlled by general influence or by your main Wose-Chief. -3 MP if any of your Wose-Chiefs is elliminated."},
 				"quote": 
 					{"en": ""},
-				"image": "afolksdream_73.jpg",
+				"image": "afolksdream_77.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-91": {
-				"id": "LT-91",
+			"LT-95": {
+				"id": "LT-95",
 				"set": "LT",
 				"name": {
 					"en": "A Hope and a Despair",
@@ -86,12 +86,12 @@
 					{"en": "Magic. Pûkel-magic. Playable on a pûkel magic using character, only if a character in his company has a Gold Ring. Play to test a gold ring; make two rolls and choose one result to use for the test. If character is a Wose-Chief, he makes a corruption check modified by -1, else character makes a corruption check modified by -4."},
 				"quote": 
 					{"en": "“It is a gift and a curse, a blessing and a bane, a hope and a despair. It is the ring that binds all, and the ring that breaks all.” —Tribal Lore"},
-				"image": "ahopeandadespair_91.jpg",
+				"image": "ahopeandadespair_95.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-102": {
-				"id": "LT-102",
+			"LT-106": {
+				"id": "LT-106",
 				"set": "LT",
 				"name": {
 					"en": "A King´s Reward",
@@ -114,12 +114,12 @@
 					{"en": "Ghân-buri-Ghân specific. Playable on Ghân-buri-Ghân as your Wose-Chief on Drûadan Forest if you have at least: 2 Fogu, 4 factions, and 6 characters in play. Other players may not use the Wose-haven [H] for Drûadan Forest. A company moving to or from Drûadan Forest is not considered to be moving through Anórien (including one less Free-hold [f] in their site path). Cannot be duplicated."},
 				"quote": 
 					{"en": "“In reward, after the War of the Ring, Aragorn granted the Forest to the Drúedain who lived there.” —LotRIII"},
-				"image": "akingsreward_102.jpg",
+				"image": "akingsreward_106.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-136": {
-				"id": "LT-136",
+			"LT-143": {
+				"id": "LT-143",
 				"set": "LT",
 				"name": {
 					"en": "A Nice Place to Settle",
@@ -142,12 +142,12 @@
 					{"en": "Lost Tribes Specific. Playable at a non-Dragon’s lair Ruins &amp; Lairs [R] in a Wilderness [w] or Border-Land [b] by a Wose character with a mind attribute of 3 or more. Any Wose character may be brought into play in this site during the organization phase under general or direct influence, regardless of the character’s homesite limitations or the Wose-Chief presence. You get 1 MP if Fogu is played additionally at this site. Site is never discarded nor returned to the location deck. May not be duplicated on a given site."},
 				"quote": 
 					{"en": ""},
-				"image": "aniceplacetosettle_136.jpg",
+				"image": "aniceplacetosettle_143.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-169": {
-				"id": "LT-169",
+			"LT-178": {
+				"id": "LT-178",
 				"set": "LT",
 				"name": {
 					"en": "A Somewhat Hidden Spot",
@@ -168,7 +168,7 @@
 					{"en": "Playable on a Scout. Characters in his company may play one non-unique minor item after entering any site. Tap a character in his company to play the minor item on that character (does not tap the site). This item may be played from the sideboard or hand. Minor items that may be discarded for an effect may not be played from the discard pile."},
 				"quote": 
 					{"en": ""},
-				"image": "asomewhathiddenspot_169.jpg",
+				"image": "asomewhathiddenspot_178.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
@@ -292,6 +292,41 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
+			"LT-6": {
+				"id": "LT-6",
+				"set": "LT",
+				"name": {
+					"en": "Ancient Deep-hold",
+					"es": "Antigua Fortaleza Subterránea",
+					"de": "Name DE",
+					"fr": "Ancient Deep-hold",
+					"it": "Ancient Deep-hold",
+					"nl": "Ancient Deep-hold",
+					"fi": "Ancient Deep-hold",
+					"ja": "Ancient Deep-hold"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"adjacent": "no surface site, one Underdeeps Ruins and Lairs [R] chosen by you when this card is played (8)",
+					"draw": "2",
+					"region": "",
+					"underDeeps": true,
+					"auto_attack": "2 strikes with 10 prowess; Each character wounded must make a corruption check modified by -2..",
+					"site_type": "{R}",
+					"playable": "Information, Items (minor, major, greater, gold ring)",
+					"special": "Hidden Site. A company may not move to this site unless it contains a ranger. Any Undead or Spider hazard creature may played at this site This site is never discarded not returned to the site deck.",
+					"drawOpponent": "2",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "ancientdeep-hold_6.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
 			"LT-5": {
 				"id": "LT-5",
 				"set": "LT",
@@ -327,8 +362,8 @@
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-6": {
-				"id": "LT-6",
+			"LT-7": {
+				"id": "LT-7",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Darkness",
@@ -352,12 +387,12 @@
 					{"en": "Unique. Watchstone. Playable at any tapped or untapped Under-deeps site by a pûkel-magic-using character if no other Watchstone is at the site. Tap the character. This site is never discarded or returned to its location deck.When played, search your play deck or discard pile for Doors of Night and put it directly into play. • You may discard a hazard creature card from your hand to cancel an attack against one of your companies at or moving to or from an Under-deeps site.“A short breeze was felt....bringing memories of old darkness” —LotRIII"},
 				"quote": 
 					{"en": ""},
-				"image": "ancientpûkelofdarkness_6.jpg",
+				"image": "ancientpûkelofdarkness_7.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-7": {
-				"id": "LT-7",
+			"LT-8": {
+				"id": "LT-8",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Harmony",
@@ -381,12 +416,12 @@
 					{"en": "Unique. Watchstone. Playable at any tapped Hidden site by a Wose pûkel-magic-using character if no other Watchstone is at the site. Tap the character. This site is never discarded or returned to its location deck. All Pûkel-creature attacks against your companies are considered as detainment attacks."},
 				"quote": 
 					{"en": "“The moss covered watchstone” —LotRIII"},
-				"image": "ancientpûkelofharmony_7.jpg",
+				"image": "ancientpûkelofharmony_8.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-8": {
-				"id": "LT-8",
+			"LT-9": {
+				"id": "LT-9",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Protection",
@@ -410,12 +445,12 @@
 					{"en": "Unique. Watchstone. Playable at any tapped Hidden site by a Wose pûkel-magic-using character if no other Watchstone is at the site. Tap the character. This site is never discarded or returned to its location deck. All your sites with a Watchstone now have an additional automatic attack (canceled against your companies) Pûkel-creature— 2 with prowess 9."},
 				"quote": 
 					{"en": "“The watchstone from the old Drâr, the youngest keeper of colors” —Tribal Lore"},
-				"image": "ancientpûkelofprotection_8.jpg",
+				"image": "ancientpûkelofprotection_9.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-9": {
-				"id": "LT-9",
+			"LT-10": {
+				"id": "LT-10",
 				"set": "LT",
 				"name": {
 					"en": "Ancient Pûkel of Resistance",
@@ -439,12 +474,12 @@
 					{"en": "Unique. Watchstone. Playable at any tapped Hidden site by a Wose pûkel-magic-using character if no other Watchstone is at the site. Tap the character. This site is never discarded or returned to its location deck. All Woses in the same and adjacent regions as this card’s site or at any Under-deeps site thereof get +1 body (to a maximum of 10).Your pûkel-magic-using characters get +1 to all corruption checks."},
 				"quote": 
 					{"en": ""},
-				"image": "ancientpûkelofresistance_9.jpg",
+				"image": "ancientpûkelofresistance_10.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-10": {
-				"id": "LT-10",
+			"LT-11": {
+				"id": "LT-11",
 				"set": "LT",
 				"name": {
 					"en": "Animated Statue",
@@ -466,12 +501,12 @@
 					{"en": "Playable on a pûkel-magic-using Wose character. Discard Animated Statue and the character and replace with a Pûkel Totem. This Pûkel Totem may be brought into play from your hand or sideboard and comes into play tapped. You may play this permanent event in lieu of a minor item with your starting company."},
 				"quote": 
 					{"en": "“I-yan an Ari-an Yan!” —The Lost Tribes"},
-				"image": "animatedstatue_10.jpg",
+				"image": "animatedstatue_11.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-11": {
-				"id": "LT-11",
+			"LT-12": {
+				"id": "LT-12",
 				"set": "LT",
 				"name": {
 					"en": "Anticipate",
@@ -492,12 +527,12 @@
 					{"en": "Wose only. Cancel one strike against a Wose character not keyed to a Free-hold [F] nor a Dark-hold [D]."},
 				"quote": 
 					{"en": "“Drughu are known for their secretive forest-dwelling ways” —Tribal Lore"},
-				"image": "anticipate_11.jpg",
+				"image": "anticipate_12.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-12": {
-				"id": "LT-12",
+			"LT-13": {
+				"id": "LT-13",
 				"set": "LT",
 				"name": {
 					"en": "Ari-Ghân",
@@ -527,12 +562,12 @@
 					{"en": "Unique. +2 to all rolls required for his company to move to an adjacent site in the Under-deeps. +2 influence against Wose characters and Wose factions. If Ari-Lam is in his company, Ari-Ghân’s mind is reduced by one."},
 				"quote": 
 					{"en": "“Ari-Ghân was one of a small band of Drughu who were exploring the Lost Grottos of the Coit Du with the intention of making the caverns their tribe’s home.” —Woses of the Black Wood"},
-				"image": "ari-ghân_12.jpg",
+				"image": "ari-ghân_13.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-13": {
-				"id": "LT-13",
+			"LT-14": {
+				"id": "LT-14",
 				"set": "LT",
 				"name": {
 					"en": "Ari-Lam",
@@ -562,12 +597,12 @@
 					{"en": "Unique. +2 to his prowess against Undead. +1 to his direct influence against Woses and Wose factions. If Ari-Ghân is in his company, Ari-Lam’s mind is reduced by one."},
 				"quote": 
 					{"en": "“Ari-Lam was the fiercest fighter of the group, and always wielded a pipebow” —Woses of the Black Wood"},
-				"image": "ari-lam_13.jpg",
+				"image": "ari-lam_14.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-14": {
-				"id": "LT-14",
+			"LT-15": {
+				"id": "LT-15",
 				"set": "LT",
 				"name": {
 					"en": "Barach the Forester",
@@ -597,12 +632,12 @@
 					{"en": "Unique. +1 to his direct influence against Woses and Wose factions. As a Wose player, may be played as a starting character."},
 				"quote": 
 					{"en": "“Was a Hunter of the Folk of Haleth who enjoyed a close friendship with the Drûg-magician Aghan” —Woses of the Black Wood"},
-				"image": "barachtheforester_14.jpg",
+				"image": "barachtheforester_15.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-15": {
-				"id": "LT-15",
+			"LT-16": {
+				"id": "LT-16",
 				"set": "LT",
 				"name": {
 					"en": "Beffraen",
@@ -627,12 +662,12 @@
 					{"en": "Unique. Lost Tribes Specific. Playable at Carn Gasadaer or Penn cums if the influence check is greater than 9.Standard Modifications: Woses (+1).While this faction is under your control, your Wose-Chief´s general influence is modified by +2."},
 				"quote": 
 					{"en": "“Even their closest relatives, the Beffraen, are considered hostile intruders” —Woses of the Black Wood"},
-				"image": "beffraen_15.jpg",
+				"image": "beffraen_16.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-16": {
-				"id": "LT-16",
+			"LT-17": {
+				"id": "LT-17",
 				"set": "LT",
 				"name": {
 					"en": "Black Alder",
@@ -658,12 +693,12 @@
 					{"en": "Unique. Any company moving in Cardolan, Old Pûkel Land, Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm immediately faces one Awakened Plant attack (considered a hazard creature attack) — 2 strikes at 9/6 (attacker chooses defending characters)."},
 				"quote": 
 					{"en": "“The Black Alder was an awakened tree, a tree-spirit of the Old Forest who had fallen under the evil influence of the Old Man Willow” —MERP"},
-				"image": "blackalder_16.jpg",
+				"image": "blackalder_17.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-17": {
-				"id": "LT-17",
+			"LT-18": {
+				"id": "LT-18",
 				"set": "LT",
 				"name": {
 					"en": "Black Clover",
@@ -684,12 +719,12 @@
 					{"en": "Wose only. Tap a blowpipe to play Black Clover.-2 Prowess and body and -1 number of strikes from any orc or troll attack against a company.Alternatively, Against overt companies in cvcc, +1 Prowess to all characters and allies in the company. The opposing company´s characters body checks are modified with +1."},
 				"quote": 
 					{"en": "“A rare and potentially deadly variety of clover. It is said that ancient Drûgs used its pollen to produce deadly poison for their darts” —Treasures of Middle Earth"},
-				"image": "blackclover_17.jpg",
+				"image": "blackclover_18.jpg",
 				"rarity": "CA",
 				"artist": "César Germánico"
 			},
-			"LT-18": {
-				"id": "LT-18",
+			"LT-19": {
+				"id": "LT-19",
 				"set": "LT",
 				"name": {
 					"en": "Blogath",
@@ -715,12 +750,12 @@
 					{"en": "Unique. Undead. Haunted. Yfelwood has an additional automatic-attack: Undead—2 strikes at 12/7. In addition, characters starting their untap phase at any site in Rhudaur (except Rivendell) and Cardolan do not untap normally. Instead, make a roll (or draw a #) and add his mind value: if the result is greater than 10, character is untapped"},
 				"quote": 
 					{"en": "“Foul deeds of every kind were perpetrated among her worshippers, and the Shadow spread.” —Dark Mage of Rhudaur"},
-				"image": "blogath_18.jpg",
+				"image": "blogath_19.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-19": {
-				"id": "LT-19",
+			"LT-20": {
+				"id": "LT-20",
 				"set": "LT",
 				"name": {
 					"en": "Bowels of Gobha",
@@ -742,12 +777,12 @@
 					{"en": "Channeling. Playable on a Pûkel Totem. Tap the Pûkel Totem. -2 to his mind value (-1 if played on Cadno op Gobha). Tap a Channeling and an Enchanted Tattoo to cancel an attack of a company at or moving to or from an Under-deeps site. Allies at any Under-deeps site are not affected by Reluctant Final Parting. Cannot be duplicated on a given Pûkel Totem. Discard if Pûkel-Totem moves or abandons play."},
 				"quote": 
 					{"en": ""},
-				"image": "bowelsofgobha_19.jpg",
+				"image": "bowelsofgobha_20.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-20": {
-				"id": "LT-20",
+			"LT-21": {
+				"id": "LT-21",
 				"set": "LT",
 				"name": {
 					"en": "Cadno op Gobha",
@@ -777,12 +812,12 @@
 					{"en": "Unique. Lost Tribes Specific. Pûkel Totem. All your companies travelling through, at least, two Wilderness [ww] have their hazard limit reduced in one (to a minimum of two). Tap to reduce by one the number of cards opononent draws when any of your companies moves to or from an Under-deeps site."},
 				"quote": 
 					{"en": ""},
-				"image": "cadnoopgobha_20.jpg",
+				"image": "cadnoopgobha_21.jpg",
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-22": {
-				"id": "LT-22",
+			"LT-24": {
+				"id": "LT-24",
 				"set": "LT",
 				"name": {
 					"en": "Caichan Puchel",
@@ -812,12 +847,12 @@
 					{"en": "Unique. Lost Tribes Specific. Pûkel Totem. His controlling player may keep one more card than normal in his hand. May tap to allow a sage Wose character to play pûkel-magic cards until end of turn. Caichan Puchel makes a corruption check.“Tolfalas civilization existed from the First Age through master sage Mîn-ura-Mîn. All his folk endured transformed into stones and gems.” —The Lost Tribes"},
 				"quote": 
 					{"en": ""},
-				"image": "caichanpuchel_22.jpg",
+				"image": "caichanpuchel_24.jpg",
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-23": {
-				"id": "LT-23",
+			"LT-25": {
+				"id": "LT-25",
 				"set": "LT",
 				"name": {
 					"en": "Carn Gasadaer",
@@ -846,12 +881,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "carngasadaer_23.jpg",
+				"image": "carngasadaer_25.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-24": {
-				"id": "LT-24",
+			"LT-26": {
+				"id": "LT-26",
 				"set": "LT",
 				"name": {
 					"en": "Carved Marks",
@@ -872,12 +907,12 @@
 					{"en": "Any company formed by at least 3 Wose characters may move to an additional region if his current site path contains at least www.Alternatively, you may treat a Border-land [b] as a Wilderness [w] during each of your movement/hazard phases."},
 				"quote": 
 					{"en": "“Carved by forgotten tribes, they lead the way to those with forest understanding” —Tribal Lore"},
-				"image": "carvedmarks_24.jpg",
+				"image": "carvedmarks_26.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-26": {
-				"id": "LT-26",
+			"LT-28": {
+				"id": "LT-28",
 				"set": "LT",
 				"name": {
 					"en": "Claim it Back!",
@@ -900,12 +935,12 @@
 					{"en": "Rhân-bun-Rhân specific. Playable during the site phase at Dol Guldur if Rhân-bun-Rhân is there and Rise in Arms! is in play. Rhân-bun-Rhân’s company faces 3 attacks: (Orcs — 3x8, Trolls — 2x10, Nazgûl — 1x15 cannot be canceled). Following the attacks, tap Rhân-bun-Rhân or discard this card. This site is never discarded or returned to its location deck. Discard all factions playable at the site. Cannot be duplicated on a given site."},
 				"quote": 
 					{"en": ""},
-				"image": "claimitback!_26.jpg",
+				"image": "claimitback!_28.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-27": {
-				"id": "LT-27",
+			"LT-29": {
+				"id": "LT-29",
 				"set": "LT",
 				"name": {
 					"en": "Clan Drughân",
@@ -934,12 +969,12 @@
 					{"en": "Lost Tribes Specific. +1 to his direct influence against Woses and Wose factions. During your organization phase, tap to search your sideboard, deck or discard pile for Healing Herbs and place it in your hand."},
 				"quote": 
 					{"en": "“A clan’s drughân is treated with great respect. for he is the only clan member who possesses the knowledge of concocting herbal potions capable of curing mortal wounds.” —Hands of the Healer"},
-				"image": "clandrughân_27.jpg",
+				"image": "clandrughân_29.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-28": {
-				"id": "LT-28",
+			"LT-30": {
+				"id": "LT-30",
 				"set": "LT",
 				"name": {
 					"en": "Clan Warrior",
@@ -967,12 +1002,12 @@
 					{"en": "Clan Warrior is considered a Wose (in addition to being a Man) if there is a Wose in his company. -1 to all of his corruption checks. -1 to influence checks against factions."},
 				"quote": 
 					{"en": "“Their ancestors had been a group from which the Halethrim and Drúedain had split-off when they were pressed to pass the later gap of Calenardhon.” —The Lost Tribes"},
-				"image": "clanwarrior_28.jpg",
+				"image": "clanwarrior_30.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-30": {
-				"id": "LT-30",
+			"LT-32": {
+				"id": "LT-32",
 				"set": "LT",
 				"name": {
 					"en": "Closely Vigilant",
@@ -994,12 +1029,12 @@
 					{"en": "Unique. Ghân-buri-Ghân specific. Place this card on Ghân-buri-Ghân if he is in play. If on Ghân-buri-Ghân, your unique hero allies gain the ranger skill."},
 				"quote": 
 					{"en": "“known for his intimate connection with the wilderness and his exceptional tracking skills.” —Tribal Lore"},
-				"image": "closelyvigilant_30.jpg",
+				"image": "closelyvigilant_32.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-31": {
-				"id": "LT-31",
+			"LT-33": {
+				"id": "LT-33",
 				"set": "LT",
 				"name": {
 					"en": "Colbran, Pûkel Giant",
@@ -1022,12 +1057,12 @@
 					{"en": "Unique. Watchstone. Playable at any Under-deeps site with a Fogu by a pûkel-magic-using character if no other Watchstone is at the site. Tap the character. Tap the site. This site is never discarded or returned to its location deck.-1 to the prowess of all hazard attacks keyed to a region or an Under-deeps site with a Watchstone.All Pûkel-creature attacks against your companies are canceled. All Pûkel-creature automatic attacks get +1 prowess and +1 strike."},
 				"quote": 
 					{"en": ""},
-				"image": "colbran,pûkelgiant_31.jpg",
+				"image": "colbran,pûkelgiant_33.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-32": {
-				"id": "LT-32",
+			"LT-34": {
+				"id": "LT-34",
 				"set": "LT",
 				"name": {
 					"en": "Colored Marks",
@@ -1048,12 +1083,12 @@
 					{"en": "Magic. Pûkel-magic. Playable on a pûkel-magic-using character. Target Wose character in the same company may untap or he may move from wounded status to well and untapped or he may receive a +4 modification to one corruption check. Unless he is a Wose-Chief, character makes a corruption check modified by -2."},
 				"quote": 
 					{"en": "“Flowing with the feel of the chosen’s soul” — Riders of Rohan"},
-				"image": "coloredmarks_32.jpg",
+				"image": "coloredmarks_34.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-37": {
-				"id": "LT-37",
+			"LT-39": {
+				"id": "LT-39",
 				"set": "LT",
 				"name": {
 					"en": "Daen Bindings",
@@ -1075,12 +1110,12 @@
 					{"en": "Channeling. Playable on a Pûkel Totem. Tap the Pûkel Totem. -2 to his mind value (-1 if played on Great Mother or Cadno op Gobha). Your characters with Dunnish Clan-Hold, Cameth Brin, Vale of Erech or any site in Cardolan, may use Pûkel-Tattoos. Your diplomat characters receive +2 to their direct influence when influencing any Men or Wose faction at playable at Dunnish Clan-Hold, Cameth Brin, Vale of Erech or any site in Cardolan. Cannot be duplicated on a given Pûkel Totem. Discard if Pûkel-Totem moves or abandons play."},
 				"quote": 
 					{"en": ""},
-				"image": "daenbindings_37.jpg",
+				"image": "daenbindings_39.jpg",
 				"rarity": "CA",
 				"artist": "Stable Diffusion"
 			},
-			"LT-38": {
-				"id": "LT-38",
+			"LT-40": {
+				"id": "LT-40",
 				"set": "LT",
 				"name": {
 					"en": "Daen clans",
@@ -1105,12 +1140,12 @@
 					{"en": "Unique. Lost Tribes Specific. Playable at Dunish clan hold or The Caerdh Wood if the influence check is greater than 8.Standard Modifications: Woses (+2), pûkel-magic-using character (+2), Dunlendings (+2)While this faction is under your control, your Wose-Chief´s general influence is modified by +2."},
 				"quote": 
 					{"en": "“The Daen Coentis were an ancient people in the White Mountains of Gondor. They later became the Oathbreakers of Erech.” —The Lost Tribes"},
-				"image": "daenclans_38.jpg",
+				"image": "daenclans_40.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-39": {
-				"id": "LT-39",
+			"LT-41": {
+				"id": "LT-41",
 				"set": "LT",
 				"name": {
 					"en": "Daintree Staff",
@@ -1135,12 +1170,12 @@
 					{"en": "Unique. Artifact. If on a spirit-magic or pûkel-magic-using character, you may tap Daintree Staff during your end-of-turn phase to take spirit-magic or pûkel-magic event from your discard pile to your hand. All corruption checks against the bearer resulting from spirit-magic or pûkel-magic spells are modified with +2.This item gives zero corruption points."},
 				"quote": 
 					{"en": "“Given to Am-buri-am by the elves in Belerian” —Tribal Lore"},
-				"image": "daintreestaff_39.jpg",
+				"image": "daintreestaff_41.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-40": {
-				"id": "LT-40",
+			"LT-42": {
+				"id": "LT-42",
 				"set": "LT",
 				"name": {
 					"en": "Dark Woses",
@@ -1164,12 +1199,12 @@
 					{"en": "Unique. Lost Tribes Specific. Manifestation of “Woses of Eryn Vorn”. Playable at the Worthy Hills if the influence check is greater than 8.Standard Modifications: Woses (+2).While this faction is under your control, your Wose-Chief´s general influence is modified by +2."},
 				"quote": 
 					{"en": ""},
-				"image": "darkwoses_40.jpg",
+				"image": "darkwoses_42.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-41": {
-				"id": "LT-41",
+			"LT-43": {
+				"id": "LT-43",
 				"set": "LT",
 				"name": {
 					"en": "Deadmen´s Dike",
@@ -1197,12 +1232,46 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "deadmensdike_41.jpg",
+				"image": "deadmensdike_43.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-42": {
-				"id": "LT-42",
+			"LT-44": {
+				"id": "LT-44",
+				"set": "LT",
+				"name": {
+					"en": "Derndingle",
+					"es": "Valle Emboscado",
+					"de": "Name DE",
+					"fr": "Derndingle",
+					"it": "Derndingle",
+					"nl": "Derndingle",
+					"fi": "Derndingle",
+					"ja": "Derndingle"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Dol Guldur",
+					"draw": "1",
+					"region": "Fangorn",						
+					"auto_attack": "Awakened Plant — 2 strikes with 10 prowessAwakened Plant — 2 strikes with 10 prowess",
+					"site_type": "{F}",
+					"playable": "Information, Items (minor, major)",
+					"special": "A company may not travel to this site unless it taps a ranger.",
+					"drawOpponent": "2",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": "“By Wellinghall’s shadow, where Ents loom tall, I shiver in dread, awaiting their call.” —C.R."},
+				"image": "derndingle_44.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-45": {
+				"id": "LT-45",
 				"set": "LT",
 				"name": {
 					"en": "Derndingle",
@@ -1231,12 +1300,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "derndingle_42.jpg",
+				"image": "derndingle_45.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-43": {
-				"id": "LT-43",
+			"LT-46": {
+				"id": "LT-46",
 				"set": "LT",
 				"name": {
 					"en": "Diverse Shape Aberration Awaken",
@@ -1261,12 +1330,12 @@
 					{"en": "Unique. Lost Tribes Specific. Manifestation of Monstrosity of Diverse Shape. Playable at The Drowning-deeps and Remains of Thangorodrim if the influence check is greater than 12.Modifications: influencer eliminates a character in the influencing company (+4). All attacks by Spawn manifestations against any of your companies are considered as detainment. Any company moving in The Drowning-deeps or Remains of Thangorodrim faces one attack:Spawn — two strikes at 14/8 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "diverseshapeaberrationawaken_43.jpg",
+				"image": "diverseshapeaberrationawaken_46.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-44": {
-				"id": "LT-44",
+			"LT-47": {
+				"id": "LT-47",
 				"set": "LT",
 				"name": {
 					"en": "Dragon Bone Coloring Stone",
@@ -1294,12 +1363,12 @@
 					{"en": "Unique. Coloring Stone. Artifact. Playable at any Ruins &amp; Lairs [R] with a dragon automatic attack. +2 prowess to a maximum of 8 (+3 to prowess to a maximum of 9 against a Dragon or a Drake strike), +1 to direct influence. Pûkel-magic-using character only:Tap to add +1 to prowess and +1 body to target character (to a maximum of 6 and 9 respectively) in the same company as the bearer until end of turn. Bearer makes a corruption check."},
 				"quote": 
 					{"en": "“Flowing with the feel of the chosen’s soul, each spiraling tattoo is unique.” —Riders of Rohan"},
-				"image": "dragonbonecoloringstone_44.jpg",
+				"image": "dragonbonecoloringstone_47.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-45": {
-				"id": "LT-45",
+			"LT-48": {
+				"id": "LT-48",
 				"set": "LT",
 				"name": {
 					"en": "Dragon-Tooth Ceremonial Knife",
@@ -1326,12 +1395,12 @@
 					{"en": "Unique. Weapon.+2 prowess to a maximum of 7.If bearer is a pûkel-magic using character:Playing this item does not tap the site.This item gives 1 corruption point."},
 				"quote": 
 					{"en": ""},
-				"image": "dragon-toothceremonialknife_45.jpg",
+				"image": "dragon-toothceremonialknife_48.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-46": {
-				"id": "LT-46",
+			"LT-49": {
+				"id": "LT-49",
 				"set": "LT",
 				"name": {
 					"en": "Drought from the Wellinghall",
@@ -1356,12 +1425,12 @@
 					{"en": "Playable during the site phase on a character at a tapped site where Ent allies are playable. Tap an Ent or Ent-wife ally. Target character gets +1 to body (to a maximum of 9). Cannot be duplicated on a given character."},
 				"quote": 
 					{"en": "“The droughts have within them indeed some of the “essence” some of the “dream and design” of the Ents, the earth, and Eru’s intention.” —Vol-III Hobbits, Dwarves, Ents, Orcs &amp; Trolls."},
-				"image": "droughtfromthewellinghall_46.jpg",
+				"image": "droughtfromthewellinghall_49.jpg",
 				"rarity": "CA",
 				"artist": "Art By Hildebrandt"
 			},
-			"LT-48": {
-				"id": "LT-48",
+			"LT-51": {
+				"id": "LT-51",
 				"set": "LT",
 				"name": {
 					"en": "Drû Folk",
@@ -1386,12 +1455,44 @@
 					{"en": "Unique. Lost Tribes Specific. Manifestation of Woses of Old Pûkel-land. Playable at Wose Passage-hold if the influence check is greater than 9.Standard Modifications: Woses (+3), Men (+1).While this faction is under your control, your Wose-Chief´s general influence is modified by +2."},
 				"quote": 
 					{"en": ""},
-				"image": "drûfolk_48.jpg",
+				"image": "drûfolk_51.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-50": {
-				"id": "LT-50",
+			"LT-53": {
+				"id": "LT-53",
+				"set": "LT",
+				"name": {
+					"en": "Drû-buri-Drû",
+					"es": "Drû-buri-Drû",
+					"de": "Name DE",
+					"fr": "Drû-buri-Drû",
+					"it": "Drû-buri-Drû",
+					"nl": "Drû-buri-Drû",
+					"fi": "Drû-buri-Drû",
+					"ja": "Drû-buri-Drû"},
+				"type": "Character",
+				"alignment": "Hero",
+				"attributes": {
+					"skills": "Jefe Wose",
+					"body": "8",
+					"prowess": "3",
+					"homeSite": "Círculo de Piedras",
+					"race": "Wose Explorador/Montaraz/Sabio",
+					"directInfluence": "1",
+					"avatar": true,
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Único. Puede utilizar Magia pûkel. Puede girarse para cancelar un ataque situado en una Tierra Salvaje [[w]] o Doble Tierra Salvaje [ww] contra su compañía. +2 a todas las tiradas de su compañía para mover a un Lugar de las Profundidades adyacente y el oponente roba una carta menos. +1 al Poder y +1 a la Resistencia cuando se mueve a o desde un Lugar de las Profundidades o se mueve a través de una Tierra Salvaje [[w]]. +4 a su influencia directa contra Woses y facciones de Woses."},
+				"quote": 
+					{"en": "“..sin dudas, el mejor montaraz de la región.” —Woses del Bosque Oscuro"},
+				"image": "drû-buri-drû_53.jpg",
+				"rarity": "CA",
+				"artist": "Il. de DALL·E"
+			},
+			"LT-52": {
+				"id": "LT-52",
 				"set": "LT",
 				"name": {
 					"en": "Drû-buri-Drû",
@@ -1419,45 +1520,12 @@
 					{"en": "Unique. Can use pûkel-magic. May be tapped to cancel an attack keyed to w or ww against his company. +2 to all rolls required for his company to move to an adjacent site in the Under-deeps and opponent draws one less card. +1 prowess and +1 body when moving to or from an Under-deeps site or moving through a Wilderness [w]. +4 to his direct influence against Woses and Wose factions."},
 				"quote": 
 					{"en": "“Without a doubt, the best ranger in the region” —Woses of the Black Wood"},
-				"image": "drû-buri-drû_50.jpg",
+				"image": "drû-buri-drû_52.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-49": {
-				"id": "LT-49",
-				"set": "LT",
-				"name": {
-					"en": "Drû-buri-Drû",
-					"es": "Drû-buri-Drû",
-					"de": "Name DE",
-					"fr": "Drû-buri-Drû",
-					"it": "Drû-buri-Drû",
-					"nl": "Drû-buri-Drû",
-					"fi": "Drû-buri-Drû",
-					"ja": "Drû-buri-Drû"},
-				"type": "Character",
-				"alignment": "Hero",
-				"attributes": {
-					"unique": true,
-					"skills": "Scout/Ranger/Sage",
-					"body": "8",
-					"prowess": "3",
-					"homeSite": "Stone-Circle",
-					"race": "Wose-Chief",
-					"directInfluence": "1",
-					"avatar": true,
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Can use pûkel-magic. May be tapped to cancel an attack keyed to w or ww against his company. +2 to all rolls required for his company to move to an adjacent site in the Under-deeps and opponent draws one less card. +1 prowess and +1 body when moving to or from an Under-deeps site or moving through a Wilderness [w]. +4 to his direct influence against Woses and Wose factions."},
-				"quote": 
-					{"en": "“Without a doubt, the best ranger in the region” —Woses of the Black Wood"},
-				"image": "drû-buri-drû_49.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"LT-51": {
-				"id": "LT-51",
+			"LT-54": {
+				"id": "LT-54",
 				"set": "LT",
 				"name": {
 					"en": "Dru-Shaman",
@@ -1486,12 +1554,12 @@
 					{"en": "Lost Tribes specific.Can use pûkel-magic.+1 to his direct influence against Woses and Wose factions."},
 				"quote": 
 					{"en": "“The Drûghan were wise leaders and often tribal conjurer.” —Woses of the Black Wood"},
-				"image": "dru-shaman_51.jpg",
+				"image": "dru-shaman_54.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-53": {
-				"id": "LT-53",
+			"LT-56": {
+				"id": "LT-56",
 				"set": "LT",
 				"name": {
 					"en": "Drûadan Forest",
@@ -1516,12 +1584,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“The Drûadan Forest is a wild and dangerous place. It is said that Woses, reclusive forest dwellers, still reside among the trees. You wonder if your quarry has considered the dangers of this course.” —Woses of the Black Wood"},
-				"image": "drûadanforest_53.jpg",
+				"image": "drûadanforest_56.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-54": {
-				"id": "LT-54",
+			"LT-57": {
+				"id": "LT-57",
 				"set": "LT",
 				"name": {
 					"en": "Drûghan Sea Sanctuary",
@@ -1550,12 +1618,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "drûghanseasanctuary_54.jpg",
+				"image": "drûghanseasanctuary_57.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-55": {
-				"id": "LT-55",
+			"LT-58": {
+				"id": "LT-58",
 				"set": "LT",
 				"name": {
 					"en": "Drûghan-Amulet",
@@ -1583,12 +1651,12 @@
 					{"en": "Unique. Artifact. May only be played by your Wose-chief in a Wose-Haven [[H]] or a site with Fogu. This object may not be transferred nor stolen. Can not be duplicated by a given player. +3 direct influence against wose and Wose factions. +1 to his prowess. Tap to take an only ranger or diplomat short event from your discard pile and suffle it into your deck."},
 				"quote": 
 					{"en": "“One of Ghân-buri-Ghân’s principal items” —The Mannish Races"},
-				"image": "drûghan-amulet_55.jpg",
+				"image": "drûghan-amulet_58.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-56": {
-				"id": "LT-56",
+			"LT-59": {
+				"id": "LT-59",
 				"set": "LT",
 				"name": {
 					"en": "Dunland Hill-Chief",
@@ -1618,12 +1686,12 @@
 					{"en": "Unique. +2 direct influence against any faction playable at Dunnish Clan-hold or any character with Dunnish Clan-hold as a home site."},
 				"quote": 
 					{"en": "“Several Hill-Chiefs were still loyal and were not yet controlled by Saruman.” —Kuduk Lore"},
-				"image": "dunlandhill-chief_56.jpg",
+				"image": "dunlandhill-chief_59.jpg",
 				"rarity": "CA",
 				"artist": "Angus McBride"
 			},
-			"LT-57": {
-				"id": "LT-57",
+			"LT-60": {
+				"id": "LT-60",
 				"set": "LT",
 				"name": {
 					"en": "Dunland Hunter",
@@ -1653,12 +1721,12 @@
 					{"en": "Dunland Hunter can only be controlled by direct influence.-1 to influence checks against factions.-1 to all of his corruption checks."},
 				"quote": 
 					{"en": "“Dunlendish Hunters were also skilled archers who used self-made bows.” —The Lost Tribes"},
-				"image": "dunlandhunter_57.jpg",
+				"image": "dunlandhunter_60.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-58": {
-				"id": "LT-58",
+			"LT-61": {
+				"id": "LT-61",
 				"set": "LT",
 				"name": {
 					"en": "Dunland Warlord",
@@ -1687,12 +1755,12 @@
 					{"en": "If played as a starting character, Dunland Warlord´s mind attribute is considered to be 3 until your next organization phase. +1 direct influence against any character with Dunnish Clan-hold as a home site."},
 				"quote": 
 					{"en": "“A bitter enmity against the Rohirrim, whom the Dunlendings regarded as having stolen their homelands, remained deeply in the hearts” —The Lost Tribes"},
-				"image": "dunlandwarlord_58.jpg",
+				"image": "dunlandwarlord_61.jpg",
 				"rarity": "CA",
 				"artist": "Angus McBride"
 			},
-			"LT-59": {
-				"id": "LT-59",
+			"LT-62": {
+				"id": "LT-62",
 				"set": "LT",
 				"name": {
 					"en": "Dunlending Outcast",
@@ -1720,12 +1788,12 @@
 					{"en": "Unique. Dunlending Outcast does not count against the company size limit."},
 				"quote": 
 					{"en": "“The Dunlendings were divided into various rival clans or tribes; additionally there were clans of Dunlendings or closely related to them who had moved into the eastern Enedhwaith.” —Kuduk Lore"},
-				"image": "dunlendingoutcast_59.jpg",
+				"image": "dunlendingoutcast_62.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-60": {
-				"id": "LT-60",
+			"LT-63": {
+				"id": "LT-63",
 				"set": "LT",
 				"name": {
 					"en": "Duranil",
@@ -1751,12 +1819,12 @@
 					{"en": "Unique. Undead. Haunted. Tolfalas has an additional automatic-attack: Undead—2 strikes at 13/7. In addition, non unique undead hazard creatures may be played keyed to Coastal Regions [c] and any Ruins &amp; Lairs [R] in a Coastal Region [c]."},
 				"quote": 
 					{"en": "“It was a shallow and unobstrusive gravesite, merely a crowded marshy hollow containing the skeletal remains of Durani” —Tribal Lore"},
-				"image": "duranil_60.jpg",
+				"image": "duranil_63.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-62": {
-				"id": "LT-62",
+			"LT-65": {
+				"id": "LT-65",
 				"set": "LT",
 				"name": {
 					"en": "Eldebeth Whispershadow",
@@ -1784,12 +1852,12 @@
 					{"en": "Unique. Undead. Haunted. As permanent-event, each character traveling through Cardolan, Anórien, Old Pûkel Land and Old-Pûkel Gap faces a strike whose prowess is equal to his mind value +7. If the strike is successful, target character is not harmed, instead, attach this card to the first strike failing character.While attached: -4 to the prowess and body of any undead or haunted attack his company is facing. Attributes are modified as follows: -2 to all his corruption checks. His direct influence is 0. During the organization phase, you may make a roll and add attached character’s mind value; if the result is greater than 10, discard this card."},
 				"quote": 
 					{"en": ""},
-				"image": "eldebethwhispershadow_62.jpg",
+				"image": "eldebethwhispershadow_65.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-63": {
-				"id": "LT-63",
+			"LT-66": {
+				"id": "LT-66",
 				"set": "LT",
 				"name": {
 					"en": "Elmlimb",
@@ -1816,12 +1884,12 @@
 					{"en": "Unique. Ent-wife. Playable at any Hidden site in a Wilderness [w]. May not be attacked by automatic attacks or hazards keyed to her site.Tap Elmlimb to untap another Ent ally in the same company as Elmlimb."},
 				"quote": 
 					{"en": "“At twelve feet of height, she was smallish, but her elegant arched branches long ago sent every Ent in the wood into a fit of swooning.” —LoMEVolIII"},
-				"image": "elmlimb_63.jpg",
+				"image": "elmlimb_66.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-65": {
-				"id": "LT-65",
+			"LT-68": {
+				"id": "LT-68",
 				"set": "LT",
 				"name": {
 					"en": "Ent Oil",
@@ -1843,12 +1911,12 @@
 					{"en": "Discard this item to heal a character in the bearer’s company, changing the character’s status from wounded to tapped (to well and untapped if bearer is a Wose character).Alternatively, if bearer is a Wose character: The bearer can tap and discard this item to untap a character that is not wounded."},
 				"quote": 
 					{"en": ""},
-				"image": "entoil_65.jpg",
+				"image": "entoil_68.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-66": {
-				"id": "LT-66",
+			"LT-69": {
+				"id": "LT-69",
 				"set": "LT",
 				"name": {
 					"en": "Ered Tarthonion",
@@ -1877,12 +1945,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Ered Tarthonion formed the great arm of the White Mountains that divided the lands of central Gondor east and west.” —Southern Gondor, The Land"},
-				"image": "eredtarthonion_66.jpg",
+				"image": "eredtarthonion_69.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-67": {
-				"id": "LT-67",
+			"LT-71": {
+				"id": "LT-71",
 				"set": "LT",
 				"name": {
 					"en": "Eryn Vorn",
@@ -1907,12 +1975,46 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“The Eryn Vorn was a large forest on the Cape Vorn, a remnant of the ancient old forest of Eriador” —Tribal Lore"},
-				"image": "erynvorn_67.jpg",
+				"image": "erynvorn_71.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-68": {
-				"id": "LT-68",
+			"LT-70": {
+				"id": "LT-70",
+				"set": "LT",
+				"name": {
+					"en": "Eryn Vorn",
+					"es": "Eryn Vorn",
+					"de": "Name DE",
+					"fr": "Eryn Vorn",
+					"it": "Eryn Vorn",
+					"nl": "Eryn Vorn",
+					"fi": "Eryn Vorn",
+					"ja": "Eryn Vorn"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Carn Dûm",
+					"draw": "1",
+					"region": "Cardolan",						
+					"auto_attack": "Pûkel-creature—each character faces 1 strike with 9 prowess (detainment against covert company, canceled if company contains a wose with mind higher than 5)",
+					"site_type": "{B}",
+					"playable": "Information",
+					"drawOpponent": "2",
+					"site_path": "{s}{w}{w}",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": "“Eryn Vorn remained a secluded area where some secretive hunter-folk lived.” —Tribal Lore"},
+				"image": "erynvorn_70.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-72": {
+				"id": "LT-72",
 				"set": "LT",
 				"name": {
 					"en": "Exploring Party",
@@ -1934,12 +2036,12 @@
 					{"en": "Lost Tribes Specific. Playable on a Wose warrior character with a mind value of 4 or more.Up to 2 Wose ranger characters with a mind value of 1 may be controlled by this character. These characters do not require direct influence to be controlled."},
 				"quote": 
 					{"en": ""},
-				"image": "exploringparty_68.jpg",
+				"image": "exploringparty_72.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-70": {
-				"id": "LT-70",
+			"LT-74": {
+				"id": "LT-74",
 				"set": "LT",
 				"name": {
 					"en": "Fine Craftsmanship",
@@ -1960,12 +2062,12 @@
 					{"en": "Tap two sage characters in the same company to play this card. During your organization phase, you may take a minor or major item from your sideboard or discard pile and place it “off to the side” with this card. This item gives no marshalling points. A maximum of two items may be with this card at one time. You may play an item placed with this card as though it were in your hand."},
 				"quote": 
 					{"en": "“...for the Woses are crafty in all outdoor lores.” —Creatures of Middle Earth"},
-				"image": "finecraftsmanship_70.jpg",
+				"image": "finecraftsmanship_74.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-71": {
-				"id": "LT-71",
+			"LT-75": {
+				"id": "LT-75",
 				"set": "LT",
 				"name": {
 					"en": "Fit for this Terrain",
@@ -1986,12 +2088,12 @@
 					{"en": "Ranger only if his company´s site-path contains at least one Wilderness [w].+2 prowess against one strike.Alternatively, ttap a ranger in the company to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin or that tap his company’s current or new site. If so tapped, target ranger makes a corruption check."},
 				"quote": 
 					{"en": ""},
-				"image": "fitforthisterrain_71.jpg",
+				"image": "fitforthisterrain_75.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-72": {
-				"id": "LT-72",
+			"LT-76": {
+				"id": "LT-76",
 				"set": "LT",
 				"name": {
 					"en": "Fogu",
@@ -2012,12 +2114,12 @@
 					{"en": "Lost Tribes Specific. Playable on a tapped or untapped non-Dragon’s lair Ruins &amp; Lairs [R] in a Wilderness [w] or a site in a Free-Domain [f], Border-land [b] or Shadow-Land [s] or Under-deeps site by your Wose-Chief or by a pûkel-magic-using character. Your companies may heal at this site as if they were in a haven. Site is never discarded nor returned to the location deck. May not be duplicated on a given site."},
 				"quote": 
 					{"en": ""},
-				"image": "fogu_72.jpg",
+				"image": "fogu_76.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-74": {
-				"id": "LT-74",
+			"LT-78": {
+				"id": "LT-78",
 				"set": "LT",
 				"name": {
 					"en": "Follow Them!",
@@ -2038,12 +2140,12 @@
 					{"en": "A company with at least 3 Wose characters may move two additional regions if its current site path has at least www and an opponent´s company is at the destination site (up to a maximum of 6 regions in any case).Cannot be duplicated."},
 				"quote": 
 					{"en": ""},
-				"image": "followthem!_74.jpg",
+				"image": "followthem!_78.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-75": {
-				"id": "LT-75",
+			"LT-79": {
+				"id": "LT-79",
 				"set": "LT",
 				"name": {
 					"en": "Foreign Tattooed Animist",
@@ -2068,12 +2170,12 @@
 					{"en": "Unique. Mam-ugi-mam and Drû-buri-Drû specific. Sage only. Playable on a non-Hobbit, non-Dwarf sage character with a mind attribute of 5 or less at one of your Wizardhavens (or in your starting company). +1 to his direct influence. This character requires 3 points of influence to control and may only be controlled by general influence or Mam-ugi-mam or Drû-buri-Drû. This character may use pûkel-magic. You may start the game with this card in lieu of playing a minor item."},
 				"quote": 
 					{"en": ""},
-				"image": "foreigntattooedanimist_75.jpg",
+				"image": "foreigntattooedanimist_79.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-76": {
-				"id": "LT-76",
+			"LT-80": {
+				"id": "LT-80",
 				"set": "LT",
 				"name": {
 					"en": "Forest Gloom",
@@ -2094,12 +2196,12 @@
 					{"en": "Playable on a non moving company. Make a roll for each character in the company. Modify the roll by +1 for each untapped character and by an additional +1 if the company is in a site located in a Wilderness [w] or in a Haven [H]. If the result is greater than the character´s mind, the character becomes tapped. Every character so tapped, makes a corruption check."},
 				"quote": 
 					{"en": ""},
-				"image": "forestgloom_76.jpg",
+				"image": "forestgloom_80.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-77": {
-				"id": "LT-77",
+			"LT-81": {
+				"id": "LT-81",
 				"set": "LT",
 				"name": {
 					"en": "Foul Aberration Awaken",
@@ -2124,12 +2226,12 @@
 					{"en": "Unique. Lost Tribes Specific. Manifestation of Ungoliant’s Foul Issue. Playable at Ancient Deep-hold if the influence check is greater than 12. Modifications: influencer eliminates a character in the influencing company (+4). All attacks by Spawn manifestations against any of your companies are considered as detainment. Any company moving in Ancient Deep-hold faces one attack: Spawn — two strikes at 16/7 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "foulaberrationawaken_77.jpg",
+				"image": "foulaberrationawaken_81.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-78": {
-				"id": "LT-78",
+			"LT-82": {
+				"id": "LT-82",
 				"set": "LT",
 				"name": {
 					"en": "Furious Stone-Heart",
@@ -2159,12 +2261,12 @@
 					{"en": "Unique. Lost Tribes Specific. Pûkel Totem.When any short-event affecting combat, but not cancelling it, is played on your Wose-Chief company, you may choose not to place it on your discard pile and place it in your play deck instead. Shuffle your deck afterwards. Once per turn, tap to modify all Woses´ prowess in any of your companies by +2 in any given phase (movement/hazard, site, etc)."},
 				"quote": 
 					{"en": ""},
-				"image": "furiousstone-heart_78.jpg",
+				"image": "furiousstone-heart_82.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-79": {
-				"id": "LT-79",
+			"LT-83": {
+				"id": "LT-83",
 				"set": "LT",
 				"name": {
 					"en": "Gathering Hosts",
@@ -2189,12 +2291,44 @@
 					{"en": "As a permanent-event, playable on a pûkel-magic-using character. +1 to his influence attempts against Wose and Men factions. If you have at least 4 unique Wose and Men factions you receive this card’s marshalling points. Cannot be duplicated as a permanent-event. Alternatively, as a short-event, you may choose any Wose or Men faction from your discard pile or sideboard and shuffle it into your play deck."},
 				"quote": 
 					{"en": ""},
-				"image": "gatheringhosts_79.jpg",
+				"image": "gatheringhosts_83.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-81": {
-				"id": "LT-81",
+			"LT-84": {
+				"id": "LT-84",
+				"set": "LT",
+				"name": {
+					"en": "Ghân-buri-Ghân",
+					"es": "Ghân-buri-Ghân",
+					"de": "Name DE",
+					"fr": "Ghân-buri-Ghân",
+					"it": "Ghân-buri-Ghân",
+					"nl": "Ghân-buri-Ghân",
+					"fi": "Ghân-buri-Ghân",
+					"ja": "Ghân-buri-Ghân"},
+				"type": "Character",
+				"alignment": "Hero",
+				"attributes": {
+					"skills": "Jefe Wose",
+					"body": "9",
+					"prowess": "2",
+					"homeSite": "Bosque Drúadan",
+					"race": "Wose Explorador/Montaraz/Diplomático",
+					"directInfluence": "3",
+					"avatar": true,
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Único. Puede utilizar Magia pûkel. Cuando la compañía de Ghân-buri-Ghân se mueve a través de dos regiones de Tierra Salvaje [ww] roba una carta adicional y el oponente roba una menos. +4 a su influencia directa contra Woses y facciones de Woses. Si está en una compañía formada por al menos otros 3 personajes Wose, aumenta en +2 el Poder de Ghân-buri-Ghân."},
+				"quote": 
+					{"en": ""},
+				"image": "ghân-buri-ghân_84.jpg",
+				"rarity": "CA",
+				"artist": "Il. de DALL·E"
+			},
+			"LT-85": {
+				"id": "LT-85",
 				"set": "LT",
 				"name": {
 					"en": "Ghân-buri-Ghân",
@@ -2222,45 +2356,12 @@
 					{"en": "Unique. Can use pûkel-magic. Draw one additional card and opponent draws one less card if Ghân-buri-Ghân´s company moves through two Wilderness [ww] regions. +4 to his direct influence against Woses and Wose factions. If in a company formed by at least 3 other Wose characters, Ghân-buri-Ghân´s prowess is modified by +2."},
 				"quote": 
 					{"en": ""},
-				"image": "ghân-buri-ghân_81.jpg",
+				"image": "ghân-buri-ghân_85.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-80": {
-				"id": "LT-80",
-				"set": "LT",
-				"name": {
-					"en": "Ghân-buri-Ghân",
-					"es": "Ghân-buri-Ghân",
-					"de": "Name DE",
-					"fr": "Ghân-buri-Ghân",
-					"it": "Ghân-buri-Ghân",
-					"nl": "Ghân-buri-Ghân",
-					"fi": "Ghân-buri-Ghân",
-					"ja": "Ghân-buri-Ghân"},
-				"type": "Character",
-				"alignment": "Hero",
-				"attributes": {
-					"unique": true,
-					"skills": "Scout/Ranger/Diplomat",
-					"body": "9",
-					"prowess": "2",
-					"homeSite": "Drûadan Forest",
-					"race": "Wose-Chief",
-					"directInfluence": "3",
-					"avatar": true,
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Can use pûkel-magic. Draw one additional card and opponent draws one less card if Ghân-buri-Ghân´s company moves through two Wilderness [ww] regions. +4 to his direct influence against Woses and Wose factions. If in a company formed by at least 3 other Wose characters, Ghân-buri-Ghân´s prowess is modified by +2."},
-				"quote": 
-					{"en": ""},
-				"image": "ghân-buri-ghân_80.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"LT-82": {
-				"id": "LT-82",
+			"LT-86": {
+				"id": "LT-86",
 				"set": "LT",
 				"name": {
 					"en": "Ghîm",
@@ -2290,12 +2391,12 @@
 					{"en": "Unique.Ghîm´s prowess is only modified by -1 when not tapping to face a strike"},
 				"quote": 
 					{"en": "“Ghim is the commander of the guards with a dim sense of a Warrior’s honor. Ghîm would prefer to die in a fair fight rather than lie in a dusty old tomb. —Woses of the Black Wood"},
-				"image": "ghîm_82.jpg",
+				"image": "ghîm_86.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-83": {
-				"id": "LT-83",
+			"LT-87": {
+				"id": "LT-87",
 				"set": "LT",
 				"name": {
 					"en": "Great Greenwood",
@@ -2318,12 +2419,12 @@
 					{"en": "Rhân-bun-Rhân specific. Playable during the site phase on Claim it Back!. The company faces 2 attacks: (Orcs 4x9, Nazgûl 1x15 cannot be canceled). Following the attacks, tap a character or discard this card. If this card is not discarded, the site becomes a Wose-haven [H]. All other versions of the associated site become a [B] and gain an automatic-attack: Pûkel-creature 4 strikes with 7 prowess. Cannot be duplicated on a given card."},
 				"quote": 
 					{"en": ""},
-				"image": "greatgreenwood_83.jpg",
+				"image": "greatgreenwood_87.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-84": {
-				"id": "LT-84",
+			"LT-88": {
+				"id": "LT-88",
 				"set": "LT",
 				"name": {
 					"en": "Great Healing Foot",
@@ -2353,12 +2454,12 @@
 					{"en": "Unique. Lost Tribes Specific. Pûkel Totem. When any short-event affecting Wilderness [w] is played on your Wose-Chief company, you may choose not to place it on your discard pile and place it in your play deck instead. Shuffle your deck afterwards. Healing effects affect all characters in the Wose-Chief´s company.“Dhor-tura-Dhor was the most famous healer of all old ages, and patches of herbs of medicial plants sprung up just after his steps.”—The Lost Tribes"},
 				"quote": 
 					{"en": ""},
-				"image": "greathealingfoot_84.jpg",
+				"image": "greathealingfoot_88.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-85": {
-				"id": "LT-85",
+			"LT-89": {
+				"id": "LT-89",
 				"set": "LT",
 				"name": {
 					"en": "Great Mother",
@@ -2388,12 +2489,12 @@
 					{"en": "Unique. Lost Tribes Specific. Pûkel Totem.You may play one additional character per turn, not counting against the character play limit. Tap to search your sideboard for a character, Wose or Man, and place it in your hand or from your discard pile to your play deck. Shuffle your deck afterwards. “Chailûza, so they called her, a deity for the tribes of the distant south lands.” —The Lost Tribes"},
 				"quote": 
 					{"en": ""},
-				"image": "greatmother_85.jpg",
+				"image": "greatmother_89.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-87": {
-				"id": "LT-87",
+			"LT-91": {
+				"id": "LT-91",
 				"set": "LT",
 				"name": {
 					"en": "Heath-Wooden Pipe",
@@ -2415,12 +2516,12 @@
 					{"en": "Tap bearer and Heath-Wooden Pipe to bring Smoke Rings or Longbottom Leaf from your sideboard or discard pile into your play deck, shuffle your deck afterwards.Bearer makes a corruption check."},
 				"quote": 
 					{"en": "“Gandalf was blowing beautiful smoke-rings out of the window, in the moonlight, under the dark stars.” —LotRI"},
-				"image": "heath-woodenpipe_87.jpg",
+				"image": "heath-woodenpipe_91.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-88": {
-				"id": "LT-88",
+			"LT-92": {
+				"id": "LT-92",
 				"set": "LT",
 				"name": {
 					"en": "Hidden Forest to Foreign Eyes",
@@ -2449,12 +2550,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "hiddenforesttoforeigneyes_88.jpg",
+				"image": "hiddenforesttoforeigneyes_92.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-89": {
-				"id": "LT-89",
+			"LT-93": {
+				"id": "LT-93",
 				"set": "LT",
 				"name": {
 					"en": "Hidden Ruins",
@@ -2483,12 +2584,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "hiddenruins_89.jpg",
+				"image": "hiddenruins_93.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-90": {
-				"id": "LT-90",
+			"LT-94": {
+				"id": "LT-94",
 				"set": "LT",
 				"name": {
 					"en": "High Glens",
@@ -2517,12 +2618,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "highglens_90.jpg",
+				"image": "highglens_94.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-92": {
-				"id": "LT-92",
+			"LT-96": {
+				"id": "LT-96",
 				"set": "LT",
 				"name": {
 					"en": "Hullob",
@@ -2550,12 +2651,12 @@
 					{"en": "Unique. Troll. Two strikes. Attacker chooses defending characters. Only one Wilderness [[w]] is required if Doors of Night is in play."},
 				"quote": 
 					{"en": "“Hullob is rated as a genius among the Forest Trolls, as he has a vocabulary of around twenty words.” —Woses of the Black Wood"},
-				"image": "hullob_92.jpg",
+				"image": "hullob_96.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-93": {
-				"id": "LT-93",
+			"LT-97": {
+				"id": "LT-97",
 				"set": "LT",
 				"name": {
 					"en": "Hurndaen",
@@ -2581,12 +2682,12 @@
 					{"en": "Unique. Pûkel-Creature. Glittering Caves has an additional automatic-attack: Pûkel-creature — 2 strikes at 11/6. In addition, all Pûkel-creature attacks gain +1 to prowess and have their body modified by +1; all Pûkel-creature attacks with no body have 4 body.Any Pûkel-creature may be played in all Under-deeps Ruins &amp; Lairs [R] and surface sites thereof."},
 				"quote": 
 					{"en": "“Hurdaen appear as iron pillars until awakened.” —Erech and the paths of the dead."},
-				"image": "hurndaen_93.jpg",
+				"image": "hurndaen_97.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-94": {
-				"id": "LT-94",
+			"LT-98": {
+				"id": "LT-98",
 				"set": "LT",
 				"name": {
 					"en": "Hurnspire Tomb Guardian",
@@ -2613,12 +2714,12 @@
 					{"en": "Pûkel-creature. Two strikes. Attacker chooses defending characters. May be played on a company at or moving to or from Vale of Erech. May also be played at any Under-deeps site. If Doors of Night is in play, it may be played at any Under-deeps site and surface sites thereof."},
 				"quote": 
 					{"en": "“Like stalactites hanging from the ceiling, Hurnspire arc insidious and deadly.” —Erech and the paths of the dead"},
-				"image": "hurnspiretombguardian_94.jpg",
+				"image": "hurnspiretombguardian_98.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-96": {
-				"id": "LT-96",
+			"LT-100": {
+				"id": "LT-100",
 				"set": "LT",
 				"name": {
 					"en": "Insatiable Aberration Awaken",
@@ -2643,12 +2744,12 @@
 					{"en": "Unique. Lost Tribes Specific. Manifestation of Torment of Nan Dungortheb. Playable at The Haunted Grottos if the influence check is greater than 11.Modifications: influencer eliminates a character in the influencing company (+4). All spider automatic attacks against any of your companies is considered as detainment. Any company moving in The Haunted Grottos faces one attack:Spawn — two strikes at 16/9 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "insatiableaberrationawaken_96.jpg",
+				"image": "insatiableaberrationawaken_100.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-97": {
-				"id": "LT-97",
+			"LT-101": {
+				"id": "LT-101",
 				"set": "LT",
 				"name": {
 					"en": "Ivory Coloring Stone",
@@ -2674,12 +2775,12 @@
 					{"en": "Unique. Coloring Stone. Artifact. Playable at any [B] in Harondor, Khand or Horseplains. +4 to direct influence (+1 in addition against Men factions). Pûkel-magic-using character only: Tap to add +2 to target’s character direct influence in the same company as the bearer until end of turn. Bearer makes a corruption check."},
 				"quote": 
 					{"en": "“unique both in pattern and color.” —Riders of Rohan"},
-				"image": "ivorycoloringstone_97.jpg",
+				"image": "ivorycoloringstone_101.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-98": {
-				"id": "LT-98",
+			"LT-102": {
+				"id": "LT-102",
 				"set": "LT",
 				"name": {
 					"en": "Jerls",
@@ -2703,12 +2804,12 @@
 					{"en": "Lost Tribes Specific. Playable at The Worthy Hills or at Eryn Vorn if the influence check is greater than 8.Standard Modifications: Woses (+2)Tap during your site phase to play a character with a mind value no greater than 1. This character may be played from your sideboard or discard pile and must be playable at the site this card was."},
 				"quote": 
 					{"en": "“The Jerls are more than mere slaves, but their status ranks below that of the Leasr of the Drúedain” —Woses of the Black Wood"},
-				"image": "jerls_98.jpg",
+				"image": "jerls_102.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-99": {
-				"id": "LT-99",
+			"LT-103": {
+				"id": "LT-103",
 				"set": "LT",
 				"name": {
 					"en": "Juju´s Bubble",
@@ -2733,12 +2834,12 @@
 					{"en": "Unique. Artifact. Tap to choose and discard one card from your hand. Draw one card from your play deck (two if bearer can use spirit-magic or pûkel-magic). Bearer makes a corruption check."},
 				"quote": 
 					{"en": "“Believed to be crafted by Juju himself it grants visions of-coming events to those who dare to use it.” —Tribal Lore"},
-				"image": "jujusbubble_99.jpg",
+				"image": "jujusbubble_103.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-101": {
-				"id": "LT-101",
+			"LT-105": {
+				"id": "LT-105",
 				"set": "LT",
 				"name": {
 					"en": "Khûn-buri-Khûn",
@@ -2767,12 +2868,12 @@
 					{"en": "Unique. Agent. +2 to his direct influence against Woses and Wose factions.Can use spirit-magic and pûkel-magic.Agent only: May move to an under-deeps site."},
 				"quote": 
 					{"en": "“The evil matriarch Khûn-buri-Khûn was one of the last of the Woses in Minhiriath”—Woses of the Black Wood"},
-				"image": "khûn-buri-khûn_101.jpg",
+				"image": "khûn-buri-khûn_105.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-103": {
-				"id": "LT-103",
+			"LT-107": {
+				"id": "LT-107",
 				"set": "LT",
 				"name": {
 					"en": "Klorin´s Amulet",
@@ -2797,12 +2898,12 @@
 					{"en": "Unique. Artifact. Bearer does not receive any penalty when not tapping against a strike. Additionally, if bearer is a pûkel-magic-using character: Cancels a hazard creature’s ability to choose defending characters when facing a strike. Bearer’s company chooses defending characters in CvCC."},
 				"quote": 
 					{"en": "“..he added a charm, an amulet, made from the loam” —Woses of the Black Wood"},
-				"image": "klorinsamulet_103.jpg",
+				"image": "klorinsamulet_107.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-105": {
-				"id": "LT-105",
+			"LT-109": {
+				"id": "LT-109",
 				"set": "LT",
 				"name": {
 					"en": "Limbkeeper",
@@ -2829,12 +2930,12 @@
 					{"en": "Unique. Ent-wife. Playable at any Hidden site in a Wilderness [w]. May not be attacked by automatic attacks or hazards keyed to her site.Tap during your end-of-turn phase to take Ent Oil, Drought from the Wellinghall or Ent-draughts from your discard pile to your hand."},
 				"quote": 
 					{"en": "“... regularly trims the branches of Ents who need such care and never waits for a thank you.” —LoMEVolIII"},
-				"image": "limbkeeper_105.jpg",
+				"image": "limbkeeper_109.jpg",
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-106": {
-				"id": "LT-106",
+			"LT-110": {
+				"id": "LT-110",
 				"set": "LT",
 				"name": {
 					"en": "Lindenroot",
@@ -2861,12 +2962,12 @@
 					{"en": "Unique. Ent-wife. Playable at any Hidden site in a Wilderness [w]. May not be attacked by automatic-attacks or hazards keyed to her site. Discard Lindenroot if his company moves through a Shadow-land [s], a Dark-domain [d] or to non Hidden site Under-deeps site."},
 				"quote": 
 					{"en": "“Lindenroot was an elder treeherd, an ent of Fangorn.” —LoMEVolIII"},
-				"image": "lindenroot_106.jpg",
+				"image": "lindenroot_110.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-107": {
-				"id": "LT-107",
+			"LT-111": {
+				"id": "LT-111",
 				"set": "LT",
 				"name": {
 					"en": "Long Blowpipe",
@@ -2892,12 +2993,12 @@
 					{"en": "Weapon. Blowpipe. +1 to prowess (to a maximum of 7, +2 to a Wose character to a maximum of 8). Tap Long Blowpipe to take Pûra from your discard pile to your hand. If bearer is a Wose character Long Blowpipe is worth 2 MPs."},
 				"quote": 
 					{"en": "“The Wose blowpipe was 3” long and had the power of a light crossbow.”—Woses of the Black Wood"},
-				"image": "longblowpipe_107.jpg",
+				"image": "longblowpipe_111.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-108": {
-				"id": "LT-108",
+			"LT-112": {
+				"id": "LT-112",
 				"set": "LT",
 				"name": {
 					"en": "Long Forgotten Ritual",
@@ -2918,12 +3019,12 @@
 					{"en": "Unique. Magic. Pûkel-magic. Playable on a sage, pûkel-magic-using character during your organization phase.Discard this card to shuffle your hand in your play deck. Draw a new hand of 8 cards.Character makes a corruption check modified by -3. Remove Long Forgotten Ritual from the game."},
 				"quote": 
 					{"en": ""},
-				"image": "longforgottenritual_108.jpg",
+				"image": "longforgottenritual_112.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-109": {
-				"id": "LT-109",
+			"LT-113": {
+				"id": "LT-113",
 				"set": "LT",
 				"name": {
 					"en": "Lord Bel´zordin",
@@ -2949,12 +3050,12 @@
 					{"en": "Unique. Undead. Haunted. Haudh-in-Gwanûr has an additional automatic-attack: Undead—2 strikes at 13/7. In addition, as a permanent-event, it will remain in play until tapped during the opponent’s movement/hazard phase (tapping counts against the hazard limit). When tapped, Lord Bel´zordin becomes a short-event; target a faction already in play. The faction’s player makes a roll (or draws a #), the faction is discarded if the result plus his unused general influence is less than 7."},
 				"quote": 
 					{"en": ""},
-				"image": "lordbelzordin_109.jpg",
+				"image": "lordbelzordin_113.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-113": {
-				"id": "LT-113",
+			"LT-119": {
+				"id": "LT-119",
 				"set": "LT",
 				"name": {
 					"en": "Maelcûm the Gora of Nansret",
@@ -2984,12 +3085,44 @@
 					{"en": "Unique. Lost Tribes Specific.Can use pûkel-magic. +2 to his direct influence against Woses or Wose factions. Untap a Wose character in his company during your organization phase."},
 				"quote": 
 					{"en": "“The tattoos that covered his body, a distinguishing mark of the Sage class.” —Raiders of Cardolan"},
-				"image": "maelcûmthegoraofnansret_113.jpg",
+				"image": "maelcûmthegoraofnansret_119.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-115": {
-				"id": "LT-115",
+			"LT-121": {
+				"id": "LT-121",
+				"set": "LT",
+				"name": {
+					"en": "Mam-ugi-Mam",
+					"es": "Man-ugi-Man",
+					"de": "Name DE",
+					"fr": "Mam-ugi-Mam",
+					"it": "Mam-ugi-Mam",
+					"nl": "Mam-ugi-Mam",
+					"fi": "Mam-ugi-Mam",
+					"ja": "Mam-ugi-Mam"},
+				"type": "Character",
+				"alignment": "Hero",
+				"attributes": {
+					"skills": "Jefe Wose",
+					"body": "9",
+					"prowess": "1",
+					"homeSite": "Eryn Vorn",
+					"race": "Wose Montaraz/Sabia/Diplomática",
+					"directInfluence": "4",
+					"avatar": true,
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Única. Puede utilizar Magia espiritual y Magia pûkel. +4 a su influencia directa contra Woses y facciones de Woses. Puede girarse para cancelar un ataque contra su compañía o situado en su lugar actual si ella no se ha movido este turno. Por cada una de tus compañías formadas por personajes Hombres y Woses, aumenta en +1 el Poder de Man-ugi-Man."},
+				"quote": 
+					{"en": ""},
+				"image": "mam-ugi-mam_121.jpg",
+				"rarity": "CA",
+				"artist": "Il. de DALL·E"
+			},
+			"LT-120": {
+				"id": "LT-120",
 				"set": "LT",
 				"name": {
 					"en": "Mam-ugi-Mam",
@@ -3017,45 +3150,12 @@
 					{"en": "Unique. Can use pûkel-magic and spirit-magic. +4 to his direct influence against Woses and Wose factions. May be tapped to cancel an attack against her company or an attack keyed to her current site if she did not move this turn. For each of your companies being formed by Men and Wose characters, Mam-ugi-mam´s prowess is increased by +1."},
 				"quote": 
 					{"en": "“Mam-ugi-mam the caring Mother” —Woses of the Black Wood"},
-				"image": "mam-ugi-mam_115.jpg",
+				"image": "mam-ugi-mam_120.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-114": {
-				"id": "LT-114",
-				"set": "LT",
-				"name": {
-					"en": "Mam-ugi-Mam",
-					"es": "Man-ugi-Man",
-					"de": "Name DE",
-					"fr": "Mam-ugi-Mam",
-					"it": "Mam-ugi-Mam",
-					"nl": "Mam-ugi-Mam",
-					"fi": "Mam-ugi-Mam",
-					"ja": "Mam-ugi-Mam"},
-				"type": "Character",
-				"alignment": "Hero",
-				"attributes": {
-					"unique": true,
-					"skills": "Ranger/Sage/Diplomat",
-					"body": "9",
-					"prowess": "1",
-					"homeSite": "Eryn Vorn",
-					"race": "Wose-Chief",
-					"directInfluence": "4",
-					"avatar": true,
-					"spawn": false,
-					"keywords": ["-"]},
-				"text": 
-					{"en": "Unique. Can use pûkel-magic and spirit-magic. +4 to his direct influence against Woses and Wose factions. May be tapped to cancel an attack against her company or an attack keyed to her current site if she did not move this turn. For each of your companies being formed by Men and Wose characters, Mam-ugi-mam´s prowess is increased by +1."},
-				"quote": 
-					{"en": "“Mam-ugi-mam the caring Mother” —Woses of the Black Wood"},
-				"image": "mam-ugi-mam_114.jpg",
-				"rarity": "CA",
-				"artist": "DALL·E"
-			},
-			"LT-116": {
-				"id": "LT-116",
+			"LT-122": {
+				"id": "LT-122",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Camouflaging",
@@ -3077,12 +3177,12 @@
 					{"en": "Enchanted Tattoo. Tap a pûkel-magic-using character to play this card on a Wose character in the same company. Character counts as half character for company size calculations.Additionally, if bearer´s character is a scout, you may tap him during your end-of-turn phase to take Concealment or Anticipate from your discard pile to your hand.May not be duplicated on a given character."},
 				"quote": 
 					{"en": ""},
-				"image": "markofcamouflaging_116.jpg",
+				"image": "markofcamouflaging_122.jpg",
 				"rarity": "CA",
 				"artist": "Jean Dominique Lavoix"
 			},
-			"LT-117": {
-				"id": "LT-117",
+			"LT-123": {
+				"id": "LT-123",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Friendship",
@@ -3105,12 +3205,12 @@
 					{"en": "Enchanted Tattoo. Tap a pûkel-magic-using character to play this card on a Wose character in the same company.Target character gets +1 (+2 if character is a diplomat) to direct influence against Woses and Wose factions and +1 (+3 if character is a diplomat) against men and men factions (men and men factions with home site or playable in Vale of Erech, Genn a Lisch, Cameth Brin or Eryn Vorn).May not be duplicated on a given character."},
 				"quote": 
 					{"en": ""},
-				"image": "markoffriendship_117.jpg",
+				"image": "markoffriendship_123.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-118": {
-				"id": "LT-118",
+			"LT-124": {
+				"id": "LT-124",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Harmony",
@@ -3133,12 +3233,12 @@
 					{"en": "Enchanted Tattoo. Tap a pûkel-magic-using character to play this card on a Wose character in the same company.Target character gets +1 to direct influence and all of his corruption checks are modified by +1.May not be duplicated on a given character."},
 				"quote": 
 					{"en": ""},
-				"image": "markofharmony_118.jpg",
+				"image": "markofharmony_124.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-119": {
-				"id": "LT-119",
+			"LT-125": {
+				"id": "LT-125",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Power",
@@ -3159,12 +3259,12 @@
 					{"en": "Enchanted Tattoo. Tap a pûkel-magic-using character to play this card on a Wose character in the same company.Target character can use pûkel-magic. If character was already a pûkel-magic-using character, all his corruption checks caused by your pûkel-magic and spirit-magic cards are modified by +3.May not be duplicated on a given character."},
 				"quote": 
 					{"en": ""},
-				"image": "markofpower_119.jpg",
+				"image": "markofpower_125.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-120": {
-				"id": "LT-120",
+			"LT-126": {
+				"id": "LT-126",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Protection",
@@ -3188,12 +3288,12 @@
 					{"en": "Enchanted Tattoo. Tap a pûkel-magic-using character to play this card on a Wose character in the same company.Target character gets +1 to prowess (to a maximum of 5) and +1 to body (to a maximum of 8).May not be duplicated on a given character."},
 				"quote": 
 					{"en": ""},
-				"image": "markofprotection_120.jpg",
+				"image": "markofprotection_126.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-121": {
-				"id": "LT-121",
+			"LT-127": {
+				"id": "LT-127",
 				"set": "LT",
 				"name": {
 					"en": "Mark of Savagery",
@@ -3216,12 +3316,12 @@
 					{"en": "Enchanted Tattoo. Tap a pûkel-magic-using character to play this card on a Wose character in the same company.Target character gets +1 to prowess (to a maxumum of 7).Additionally, gives the bearer warrior skill. If the bearer is already a warrior, he gets +2 to prowess against orcs (to a maximum of 9).May not be duplicated on a given character."},
 				"quote": 
 					{"en": ""},
-				"image": "markofsavagery_121.jpg",
+				"image": "markofsavagery_127.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-122": {
-				"id": "LT-122",
+			"LT-128": {
+				"id": "LT-128",
 				"set": "LT",
 				"name": {
 					"en": "Mark of the Sentry",
@@ -3243,12 +3343,12 @@
 					{"en": "Enchanted Tattoo. Tap a pûkel-magic-using character to play this card on a Wose character in the same company.During the movement/hazard phase, the number of cards that opponent draws based on bearer’s company movement is reduced by 1 and controlling player draws 1 additional card.May not be duplicated on a given character."},
 				"quote": 
 					{"en": ""},
-				"image": "markofthesentry_122.jpg",
+				"image": "markofthesentry_128.jpg",
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-123": {
-				"id": "LT-123",
+			"LT-129": {
+				"id": "LT-129",
 				"set": "LT",
 				"name": {
 					"en": "Marsh Adder",
@@ -3275,12 +3375,12 @@
 					{"en": "Animal. Each character in the company faces one strike. All body checks resulting from successful strikes are modified by an additional +1.May be played keyed to swamp."},
 				"quote": 
 					{"en": "“Of a yellowish-green color that blends with the moisty marshes.” —Creatures of Middle Earth"},
-				"image": "marshadder_123.jpg",
+				"image": "marshadder_129.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-124": {
-				"id": "LT-124",
+			"LT-130": {
+				"id": "LT-130",
 				"set": "LT",
 				"name": {
 					"en": "Marsh Hermit",
@@ -3309,12 +3409,12 @@
 					{"en": "Unique. Lost Tribes Specific.Can use pûkel-magic.-1 to all of his corruption checks."},
 				"quote": 
 					{"en": "“The densely wooded hilltop provided the needed secrecy to allow casting of many the long forgotten rituals” —The Lost Tribes"},
-				"image": "marshhermit_124.jpg",
+				"image": "marshhermit_130.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-125": {
-				"id": "LT-125",
+			"LT-131": {
+				"id": "LT-131",
 				"set": "LT",
 				"name": {
 					"en": "Mendaen",
@@ -3340,12 +3440,12 @@
 					{"en": "Unique. Pûkel-Creature. Playable at Glittering caves, The Sparkling Caves, The Pûkel-deeps, The Stone-Deeps and Setmaenen by a pûkel-magic-using character. +2 to rolls required for its controller’s company to move to adjacent Under-deeps sites. Tap to cancel the effects of one hazard that targets a company, or an entity associated with a company, moving to or from an Under-deeps site."},
 				"quote": 
 					{"en": "“Mendaen attack with their massive, hammerlike hands, clutching and crushing their foes.” —Tribal Lore"},
-				"image": "mendaen_125.jpg",
+				"image": "mendaen_131.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-126": {
-				"id": "LT-126",
+			"LT-132": {
+				"id": "LT-132",
 				"set": "LT",
 				"name": {
 					"en": "Mensharag",
@@ -3371,12 +3471,12 @@
 					{"en": "Pûkel-Creature. Playable at a tapped or untapped site with a Pûkel-creature automatic-attack and only by a pûkel-magic-using character. Tap to cancel a strike against its bearer."},
 				"quote": 
 					{"en": "“Mensharag appear to be large boulders or blocks. Then they uncoil, becoming large, heavyset beasts” —Tribal Lore"},
-				"image": "mensharag_126.jpg",
+				"image": "mensharag_132.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-127": {
-				"id": "LT-127",
+			"LT-133": {
+				"id": "LT-133",
 				"set": "LT",
 				"name": {
 					"en": "Mewlips",
@@ -3403,12 +3503,12 @@
 					{"en": "Undead. Two strikes.After the attack, each character wounded makes a corruption check modified by -1.May be played keyed to swamp."},
 				"quote": 
 					{"en": "“Fond of the most noisome and darkest swamps and marshes, they have a silent tread and strangling hands” —Creatures of Middle Earth"},
-				"image": "mewlips_127.jpg",
+				"image": "mewlips_133.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-128": {
-				"id": "LT-128",
+			"LT-134": {
+				"id": "LT-134",
 				"set": "LT",
 				"name": {
 					"en": "Môn",
@@ -3438,12 +3538,12 @@
 					{"en": "Unique.+2 to his direct influence against Woses and Wose factions."},
 				"quote": 
 					{"en": "“Môn, mother of Ghân-buri-Ghân” —Woses of the Black Wood"},
-				"image": "môn_128.jpg",
+				"image": "môn_134.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-129": {
-				"id": "LT-129",
+			"LT-135": {
+				"id": "LT-135",
 				"set": "LT",
 				"name": {
 					"en": "Mor Maigh",
@@ -3474,12 +3574,12 @@
 					{"en": "Unique. Makes his company overt.Can use spirit-magic and pûkel-magic.+1 prowess to all Wose characters in his company. +1 prowess to all Man characters in his company. -1 to his corruption checks."},
 				"quote": 
 					{"en": "“Our dark father revered power may be alive, or perhaps long dead since centuries....” —The Lost Tribes"},
-				"image": "mormaigh_129.jpg",
+				"image": "mormaigh_135.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-130": {
-				"id": "LT-130",
+			"LT-136": {
+				"id": "LT-136",
 				"set": "LT",
 				"name": {
 					"en": "Morthec the Oath Breaker",
@@ -3505,12 +3605,12 @@
 					{"en": "Unique. Undead. Haunted. Vale of Erech has an additional automatic-attack: Undead—1 strike at 14/8 (if attacking Aragorn II´s company, tap any character in his company to cancel this attack). Cannot be played if Army of the Dead has been successfully played. In addition, Return of the King and Men of Lamedon cannot be played while this card is in play. Discard Morthec the Oath Breaker and prevent during this turn the subsequent play if Army of the Dead is successfully played."},
 				"quote": 
 					{"en": ""},
-				"image": "morthectheoathbreaker_130.jpg",
+				"image": "morthectheoathbreaker_136.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-134": {
-				"id": "LT-134",
+			"LT-141": {
+				"id": "LT-141",
 				"set": "LT",
 				"name": {
 					"en": "Nature Coloring Stone",
@@ -3533,12 +3633,12 @@
 					{"en": "Lost Tribes Specific. Coloring Stone. Artifact. +1 direct influence against Woses or Wose factions. Tap to bring any Enchanted Tattoo card from your discard pile to your hand. Bearer makes a corruption check."},
 				"quote": 
 					{"en": "“an ancient relic, sacred to the Drû, and is a symbol of Wose culture.” —Riders of Rohan"},
-				"image": "naturecoloringstone_134.jpg",
+				"image": "naturecoloringstone_141.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-135": {
-				"id": "LT-135",
+			"LT-142": {
+				"id": "LT-142",
 				"set": "LT",
 				"name": {
 					"en": "Nature Rites",
@@ -3559,12 +3659,12 @@
 					{"en": "Lost Tribes Specific. Untap a character in your Wose-Chief’s company.Alternatively, heal a character in your Wose-Chief’s company (from wounded to tapped) if in a site in a Wilderness [w]."},
 				"quote": 
 					{"en": "“Their religion is highly animistic and centers around reverence for personifications of various aspects of nature.” —Riders of Rohan"},
-				"image": "naturerites_135.jpg",
+				"image": "naturerites_142.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-137": {
-				"id": "LT-137",
+			"LT-144": {
+				"id": "LT-144",
 				"set": "LT",
 				"name": {
 					"en": "Oathbreakers",
@@ -3591,12 +3691,12 @@
 					{"en": "Undead. Four strikes. Any character wounded must make a corruption check.If Morthec the Oath Breaker is in play, Oathbreakers does not count against the hazard limit and may be played at Vale of Erech."},
 				"quote": 
 					{"en": ""},
-				"image": "oathbreakers_137.jpg",
+				"image": "oathbreakers_144.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-138": {
-				"id": "LT-138",
+			"LT-145": {
+				"id": "LT-145",
 				"set": "LT",
 				"name": {
 					"en": "Ôk-weni-Dhûr",
@@ -3626,12 +3726,12 @@
 					{"en": "Unique. Ok-weni dur is considered a Man (in addition to being a Wose) if there is a Man in his company. TTap to change one Wilderness [w] to a Border-land [b] or Shadow-land [s]. Ôk-weni-Dhûr makes a corruption check afterwards. Tap to change one Shadow-land [s] or Border-land [b] to a Wilderness [w]. Ôk-weni-Dhûr makes a corruption check afterwards."},
 				"quote": 
 					{"en": ""},
-				"image": "Ôk-weni-dhûr_138.jpg",
+				"image": "Ôk-weni-dhûr_145.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-140": {
-				"id": "LT-140",
+			"LT-148": {
+				"id": "LT-148",
 				"set": "LT",
 				"name": {
 					"en": "Ôlth",
@@ -3661,12 +3761,47 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "Ôlth_140.jpg",
+				"image": "Ôlth_148.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-141": {
-				"id": "LT-141",
+			"LT-147": {
+				"id": "LT-147",
+				"set": "LT",
+				"name": {
+					"en": "Ôlth",
+					"es": "Ôlth",
+					"de": "Name DE",
+					"fr": "Ôlth",
+					"it": "Ôlth",
+					"nl": "Ôlth",
+					"fi": "Ôlth",
+					"ja": "Ôlth"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Minas Morgul",
+					"draw": "1",
+					"region": "Lamedon",						
+					"auto_attack": "Pûkel-creature —2 strikes with 9 prowess (a Wose character may be tapped to cancel this attack)",
+					"site_type": "{B}",
+					"playable": "Items (minor, gold ring)",
+					"special": "Hidden Site. A company may not travel to this site unless it contains a Wose ranger or two non Wose rangers.Corruption checks made by Spirit-magic or Pûkel-magic characters in this site are modified with a +1.Tap a sage at this site to search your discard pile for a spirit magic or sorcery card and put it in your hand.",
+					"drawOpponent": "2",
+					"site_path": "{s}{w}{f}{f}{b}",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "Ôlth_147.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-149": {
+				"id": "LT-149",
 				"set": "LT",
 				"name": {
 					"en": "Open War",
@@ -3688,12 +3823,12 @@
 					{"en": "Channeling. Playable on a Pûkel Totem. Tap the Pûkel Totem. -2 to his mind value (-1 if played on Furious Stone-Heart).All Wose characters´ prowess are modified by +1, and an additional +1 against overt companies.Your companies may attack any other company (which can be canceled by tapping a Wose character in defending company). Hazards with a (*) attack normally and not as detaintment.Cannot be duplicated on a given Pûkel Totem. Discard if Pûkel-Totem moves or abandons play."},
 				"quote": 
 					{"en": ""},
-				"image": "openwar_141.jpg",
+				"image": "openwar_149.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-142": {
-				"id": "LT-142",
+			"LT-150": {
+				"id": "LT-150",
 				"set": "LT",
 				"name": {
 					"en": "Ôshaghan",
@@ -3721,12 +3856,12 @@
 					{"en": "Unique.+1 to her direct influence against Woses and Wose factions."},
 				"quote": 
 					{"en": ""},
-				"image": "Ôshaghan_142.jpg",
+				"image": "Ôshaghan_150.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-143": {
-				"id": "LT-143",
+			"LT-151": {
+				"id": "LT-151",
 				"set": "LT",
 				"name": {
 					"en": "Our Own Borders",
@@ -3747,12 +3882,12 @@
 					{"en": "Playable on a company facing an attack or in CvCC. Also playable during opponent’s site phase. Every weapon wielded by any Wose character in target company gives an additional +2 prowess bonus and lowers the body of strikes their bearers face by 1.Cannot be duplicated on a given attack."},
 				"quote": 
 					{"en": ""},
-				"image": "ourownborders_143.jpg",
+				"image": "ourownborders_151.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-144": {
-				"id": "LT-144",
+			"LT-152": {
+				"id": "LT-152",
 				"set": "LT",
 				"name": {
 					"en": "Paths of Midnight Prowl",
@@ -3773,12 +3908,12 @@
 					{"en": "Playable on a company if it contains two or more rangers. Treat one Shadow-land [s] as a Wilderness [w] or one Dark-domains [d] as two Wilderness [ww] for this company.Cannot be duplicated. Discard if at any time the company contains less than 2 rangers."},
 				"quote": 
 					{"en": "“He searched the forest on a midnight prowl for something unseen to untrained eyes.” —Tribal Lore"},
-				"image": "pathsofmidnightprowl_144.jpg",
+				"image": "pathsofmidnightprowl_152.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-145": {
-				"id": "LT-145",
+			"LT-154": {
+				"id": "LT-154",
 				"set": "LT",
 				"name": {
 					"en": "Penn-Cûms",
@@ -3806,12 +3941,46 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“The Hills were spotted with many small grottos and Drúadan ruins.” —Woses of the Black Wood"},
-				"image": "penn-cûms_145.jpg",
+				"image": "penn-cûms_154.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-146": {
-				"id": "LT-146",
+			"LT-153": {
+				"id": "LT-153",
+				"set": "LT",
+				"name": {
+					"en": "Penn-Cûms",
+					"es": "Penn-Cûms",
+					"de": "Name DE",
+					"fr": "Penn-Cûms",
+					"it": "Penn-Cûms",
+					"nl": "Penn-Cûms",
+					"fi": "Penn-Cûms",
+					"ja": "Penn-Cûms"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Carn Dûm",
+					"draw": "1",
+					"region": "Cardolan",						
+					"auto_attack": "Men — 3 strikes with 5 prowess",
+					"site_type": "{B}",
+					"special": "Healing effects affect all characters at the site.",
+					"drawOpponent": "1",
+					"site_path": "{s}{w}{w}",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": "“In the heart of shadowed hills, Where moonlight weaves its silver thrills, A hidden grotto lies concealed, Its secrets veiled, its depths revealed. —The Lost Lore"},
+				"image": "penn-cûms_153.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-155": {
+				"id": "LT-155",
 				"set": "LT",
 				"name": {
 					"en": "Pilgrimage",
@@ -3832,12 +4001,12 @@
 					{"en": "Rhân-bun-Rhân and Drû-buri-Drû specific.Tapped sites are never discarded and may be revisited by your companies.Discard when any play deck is exhausted."},
 				"quote": 
 					{"en": "“As the Shadow fell upon Númenor, though, the Drughu gradually migrated back to Middle-earth” —Scrolls of Tawar-in-Druedain"},
-				"image": "pilgrimage_146.jpg",
+				"image": "pilgrimage_155.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-147": {
-				"id": "LT-147",
+			"LT-156": {
+				"id": "LT-156",
 				"set": "LT",
 				"name": {
 					"en": "Pool Creature",
@@ -3864,12 +4033,12 @@
 					{"en": "Drake. 2 attacks (of 1 strike each) all against the same character. One of these attacks may be canceled by tapping one character in the defender’s company. All body checks resulting from successful strikes are modified by an additional +1.May be played keyed to swamp."},
 				"quote": 
 					{"en": "“He will eventually kill it, but will fall dead after walking nine paces, having been poisoned by the serpent’s deadly venom.” —Creatures of Middle Earth"},
-				"image": "poolcreature_147.jpg",
+				"image": "poolcreature_156.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-148": {
-				"id": "LT-148",
+			"LT-157": {
+				"id": "LT-157",
 				"set": "LT",
 				"name": {
 					"en": "Prâga-ura-Prâga",
@@ -3899,12 +4068,12 @@
 					{"en": "Unique. Lost Tribes Specific. Can use pûkel-magic. +2 to his direct influence against Woses/Men and Wose/Men factions. Tap to search your play deck or discard pile for an Enchanted Tattoo and play it on Prâga-ura-Prâga or discard a Enchanted Tattoo from a character in his company."},
 				"quote": 
 					{"en": "“Prâga-ura-Prâga is an old Wose chieftain and the Keeper of Colors”—Riders of Rohan"},
-				"image": "prâga-ura-prâga_148.jpg",
+				"image": "prâga-ura-prâga_157.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-149": {
-				"id": "LT-149",
+			"LT-158": {
+				"id": "LT-158",
 				"set": "LT",
 				"name": {
 					"en": "Progeny Aberration Awaken",
@@ -3929,12 +4098,12 @@
 					{"en": "Unique. Lost Tribes Specific. Manifestation of Ungoliant’s Progeny. Playable at The Wind-deeps and The Rusted-deeps if the influence check is greater than 12. Modifications: influencer eliminates a character in the influencing company (+4). All attacks by Spawn manifestations against any of your companies are considered as detainment. Any company moving in The Wind-deeps or The Rusted-deeps faces one attack:Spawn — two strikes at 15/7 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "progenyaberrationawaken_149.jpg",
+				"image": "progenyaberrationawaken_158.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-150": {
-				"id": "LT-150",
+			"LT-159": {
+				"id": "LT-159",
 				"set": "LT",
 				"name": {
 					"en": "Promises of Greatness and Destruction",
@@ -3957,12 +4126,12 @@
 					{"en": "Wose only. Playable on a pûkel-magic-using Wose character (not on your Wose-chief). If bearing a ring or special item, the bearer receives +2 to all corruption checks. Bearer´s mind value is increased by 1."},
 				"quote": 
 					{"en": "“Every thought, every desire, was dominated by the craving to possess and control all that existed. It was as if a sinister voice whispered deep within his mind, tempting him with promises of greatness and destruction.” —Tribal Lore"},
-				"image": "promisesofgreatnessanddestruction_150.jpg",
+				"image": "promisesofgreatnessanddestruction_159.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-151": {
-				"id": "LT-151",
+			"LT-160": {
+				"id": "LT-160",
 				"set": "LT",
 				"name": {
 					"en": "Protecting Spirits",
@@ -3984,12 +4153,12 @@
 					{"en": "Pûkel-magic. Playable on a pûkel-magic-using character in a site where information is playable. Tap the character and place this card underneath. You may tap “Protecting Spirits” and discard a hazard creature of the type animal, undead or Pûkel-creature to cancel an attack against bearer´s company which is not of the type maiar, Nazgûl or dragon. Bearer makes a corruption check modified with a -1."},
 				"quote": 
 					{"en": ""},
-				"image": "protectingspirits_151.jpg",
+				"image": "protectingspirits_160.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-152": {
-				"id": "LT-152",
+			"LT-161": {
+				"id": "LT-161",
 				"set": "LT",
 				"name": {
 					"en": "Pûkel Circle of Protection",
@@ -4010,12 +4179,12 @@
 					{"en": "You may remove from the game a Wose character from your hand to cancel an attack against any of your companies."},
 				"quote": 
 					{"en": "“The Drúadan magicians were able to transfer some of their life energy to their stone statues, which enabled these to act as guardians.” —Tribal Lore"},
-				"image": "pûkelcircleofprotection_152.jpg",
+				"image": "pûkelcircleofprotection_161.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-153": {
-				"id": "LT-153",
+			"LT-162": {
+				"id": "LT-162",
 				"set": "LT",
 				"name": {
 					"en": "Pûkel Milestones",
@@ -4036,12 +4205,12 @@
 					{"en": "Playable on a company formed by at least three Wose characters.Each Wilderness [w] symbol in the company’s site path counts as half a Wilderness [w]. When calculating the number of Wildernesses [w] in such a site path, round down the final result.Discard if at any time there are less than three Wose characters in the company."},
 				"quote": 
 					{"en": ""},
-				"image": "pûkelmilestones_153.jpg",
+				"image": "pûkelmilestones_162.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-154": {
-				"id": "LT-154",
+			"LT-163": {
+				"id": "LT-163",
 				"set": "LT",
 				"name": {
 					"en": "Pûra",
@@ -4062,12 +4231,12 @@
 					{"en": "Wose only. Tap a blowpipe to play Pûra.-3 Prowess to any attack (not undead nor Nâzgul) a company is facing.Alternatively, the number of strikes from any attack (not undead nor Nâzgul) is halved, rounded up."},
 				"quote": 
 					{"en": "“Pûra was a very potent poison developed by the Woses for their pipe bows, Arrows and Blades.” —Woses of the Black Wood"},
-				"image": "pûra_154.jpg",
+				"image": "pûra_163.jpg",
 				"rarity": "CA",
 				"artist": "Nicko"
 			},
-			"LT-155": {
-				"id": "LT-155",
+			"LT-164": {
+				"id": "LT-164",
 				"set": "LT",
 				"name": {
 					"en": "Queens of the Stone Age",
@@ -4092,12 +4261,12 @@
 					{"en": "Unique. Lost Tribes Specific. Manifestation of Ancient Stone Queen. Playable at The Moss-deeps if there is, at least, a Spawn permanent in play and if the influence check is greater than 15. Modifications: Influencer eliminates a character in the influencing company (+6). Influencer discards a major or greater item (no weapon neither armor items) in the influencing company (+4). Tap this faction or any other Spider faction, to cancel an animal, spider or spawn attack against any one of your companies. Any company moving in The Moss-deeps faces one attack: Spawn — three strikes at 15/7 prowess/body."},
 				"quote": 
 					{"en": "“Go with the flow” —Tribal Lore"},
-				"image": "queensofthestoneage_155.jpg",
+				"image": "queensofthestoneage_164.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-156": {
-				"id": "LT-156",
+			"LT-165": {
+				"id": "LT-165",
 				"set": "LT",
 				"name": {
 					"en": "Remains of Thangorodrim",
@@ -4127,12 +4296,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "remainsofthangorodrim_156.jpg",
+				"image": "remainsofthangorodrim_165.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-157": {
-				"id": "LT-157",
+			"LT-166": {
+				"id": "LT-166",
 				"set": "LT",
 				"name": {
 					"en": "Remnants of the Petty-Dwarves",
@@ -4158,12 +4327,12 @@
 					{"en": "Unique. Undead. Haunted.Barrow-Downs has an additional automatic-attack: Undead—2 strikes at 12/7. In addition, one non unique Undead hazard creature may be played per turn (not counting against the hazard limit) against any company moving to or through Cardolan or Rhudaur ."},
 				"quote": 
 					{"en": "“When the mineral nuggets were destroyed, the Dwarvish spirits became free.” —Tribal Lore"},
-				"image": "remnantsofthepetty-dwarves_157.jpg",
+				"image": "remnantsofthepetty-dwarves_166.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-158": {
-				"id": "LT-158",
+			"LT-167": {
+				"id": "LT-167",
 				"set": "LT",
 				"name": {
 					"en": "Restored Garden",
@@ -4186,12 +4355,12 @@
 					{"en": "Unique. Mam-ugi-mam and Drû-buri-Drû specific. Playable at Wellinghall or Derndingle by a company controlling 2 or more Ent-wife allies and 2 or more Ent allies with Wellinghall or Derndingle as home-site. Wellinghall or Derndingle becomes a Wose-haven [H] for the purposes of healing and bringing characters into play. Additionally, tap four Ent allies to untap Wellinghall or Derndingle during its owner’s untap phase."},
 				"quote": 
 					{"en": "“I’ll linger here, and will not come, because my land is fair.” —Ent and Entwife, The Two Towers."},
-				"image": "restoredgarden_158.jpg",
+				"image": "restoredgarden_167.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-159": {
-				"id": "LT-159",
+			"LT-168": {
+				"id": "LT-168",
 				"set": "LT",
 				"name": {
 					"en": "Revealed to the World",
@@ -4212,12 +4381,12 @@
 					{"en": "Place this card off to the side. During your organization phase, you may place any short-event (non unique, non environmental nor “only sage”) face up from your hand under this card. A maximum of two short-events may be with this card at one time. You may play a short-event placed with this card as though it were in your hand.You may start the game with this card in lieu of playing a minor item."},
 				"quote": 
 					{"en": ""},
-				"image": "revealedtotheworld_159.jpg",
+				"image": "revealedtotheworld_168.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-161": {
-				"id": "LT-161",
+			"LT-170": {
+				"id": "LT-170",
 				"set": "LT",
 				"name": {
 					"en": "Rhân-bun-Rhân",
@@ -4245,12 +4414,12 @@
 					{"en": "Unique. Can use pûkel-magic. +3 to his direct influence against Woses and Wose factions. When Rhân-bun-Rhân´s company moves, you may choose to draw the same amount of cards as your opponent. If his company contains at least 2 warrior characters, all Wose characters in his company get +1 to prowess (including himself)."},
 				"quote": 
 					{"en": ""},
-				"image": "rhân-bun-rhân_161.jpg",
+				"image": "rhân-bun-rhân_170.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-160": {
-				"id": "LT-160",
+			"LT-169": {
+				"id": "LT-169",
 				"set": "LT",
 				"name": {
 					"en": "Rhân-bun-Rhân",
@@ -4264,26 +4433,25 @@
 				"type": "Character",
 				"alignment": "Hero",
 				"attributes": {
-					"unique": true,
-					"skills": "Scout/Ranger/Warrior",
+					"skills": "Jefe Wose",
 					"body": "9",
 					"prowess": "4",
-					"homeSite": "The Lost Woods",
-					"race": "Wose-Chief",
+					"homeSite": "Los Bosques Perdidos",
+					"race": "Wose Explorador/Montaraz/Guerrero",
 					"directInfluence": "2",
 					"avatar": true,
 					"spawn": false,
 					"keywords": ["-"]},
 				"text": 
-					{"en": "Unique. Can use pûkel-magic. +3 to his direct influence against Woses and Wose factions. When Rhân-bun-Rhân´s company moves, you may choose to draw the same amount of cards as your opponent. If his company contains at least 2 warrior characters, all Wose characters in his company get +1 to prowess (including himself)."},
+					{"en": "Único. Puede utilizar Magia pûkel. +3 a su influencia directa contra Woses y facciones de Woses. Cuando la compañía de Rhân-bun-Rhân se mueve, puedes elegir robar la misma cantidad de cartas que tu oponente. Si está en una compañía formada por al menos otros 2 personajes Guerreros todos los personajes Woses en su compañía reciben +1 al Poder (incluido el mismo)."},
 				"quote": 
 					{"en": ""},
-				"image": "rhân-bun-rhân_160.jpg",
+				"image": "rhân-bun-rhân_169.jpg",
 				"rarity": "CA",
-				"artist": "DALL·E"
+				"artist": "Il. de DALL·E"
 			},
-			"LT-162": {
-				"id": "LT-162",
+			"LT-171": {
+				"id": "LT-171",
 				"set": "LT",
 				"name": {
 					"en": "Rise in Arms!",
@@ -4306,12 +4474,12 @@
 					{"en": "Rhân-bun-Rhân specific. Playable during the site phase at Sarn Goriwing if Rhân-bun-Rhân is there. Rhân-bun-Rhân’s company faces 2 attacks: (Orcs — 3x8, Trolls — 2x9). Following the attacks, tap Rhân-bun-Rhân or discard this card. If this card is not discarded, the site becomes a [B] and loses all automatic-attacks. This site is never discarded or returned to its location deck. Cannot be duplicated on a given site."},
 				"quote": 
 					{"en": ""},
-				"image": "riseinarms!_162.jpg",
+				"image": "riseinarms!_171.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-164": {
-				"id": "LT-164",
+			"LT-173": {
+				"id": "LT-173",
 				"set": "LT",
 				"name": {
 					"en": "Sador Labadal",
@@ -4342,12 +4510,12 @@
 					{"en": "Unique. Unless he is one of the starting characters, he may only be brought into play at his home site. All of his corruption checks are modified by +2. You may discard a character with a mind of 2 or higher in a company to make Sador Labadal playable with the company at any Haven."},
 				"quote": 
 					{"en": "“Sador was a Woodworker of Húrin in Dor-lómin and friend of Túrin Turambar in his childhood, by whom he was called Labadal (“Hopafoot”).” —Woses of the Black Wood"},
-				"image": "sadorlabadal_164.jpg",
+				"image": "sadorlabadal_173.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-165": {
-				"id": "LT-165",
+			"LT-174": {
+				"id": "LT-174",
 				"set": "LT",
 				"name": {
 					"en": "Sap Coloring Stone",
@@ -4375,12 +4543,12 @@
 					{"en": "Unique. Coloring Stone. Artifact. Playable at any site in the Heart of Mirkwood.+2 body (to a maximum of 10) and +2 to direct influence.Pûkel-magic-using character only:Tap to add +2 body (to a maximum of 9) to target character in the same company as the bearer until end of turn. Bearer makes a corruption check."},
 				"quote": 
 					{"en": "“It leaves a colored mark only when it rubs against flesh.” —Riders of Rohan"},
-				"image": "sapcoloringstone_165.jpg",
+				"image": "sapcoloringstone_174.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-166": {
-				"id": "LT-166",
+			"LT-175": {
+				"id": "LT-175",
 				"set": "LT",
 				"name": {
 					"en": "Setmaenen -The Seven Stones",
@@ -4409,12 +4577,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "setmaenen-thesevenstones_166.jpg",
+				"image": "setmaenen-thesevenstones_175.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-167": {
-				"id": "LT-167",
+			"LT-176": {
+				"id": "LT-176",
 				"set": "LT",
 				"name": {
 					"en": "Sherl",
@@ -4444,12 +4612,12 @@
 					{"en": "Unique. Can use pûkel-magic. +1 to influence checks against Wose and Wose factions. +1 to influence checks against the Beffraen faction.Tap during your organization phase to bring any ritual or pûkel-magic short-event from your discard pile to your deck. Shuffle your deck afterwards."},
 				"quote": 
 					{"en": "“A powerful magician despite her limited repertory of Spells.”—Raiders of Cardolan"},
-				"image": "sherl_167.jpg",
+				"image": "sherl_176.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-168": {
-				"id": "LT-168",
+			"LT-177": {
+				"id": "LT-177",
 				"set": "LT",
 				"name": {
 					"en": "Siol Speriang",
@@ -4474,12 +4642,12 @@
 					{"en": "Unique. Lost Tribes Specific. Playable at Eryn Vorn if the influence check is greater than 8. Standard Modifications: Woses (+2), Men (+1).While this faction is under your control, your Wose-Chief´s general influence is modified by +2."},
 				"quote": 
 					{"en": "“Secretive forest people with short, stout, tattooed bodies.” —Woses of the Black Wood"},
-				"image": "siolsperiang_168.jpg",
+				"image": "siolsperiang_177.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-171": {
-				"id": "LT-171",
+			"LT-181": {
+				"id": "LT-181",
 				"set": "LT",
 				"name": {
 					"en": "Spells of the Ancients",
@@ -4501,12 +4669,12 @@
 					{"en": "Channeling. Playable on a Pûkel Totem. Tap the Pûkel Totem. -2 to his mind value (-1 if played on Caichan Puchel). All your characters corruption checks resulting from pûkel-magic are modified by +2.Tap a Channeling you control to bring from your discard pile a magic resource (spirit-magic, pûkel magic, etc), a Shapeshifter or Light-Enchantment into your play deck. Shuffle your play deck afterwards.Cannot be duplicated on a given Pûkel Totem. Discard if Pûkel-Totem moves or abandons play."},
 				"quote": 
 					{"en": ""},
-				"image": "spellsoftheancients_171.jpg",
+				"image": "spellsoftheancients_181.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-172": {
-				"id": "LT-172",
+			"LT-182": {
+				"id": "LT-182",
 				"set": "LT",
 				"name": {
 					"en": "Spiders´ Nest ",
@@ -4535,12 +4703,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "spidersnest_172.jpg",
+				"image": "spidersnest_182.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-173": {
-				"id": "LT-173",
+			"LT-183": {
+				"id": "LT-183",
 				"set": "LT",
 				"name": {
 					"en": "Stone Charted Paths",
@@ -4562,12 +4730,12 @@
 					{"en": "Rhân-bun-Rhân and Drû-buri-Drû specific. Playable on a Wose ranger character.+2 to all rolls required for his company to move adjacent Under-deeps sites.Additionally, Any Under-deeps movement roll required for his company to move to an adjacent Under-deeps site where an opponent´s company is located, is automatically successful. Cannot be duplicated on a given company."},
 				"quote": 
 					{"en": ""},
-				"image": "stonechartedpaths_173.jpg",
+				"image": "stonechartedpaths_183.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-174": {
-				"id": "LT-174",
+			"LT-184": {
+				"id": "LT-184",
 				"set": "LT",
 				"name": {
 					"en": "Stone Guardian",
@@ -4588,12 +4756,12 @@
 					{"en": "Magic. Pûkel-magic. Playable on a pûkel-magic-using character facing an attack before strikes are assigned. An ally with a prowess of 5 is created which leaves the game when the attack is finished. In all cases, the ally must face one of the attack’s strikes. Unless he is a Wose-Chief, character makes a corruption check modified by -2."},
 				"quote": 
 					{"en": "“A long forgotten tale tells of a faithful stone guard, a mysterious Drúedain warrior.”—Forest of Brethil"},
-				"image": "stoneguardian_174.jpg",
+				"image": "stoneguardian_184.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-176": {
-				"id": "LT-176",
+			"LT-187": {
+				"id": "LT-187",
 				"set": "LT",
 				"name": {
 					"en": "Stone-mace of Setmaenen",
@@ -4620,12 +4788,12 @@
 					{"en": "Unique. Weapon. Warrior only.+1 prowess to a maximum of 8 (+2 prowess to a maximum of 9 if held by a Man). Additionally, +2 prowess against Undead.Tap to cancel an Undead or Pûkel-creature attack."},
 				"quote": 
 					{"en": "“Forged to cleanse the befouled holy pool of Setmaenen” —Ruins of the Dunlendings"},
-				"image": "stone-maceofsetmaenen_176.jpg",
+				"image": "stone-maceofsetmaenen_187.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-178": {
-				"id": "LT-178",
+			"LT-189": {
+				"id": "LT-189",
 				"set": "LT",
 				"name": {
 					"en": "Sûzush Conjurer",
@@ -4652,12 +4820,12 @@
 					{"en": "Lost Tribes specific. Tap to remove from the game a character in his company to search for a character (of the same race of the eliminated character´s) in your deck or discard pile and put in your hand (character may not be a Wose-Chief). Tap to search your discard pile for the long event Moon and place it on your deck. Shuffle your deck afterwards"},
 				"quote": 
 					{"en": ""},
-				"image": "sûzushconjurer_178.jpg",
+				"image": "sûzushconjurer_189.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-21": {
-				"id": "LT-21",
+			"LT-22": {
+				"id": "LT-22",
 				"set": "LT",
 				"name": {
 					"en": "The Caerdh Wood",
@@ -4677,7 +4845,7 @@
 					"region": "Enedhwaith",						
 					"site_type": "{B}",
 					"playable": "Information",
-					"special": "Hidden site. A company may not travel to this site unless it contains a ranger.",
+					"special": "Hidden site. A company may not travel to this site unless it taps a ranger.",
 					"drawOpponent": "1",
 					"site_path": "{w}{w}{w}",
 					"spawn": false,
@@ -4686,12 +4854,47 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“Caerdh Wood is one of only two true forests in all of Dunland. Most of the Dunish Highlands are covered in scattered woodlands, but nothing that could be considered a full blown forest.” —Dunland and the Southern Misty Mountains"},
-				"image": "thecaerdhwood_21.jpg",
+				"image": "thecaerdhwood_22.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-25": {
-				"id": "LT-25",
+			"LT-23": {
+				"id": "LT-23",
+				"set": "LT",
+				"name": {
+					"en": "The Caerdh Wood",
+					"es": "El Bosque Caerdh",
+					"de": "Name DE",
+					"fr": "The Caerdh Wood",
+					"it": "The Caerdh Wood",
+					"nl": "The Caerdh Wood",
+					"fi": "The Caerdh Wood",
+					"ja": "The Caerdh Wood"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Rivendell",
+					"draw": "2",
+					"region": "Enedhwaith",						
+					"auto_attack": "Men — each character face 1 strike with 7 prowess (detainment against covert companies)",
+					"site_type": "{B}",
+					"playable": "Items (minor, major*)*—weapon, armor, shield, or helmet only",
+					"special": "Hidden site. A company may not travel to this site unless it taps a ranger.",
+					"drawOpponent": "2",
+					"site_path": "{w}{w}{w}",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": "“Home of the fierce and proud Dunlendings, highland tribes frequently nfluenced by minions of Sauron and Saruman.” —Kuduk Lore"},
+				"image": "thecaerdhwood_23.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-27": {
+				"id": "LT-27",
 				"set": "LT",
 				"name": {
 					"en": "The Chief´s Path",
@@ -4714,12 +4917,12 @@
 					{"en": "Lost Tribes specific. Tap a Pûkel-Totem if at the same site as your Wose-Chief. Search for X short-event resources in your main deck (where X is the number of channeling cards you have in play) and place them “off to the side” with this card. Your Wose-Chief company may play these cards as if they were in your hand.Remove The Chief´s Path from game when there are no cards off to the side with this card."},
 				"quote": 
 					{"en": ""},
-				"image": "thechiefspath_25.jpg",
+				"image": "thechiefspath_27.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-29": {
-				"id": "LT-29",
+			"LT-31": {
+				"id": "LT-31",
 				"set": "LT",
 				"name": {
 					"en": "The Cleddif",
@@ -4747,12 +4950,12 @@
 					{"en": "Unique. Weapon. Warrior only. +2 to prowess (to a maximum of 8) and +1 direct influence against Men and Man factions. If bearer´s home site is the Dunnish Clan-hold, then The Cleddif is worth 3 MPs and 1 CP."},
 				"quote": 
 					{"en": "“The Cleddif was the common sword type among the Dunlendings. It resembled a broad Short sword or short Broadsword and was similar to an Uruk-hai Hanksar.” —The Lost Tribes"},
-				"image": "thecleddif_29.jpg",
+				"image": "thecleddif_31.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-33": {
-				"id": "LT-33",
+			"LT-35": {
+				"id": "LT-35",
 				"set": "LT",
 				"name": {
 					"en": "The Coloring Stone",
@@ -4778,12 +4981,12 @@
 					{"en": "Unique. Coloring Stone. Artifact. Playable at any Under-deeps [S] or [D]. Wose characters with mind 2 or less bearer controls do not require influence to be controlled. These characters do not count against the company size limit. +4 direct influence against Woses, Men, Wose and Men factions. Pûkel-magic-using character only: Tap to cancel all hazard effects for the rest of the turn that: force his company to return to its site of origin or that tap his company’s current or new site. Bearer makes a corruption check."},
 				"quote": 
 					{"en": "“The Stone is an ancient relic, sacred to the Drûgs” —Riders of Rohan"},
-				"image": "thecoloringstone_33.jpg",
+				"image": "thecoloringstone_35.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-34": {
-				"id": "LT-34",
+			"LT-36": {
+				"id": "LT-36",
 				"set": "LT",
 				"name": {
 					"en": "The Curse of Maellin Lothedel",
@@ -4809,12 +5012,12 @@
 					{"en": "Unique. Undead. Haunted. Carn Gassadaer has an additional automatic-attack: Undead—1 strike at 12/8, attacker chooses defending characters. In addition, Haunted permanents cannot be discarded by resources (i.e. Marvels Told) while this card is in play."},
 				"quote": 
 					{"en": "“... a sad voice begging to be saved from burning....a nightmare whispering night tales of horror” —Woses of the Black Wood"},
-				"image": "thecurseofmaellinlothedel_34.jpg",
+				"image": "thecurseofmaellinlothedel_36.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-36": {
-				"id": "LT-36",
+			"LT-38": {
+				"id": "LT-38",
 				"set": "LT",
 				"name": {
 					"en": "The Daedhel",
@@ -4840,12 +5043,12 @@
 					{"en": "Unique. Undead. Haunted. The Mournshaws has an additional automatic-attack: Undead—2 strikes at 13/7. In addition, as a permanent-event, it will remain in play until tapped during the opponent’s movement/hazard phase (tapping does not count against the hazard limit). When tapped, The Daedhel becomes a short-event; if there are more Haunted permanent cards in play than characters in target company, all characters in the company must make a corruption check."},
 				"quote": 
 					{"en": ""},
-				"image": "thedaedhel_36.jpg",
+				"image": "thedaedhel_38.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-47": {
-				"id": "LT-47",
+			"LT-50": {
+				"id": "LT-50",
 				"set": "LT",
 				"name": {
 					"en": "The Drowning-deeps",
@@ -4875,12 +5078,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thedrowning-deeps_47.jpg",
+				"image": "thedrowning-deeps_50.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-52": {
-				"id": "LT-52",
+			"LT-55": {
+				"id": "LT-55",
 				"set": "LT",
 				"name": {
 					"en": "The Drúadain",
@@ -4905,12 +5108,12 @@
 					{"en": "Unique. Lost Tribes Specific. Manifestation of Woses of the Drúadan Forest. Playable at the Drûadan Forest if the influence check is greater than 8.Standard Modifications: Woses (+2), Men with Edoras as home site (-2).While this faction is under your control, your Wose-Chief´s general influence is modified by +2."},
 				"quote": 
 					{"en": ""},
-				"image": "thedrúadain_52.jpg",
+				"image": "thedrúadain_55.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-61": {
-				"id": "LT-61",
+			"LT-64": {
+				"id": "LT-64",
 				"set": "LT",
 				"name": {
 					"en": "The Dweller of Fornost",
@@ -4936,12 +5139,12 @@
 					{"en": "Unique. Undead. Haunted.Dead Man´s Dike has an additional automatic-attack: Undead—1 strike at 13/8.In addition, all Haunted attacks receive +1 prowess and +1 strike."},
 				"quote": 
 					{"en": "“For roughly a thousand years now, it has become the haunt of orcs and fell things, and men call it ‘Deadman’s Dike’” —The Lost Tribes"},
-				"image": "thedwelleroffornost_61.jpg",
+				"image": "thedwelleroffornost_64.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-64": {
-				"id": "LT-64",
+			"LT-67": {
+				"id": "LT-67",
 				"set": "LT",
 				"name": {
 					"en": "The Enemy of my Enemy",
@@ -4963,12 +5166,12 @@
 					{"en": "Unique. Lost Tribes specific. Playable on a Man character with a mind of 3 or less at one of your Wose-haven [H] (or in your starting company in lieu of a minor item).+1 to his direct influence against Wose characters and Wose factions. If the character´s home site is one of the following: Eryn Vorn, Dunnish Clan-hold, Vale of Erech or Cameth Brin he gets an additional +1 to his direct influence which may only be used against factions playable in these regions."},
 				"quote": 
 					{"en": ""},
-				"image": "theenemyofmyenemy_64.jpg",
+				"image": "theenemyofmyenemy_67.jpg",
 				"rarity": "CA",
 				"artist": "Hildebrandt"
 			},
-			"LT-69": {
-				"id": "LT-69",
+			"LT-73": {
+				"id": "LT-73",
 				"set": "LT",
 				"name": {
 					"en": "The Faithful Stone",
@@ -4994,12 +5197,12 @@
 					{"en": "Unique. Watchstone. Playable at any tapped Hidden site by a pûkel-magic-using character if you remove from the game, for this purpose, a warrior character in his company if no other Watchstone is at the site. Tap the character. This site is never discarded or returned to its location deck. Modifiers apply to all Wose characters in the same and in adjacent regions to the site where this card has been played. +2 prowess and +1 body (to a maximum of 6 and 9 respectively)."},
 				"quote": 
 					{"en": ""},
-				"image": "thefaithfulstone_69.jpg",
+				"image": "thefaithfulstone_73.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-86": {
-				"id": "LT-86",
+			"LT-90": {
+				"id": "LT-90",
 				"set": "LT",
 				"name": {
 					"en": "The Haunting of Bor Leath",
@@ -5024,12 +5227,12 @@
 					{"en": "Unique. Playable on a pûkel-magic-using character at a Ruins &amp; Lairs [R] in Cardolan, Rohan, Anduin Vales or Harondor if his company has defeated a unique Undead manifestation. The site becomes a [B] and loses all automatic attacks. Target character receives: +3 direct influence against Men, Men factions, Woses and Wose factions. +1 to all corruption checks."},
 				"quote": 
 					{"en": "“Over the years they have become accustomed to perils that would daunt many folk.” —Woses of the Black Wood"},
-				"image": "thehauntingofborleath_86.jpg",
+				"image": "thehauntingofborleath_90.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-95": {
-				"id": "LT-95",
+			"LT-99": {
+				"id": "LT-99",
 				"set": "LT",
 				"name": {
 					"en": "The Influence of Father Darkness",
@@ -5052,12 +5255,12 @@
 					{"en": "Corruption. Does not affect Hobbits, Ringwraiths nor Wizards. A character receives 1 corruption point (2 if played on a Wose). Target character makes a corruption check each time he taps.Additionally, all Pûkel Totem´s mind values are reduced by 1. Cannot be duplicated on a given character. During his organization phase, a character with this card may tap to attempt to remove it. Make a roll (or draw a #): if this result is greater than 5, discard this card."},
 				"quote": 
 					{"en": ""},
-				"image": "theinfluenceoffatherdarkness_95.jpg",
+				"image": "theinfluenceoffatherdarkness_99.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-100": {
-				"id": "LT-100",
+			"LT-104": {
+				"id": "LT-104",
 				"set": "LT",
 				"name": {
 					"en": "The Keeper of Colors",
@@ -5081,12 +5284,12 @@
 					{"en": "Unique. Lost Tribes Specific. Playable if you tap, for this specific reason: 3 Coloring Stones and 3 Wose factions you control. Place this card on your Wose-Chief if he is play, if so played: your Wose-Chief becomes The Keeper of Colors. +7 to your general influence, Wose characters with a mind attribute of 2 or less controlled by general influence or in the same company as your Wose-Chief require no influence to control. Your Wose-Chief may tap to bring a Wose character into play under general or direct influence at any non [D] or [S] with any company. This does not count against the one character per turn limit."},
 				"quote": 
 					{"en": ""},
-				"image": "thekeeperofcolors_100.jpg",
+				"image": "thekeeperofcolors_104.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-104": {
-				"id": "LT-104",
+			"LT-108": {
+				"id": "LT-108",
 				"set": "LT",
 				"name": {
 					"en": "The Last King of Cardolan",
@@ -5112,12 +5315,12 @@
 					{"en": "Unique. Undead. Haunted. Barrow Downs has an additional automatic-attack: Undead—1 strike at 12/9.In addition, as a permanent-event, it will remain in play until tapped during the opponent’s movement/hazard phase (tapping counts against the hazard limit). When tapped, The Last King of Cardolan becomes a short-event that allows you to search for Sleepless Malice in your discard pile and bring it directly into play (does not count against the hazard limit)."},
 				"quote": 
 					{"en": ""},
-				"image": "thelastkingofcardolan_104.jpg",
+				"image": "thelastkingofcardolan_108.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-110": {
-				"id": "LT-110",
+			"LT-115": {
+				"id": "LT-115",
 				"set": "LT",
 				"name": {
 					"en": "The Lost Grottos of the Choil Borba",
@@ -5147,12 +5350,47 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thelostgrottosofthechoilborba_110.jpg",
+				"image": "thelostgrottosofthechoilborba_115.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-111": {
-				"id": "LT-111",
+			"LT-114": {
+				"id": "LT-114",
+				"set": "LT",
+				"name": {
+					"en": "The Lost Grottos of the Choil Borba",
+					"es": "Las Grutas Perdidas de los Choil Borba",
+					"de": "Name DE",
+					"fr": "The Lost Grottos of the Choil Borba",
+					"it": "The Lost Grottos of the Choil Borba",
+					"nl": "The Lost Grottos of the Choil Borba",
+					"fi": "The Lost Grottos of the Choil Borba",
+					"ja": "The Lost Grottos of the Choil Borba"},
+				"type": "Site",
+				"alignment": "Balrog",
+				"attributes": {
+					"unique": true,
+					"adjacent": "Hidden Forest to Foreign Eyes (0), The Drowning-deeps (6), The Sparkling Caves (6).",
+					"draw": "2",
+					"region": "Arthedain",
+					"underDeeps": true,
+					"auto_attack": "Pûkel-creature (1st) — 2 strikes with 11 power. (2nd) — Opponent may play as an automatic attack one non-unique hazard creature from his hand normally keyed to [S].",
+					"site_type": "{R}",
+					"playable": "Items (minor, major, gold ring)",
+					"special": "Hidden site. A company may not travel to this site unless it taps a ranger.",
+					"drawOpponent": "3",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "thelostgrottosofthechoilborba_114.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-116": {
+				"id": "LT-116",
 				"set": "LT",
 				"name": {
 					"en": "The Lost Temples",
@@ -5181,12 +5419,46 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thelosttemples_111.jpg",
+				"image": "thelosttemples_116.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-112": {
-				"id": "LT-112",
+			"LT-118": {
+				"id": "LT-118",
+				"set": "LT",
+				"name": {
+					"en": "The Lost Woods",
+					"es": "Los Bosques Perdidos",
+					"de": "Name DE",
+					"fr": "The Lost Woods",
+					"it": "The Lost Woods",
+					"nl": "The Lost Woods",
+					"fi": "The Lost Woods",
+					"ja": "The Lost Woods"},
+				"type": "Site",
+				"alignment": "Minion",
+				"attributes": {
+					"unique": true,
+					"haven": "Dol Guldur",
+					"draw": "2",
+					"region": "Western Mirkwood",						
+					"auto_attack": "Men — each character face 1 strike with 7 prowess (detainment against covert companies, canceled if company contains a wose character with mind higher than 5)",
+					"site_type": "{B}",
+					"playable": "Information",
+					"special": "Hidden site. A company may not travel to this site unless it taps a ranger. No character may be brought into play at this site (unless it is the character's home site or your Wose-Chief is at this site). Resources may never be stored at this site.",
+					"drawOpponent": "2",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "thelostwoods_118.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-117": {
+				"id": "LT-117",
 				"set": "LT",
 				"name": {
 					"en": "The Lost Woods",
@@ -5211,12 +5483,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": "“They seek only to be ignored by the whole outside world while they tend to the forest.” —Woses of the Black Wood"},
-				"image": "thelostwoods_112.jpg",
+				"image": "thelostwoods_117.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-131": {
-				"id": "LT-131",
+			"LT-137": {
+				"id": "LT-137",
 				"set": "LT",
 				"name": {
 					"en": "The Moss-Deeps",
@@ -5245,12 +5517,46 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "themoss-deeps_131.jpg",
+				"image": "themoss-deeps_137.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-132": {
-				"id": "LT-132",
+			"LT-138": {
+				"id": "LT-138",
+				"set": "LT",
+				"name": {
+					"en": "The Moss-Deeps",
+					"es": "Las Profundidades Musgosas",
+					"de": "Name DE",
+					"fr": "The Moss-Deeps",
+					"it": "The Moss-Deeps",
+					"nl": "The Moss-Deeps",
+					"fi": "The Moss-Deeps",
+					"ja": "The Moss-Deeps"},
+				"type": "Site",
+				"alignment": "Balrog",
+				"attributes": {
+					"unique": true,
+					"adjacent": "Spiders´ Nest (0),Underground Lake (6), The Sûlfur-Deeps (7).",
+					"draw": "1",
+					"region": "Heart of Mirkwood",
+					"underDeeps": true,
+					"auto_attack": "Corruption checks made by spirit-magic or pûkel-magic characters in this site are modified with a +2.",
+					"site_type": "{S}",
+					"playable": "Items (minor, major, greater)",
+					"drawOpponent": "3",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "themoss-deeps_138.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-139": {
+				"id": "LT-139",
 				"set": "LT",
 				"name": {
 					"en": "The Mother of Woods",
@@ -5273,12 +5579,12 @@
 					{"en": "Mam-ugi-mam specific. Playable if you are Mam-ugi-mam and have at least 3 allies and 3 factions in play. Mam-ugi-mam need not be at the appropriate site when making an influence attempt on a resource or character (opponent’s or yours). Such an influence check is modified by half (rounded up) of Mam-ugi-mam’s unused general influence (to a maximum of 10) instead of his unused direct influence. Subtract from the attempt the number of regions between Mam-ugi-mam’s site and the site where the influence attempt would normally be made. Discard if you have fewer than 3 allies and 3 factions in play. Cannot be duplicated."},
 				"quote": 
 					{"en": ""},
-				"image": "themotherofwoods_132.jpg",
+				"image": "themotherofwoods_139.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-133": {
-				"id": "LT-133",
+			"LT-140": {
+				"id": "LT-140",
 				"set": "LT",
 				"name": {
 					"en": "The Mournshaws",
@@ -5307,12 +5613,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "themournshaws_133.jpg",
+				"image": "themournshaws_140.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-139": {
-				"id": "LT-139",
+			"LT-146": {
+				"id": "LT-146",
 				"set": "LT",
 				"name": {
 					"en": "The Old Pûkel Man",
@@ -5335,12 +5641,12 @@
 					{"en": "Lost Tribes Specific. Shapeshifter. Can only be played on your Wose-Chief. Return this card to your hand: when you play another Shapeshifter card or, if you choose, during your organization phase. In addition to adopting the given attributes, Wose-Chief´s skills become Warrior/Ranger. When moving to or from a site in a Wilderness [w] his prowess is only modified by -1 when not tapping to face a strike. Wose-chief may bear, but not use, items and and may play one less region card."},
 				"quote": 
 					{"en": ""},
-				"image": "theoldpûkelman_139.jpg",
+				"image": "theoldpûkelman_146.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-163": {
-				"id": "LT-163",
+			"LT-172": {
+				"id": "LT-172",
 				"set": "LT",
 				"name": {
 					"en": "The Rusted-deeps",
@@ -5370,12 +5676,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "therusted-deeps_163.jpg",
+				"image": "therusted-deeps_172.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-170": {
-				"id": "LT-170",
+			"LT-179": {
+				"id": "LT-179",
 				"set": "LT",
 				"name": {
 					"en": "The Sparkling Caves",
@@ -5405,12 +5711,47 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thesparklingcaves_170.jpg",
+				"image": "thesparklingcaves_179.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-175": {
-				"id": "LT-175",
+			"LT-180": {
+				"id": "LT-180",
+				"set": "LT",
+				"name": {
+					"en": "The Sparkling Caves",
+					"es": "Las Grutas Centelleantes",
+					"de": "Name DE",
+					"fr": "The Sparkling Caves",
+					"it": "The Sparkling Caves",
+					"nl": "The Sparkling Caves",
+					"fi": "The Sparkling Caves",
+					"ja": "The Sparkling Caves"},
+				"type": "Site",
+				"alignment": "Balrog",
+				"attributes": {
+					"unique": true,
+					"adjacent": "Hidden Ruins (0), The Lost Grottos of the Choil Borba (6), The Haunted Grottos (7), The Deafening Grottos (7), The Pûkel-deeps (6)",
+					"draw": "2",
+					"region": "Old Pûkel Land",
+					"underDeeps": true,
+					"auto_attack": "Pûkel-creature (1st) — 2x11; (2nd) — Opponent may play as an automatic attack one non-unique hazard creature from his hand normally keyed to [S].",
+					"site_type": "{R}",
+					"playable": "Items (minor, major, gold ring)",
+					"special": "Hidden site. A company may not travel to this site unless it taps a ranger.",
+					"drawOpponent": "3",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "thesparklingcaves_180.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-185": {
+				"id": "LT-185",
 				"set": "LT",
 				"name": {
 					"en": "The Stone-Deeps",
@@ -5440,12 +5781,47 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thestone-deeps_175.jpg",
+				"image": "thestone-deeps_185.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-177": {
-				"id": "LT-177",
+			"LT-186": {
+				"id": "LT-186",
+				"set": "LT",
+				"name": {
+					"en": "The Stone-Deeps",
+					"es": "Las Profundidades de Piedra",
+					"de": "Name DE",
+					"fr": "The Stone-Deeps",
+					"it": "The Stone-Deeps",
+					"nl": "The Stone-Deeps",
+					"fi": "The Stone-Deeps",
+					"ja": "The Stone-Deeps"},
+				"type": "Site",
+				"alignment": "Balrog",
+				"attributes": {
+					"unique": true,
+					"adjacent": "High Glens (0), The Pûkel-Deeps (5), The Deafening Grottos (7), Shelob´s Great Pit (11).",
+					"draw": "2",
+					"region": "Anórien",
+					"underDeeps": true,
+					"auto_attack": "Pûkel-creature (1st) — 2x11 (2nd) — Opponent may play as an automatic attack one non-unique hazard creature from his hand normally keyed to [S].",
+					"site_type": "{R}",
+					"playable": "Items (minor, major, gold ring)",
+					"special": "Hidden site. A company may not travel to this site unless it taps a ranger.",
+					"drawOpponent": "3",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "thestone-deeps_186.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-188": {
+				"id": "LT-188",
 				"set": "LT",
 				"name": {
 					"en": "The Stones",
@@ -5470,12 +5846,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thestones_177.jpg",
+				"image": "thestones_188.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-196": {
-				"id": "LT-196",
+			"LT-208": {
+				"id": "LT-208",
 				"set": "LT",
 				"name": {
 					"en": "The Wind-deeps",
@@ -5505,12 +5881,12 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "thewind-deeps_196.jpg",
+				"image": "thewind-deeps_208.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-179": {
-				"id": "LT-179",
+			"LT-190": {
+				"id": "LT-190",
 				"set": "LT",
 				"name": {
 					"en": "Thornbite Staff",
@@ -5538,12 +5914,12 @@
 					{"en": "Unique. Artifact. +2 to direct influence, and +2 to prowess (to a maximum of 8).Tap Thornbite Staff to untap spirit-magic or pûkel-magic-using bearer.You may transfer Thornbite Staff to another character in the same company during the site phase. Bearer makes a corruption check."},
 				"quote": 
 					{"en": ""},
-				"image": "thornbitestaff_179.jpg",
+				"image": "thornbitestaff_190.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-180": {
-				"id": "LT-180",
+			"LT-191": {
+				"id": "LT-191",
 				"set": "LT",
 				"name": {
 					"en": "Tika",
@@ -5571,12 +5947,12 @@
 					{"en": "Unique. Lost Tribes specific. Tika is considered a Wose (in addition to being a Man) if there is a Wose in his company.Against Nazgûl +7 her prowess and his body is halved (round up)."},
 				"quote": 
 					{"en": "“Much of her youthful strength and splendor, however, has passed. Once one of the most beautiful Wose women who ever lived,” —Woses of the Black Wood"},
-				"image": "tika_180.jpg",
+				"image": "tika_191.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-181": {
-				"id": "LT-181",
+			"LT-192": {
+				"id": "LT-192",
 				"set": "LT",
 				"name": {
 					"en": "Tolwen",
@@ -5606,12 +5982,12 @@
 					{"en": "Unique. She may not be one of the starting characters. She may only be brought into play at one of her home sites. Tap Tolwen and another untapped character or Ent ally in her company to heal target character in her company, from wounded to well and untapped."},
 				"quote": 
 					{"en": "“Capable of healing almost any physical injury and had the ability to perform Lifegiving” —Ents of Fangorn"},
-				"image": "tolwen_181.jpg",
+				"image": "tolwen_192.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-182": {
-				"id": "LT-182",
+			"LT-193": {
+				"id": "LT-193",
 				"set": "LT",
 				"name": {
 					"en": "Tree Horrors",
@@ -5638,12 +6014,12 @@
 					{"en": "Awakened Plant. Two strikes.May be played at Eryn Vorn, Drûadan Forest, Old Forest and Wellinghall.May also be played keyed to Cardolan, Old Pûkel Land, Heart of Mirkwood, Southern Mirkwood, Western Mirkwood, and Woodland Realm; and may also be played at Ruins &amp; Lairs [R] and Shadow-holds [S] in these regions."},
 				"quote": 
 					{"en": ""},
-				"image": "treehorrors_182.jpg",
+				"image": "treehorrors_193.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-183": {
-				"id": "LT-183",
+			"LT-194": {
+				"id": "LT-194",
 				"set": "LT",
 				"name": {
 					"en": "Treespeaker",
@@ -5665,12 +6041,12 @@
 					{"en": "Magic. Pûkel-magic. Playable on a pûkel-magic-using character. Tap any combination of two Ent and/or Ent-wife allies in the same company to untap a site where Ent/Ent-wife allies are playable. Character makes a corruption check modified with a -2 right after every untap attempt."},
 				"quote": 
 					{"en": ""},
-				"image": "treespeaker_183.jpg",
+				"image": "treespeaker_194.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-184": {
-				"id": "LT-184",
+			"LT-195": {
+				"id": "LT-195",
 				"set": "LT",
 				"name": {
 					"en": "Tribal Ritual",
@@ -5691,12 +6067,12 @@
 					{"en": "Unique. Magic. Pûkel-magic. Playable on a pûkel-magic-using character at a Haven [H]. Search your deck for a resource card, then shuffle your deck and put that card on top of it. Character makes a corruption check modified by -3.Remove this card from the game."},
 				"quote": 
 					{"en": ""},
-				"image": "tribalritual_184.jpg",
+				"image": "tribalritual_195.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-185": {
-				"id": "LT-185",
+			"LT-196": {
+				"id": "LT-196",
 				"set": "LT",
 				"name": {
 					"en": "Tribe Blessings",
@@ -5718,12 +6094,12 @@
 					{"en": "Channeling. Playable on a Pûkel Totem. Tap the Pûkel Totem. -1 to his mind value.You may discard a Channeling under your control (including this one) to cancel the effects of a hazard permanent event played on any of your companies.If Tribe Blessings is discarded, you may bring a Watch-Stone resource from your sideboard or discard pile into your play deck. Shuffle your play deck afterwards. Cannot be duplicated on a given Pûkel Totem. Discard if Pûkel-Totem moves or abandons play."},
 				"quote": 
 					{"en": ""},
-				"image": "tribeblessings_185.jpg",
+				"image": "tribeblessings_196.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-186": {
-				"id": "LT-186",
+			"LT-197": {
+				"id": "LT-197",
 				"set": "LT",
 				"name": {
 					"en": "Tribe Tactics",
@@ -5745,12 +6121,12 @@
 					{"en": "Playable on a character only if his company contains at least a warrior, a scout and a ranger. Tap to modify target character´s prowess by +3 against a strike or target character receives a +2 against a corruption check. Target character must be in the same company.Discard Tribe Tactics during the organization phase if playable conditions are not met."},
 				"quote": 
 					{"en": ""},
-				"image": "tribetactics_186.jpg",
+				"image": "tribetactics_197.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-187": {
-				"id": "LT-187",
+			"LT-198": {
+				"id": "LT-198",
 				"set": "LT",
 				"name": {
 					"en": "Underground Lake",
@@ -5780,12 +6156,47 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "undergroundlake_187.jpg",
+				"image": "undergroundlake_198.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-188": {
-				"id": "LT-188",
+			"LT-199": {
+				"id": "LT-199",
+				"set": "LT",
+				"name": {
+					"en": "Underground Lake",
+					"es": "Lago Subterráneo",
+					"de": "Name DE",
+					"fr": "Underground Lake",
+					"it": "Underground Lake",
+					"nl": "Underground Lake",
+					"fi": "Underground Lake",
+					"ja": "Underground Lake"},
+				"type": "Site",
+				"alignment": "Balrog",
+				"attributes": {
+					"unique": true,
+					"adjacent": "The Lost Temples (0), The Moss-Deeps (6), The Sûlfur-Deeps (6).",
+					"draw": "2",
+					"region": "Heart of Mirkwood",
+					"underDeeps": true,
+					"auto_attack": "Pûkel-creature (1st) — 2x11(2nd) — Opponent may play as an automatic attack one non-unique hazard creature from his hand normally keyed to [c].",
+					"site_type": "{R}",
+					"playable": "Items (minor, major, gold ring)",
+					"special": "Hidden site. A company may not travel to this site unless it taps a ranger.",
+					"drawOpponent": "3",
+					"spawn": false,
+					"keywords": ["-"]},
+				"text": 
+					{"en": "Rules Text"},
+				"quote": 
+					{"en": ""},
+				"image": "undergroundlake_199.jpg",
+				"rarity": "CA",
+				"artist": "DALL·E"
+			},
+			"LT-200": {
+				"id": "LT-200",
 				"set": "LT",
 				"name": {
 					"en": "Ungoliant Aberration Awaken",
@@ -5810,12 +6221,12 @@
 					{"en": "Unique. Lost Tribes Specific. Manifestation of Spawn of Ungoliant. Playable at The Pûkel-deeps and The Gem-deeps if the influence check is greater than 12.Modifications: influencer eliminates a character in the influencing company (+4). All attacks by Spawn manifestations against any of your companies are considered as detainment. Any company moving in The Pûkel-deeps or The Gem-deeps faces one attack:Spawn — three strikes at 15/7 prowess/body."},
 				"quote": 
 					{"en": ""},
-				"image": "ungoliantaberrationawaken_188.jpg",
+				"image": "ungoliantaberrationawaken_200.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-189": {
-				"id": "LT-189",
+			"LT-201": {
+				"id": "LT-201",
 				"set": "LT",
 				"name": {
 					"en": "Unspeakable Rituals",
@@ -5836,12 +6247,12 @@
 					{"en": "Magic. Pûkel-magic. Playable on a pûkel-magic-using character. Tap the character and reveal up to 8 cards from the top of your play deck. Choose one to put into your hand and shuffle the remaining ones into your discard pile and/or play deck. Unless the character is a Wose-Chief, character makes a corruption check modified by -2."},
 				"quote": 
 					{"en": "“they could raise an army of Undead from their graves through the use of rare stones and unspeakable rituals.” —Raiders of Cardolan"},
-				"image": "unspeakablerituals_189.jpg",
+				"image": "unspeakablerituals_201.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-190": {
-				"id": "LT-190",
+			"LT-202": {
+				"id": "LT-202",
 				"set": "LT",
 				"name": {
 					"en": "Vigor of Mother Earth",
@@ -5863,12 +6274,12 @@
 					{"en": "Channeling. Playable on a Pûkel Totem. Tap the Pûkel Totem. -2 to his mind value (-1 if played on Great Healing Foot or Great Mother). Tap a Channeling and an Enchanted Tattoo to untap bearer if not in a [D] or [d]. Cannot be duplicated on a given Pûkel Totem. Discard if Pûkel-Totem moves or abandons play."},
 				"quote": 
 					{"en": ""},
-				"image": "vigorofmotherearth_190.jpg",
+				"image": "vigorofmotherearth_202.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-191": {
-				"id": "LT-191",
+			"LT-203": {
+				"id": "LT-203",
 				"set": "LT",
 				"name": {
 					"en": "Wandlimb",
@@ -5895,12 +6306,12 @@
 					{"en": "Unique. Ent-wife. Playable at any Hidden site in a Wilderness [w]. May not be attacked by automatic attacks or hazards keyed to her site.Discard Wandlimb if his company moves through a Shadow-land [s], a Dark-domain [d] or to non Hidden site Under-deeps site."},
 				"quote": 
 					{"en": "“At the time of the War of the Ring, Treebeard had not seen his beloved Wandlimb for over 3,000 years.” —Lords of Middle-earth Vol III"},
-				"image": "wandlimb_191.jpg",
+				"image": "wandlimb_203.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-192": {
-				"id": "LT-192",
+			"LT-204": {
+				"id": "LT-204",
 				"set": "LT",
 				"name": {
 					"en": "Water Coloring Stone",
@@ -5928,12 +6339,12 @@
 					{"en": "Unique. Coloring Stone. Artifact. Playable at any site in Elven Shore, Eriadoran Coast and Andrast Coast.+1 prowess (to a maximum of 8), +1 body (to a maximum of 10), +1 to direct influence.Pûkel-magic-using character only: Tap to add +1 to prowess and +1 body (to a maximum of 6 and 9 respectively) to target character in the same company as the bearer until end of turn. Bearer makes a corruption check."},
 				"quote": 
 					{"en": "“Used to tattoo at the coming of a Wose adulthood with water colored powers.” —Riders of Rohan"},
-				"image": "watercoloringstone_192.jpg",
+				"image": "watercoloringstone_204.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-193": {
-				"id": "LT-193",
+			"LT-205": {
+				"id": "LT-205",
 				"set": "LT",
 				"name": {
 					"en": "Water Leaper",
@@ -5960,12 +6371,12 @@
 					{"en": "Animal. Three strikes. All body checks resulting from successful strikes are modified by an additional +1.May be played keyed to swamp."},
 				"quote": 
 					{"en": "“The critical strike was accompanied by a muscle poison that caused bleeding, bruises, and swelling” —Realms of Arda"},
-				"image": "waterleaper_193.jpg",
+				"image": "waterleaper_205.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-194": {
-				"id": "LT-194",
+			"LT-206": {
+				"id": "LT-206",
 				"set": "LT",
 				"name": {
 					"en": "Will Driven by Revenge",
@@ -5986,12 +6397,12 @@
 					{"en": "Magic. Pûkel-magic. Playable on a pûkel-magic-using character facing an attack. All characters in his company receive +2 prowess and -1 body against the attack. Unless he is a Wose-Chief, character makes a corruption check modified by -2. Cannot be duplicated against a given attack."},
 				"quote": 
 					{"en": "“Grievances, broken promises...all leading to a great anger, as if their will were driven by revenge” —Tribal Lore"},
-				"image": "willdrivenbyrevenge_194.jpg",
+				"image": "willdrivenbyrevenge_206.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-195": {
-				"id": "LT-195",
+			"LT-207": {
+				"id": "LT-207",
 				"set": "LT",
 				"name": {
 					"en": "Willow-Wood Wand",
@@ -6015,12 +6426,12 @@
 					{"en": "Artifact. Playable on a pûkel-magic-using character.If bearer is a pûkel-magic-using character:Tap to cancel an attack against the bearer´s company.Tap to modify by -2 the prowess and body of any hazard creature attack keyed to a [S], D, [s] or [d] . You choose targets of such an attack´s strikes (regardless of tapped status, wounded status, and the normal abilities of the attack). Bearer makes a corruption check."},
 				"quote": 
 					{"en": ""},
-				"image": "willow-woodwand_195.jpg",
+				"image": "willow-woodwand_207.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-197": {
-				"id": "LT-197",
+			"LT-209": {
+				"id": "LT-209",
 				"set": "LT",
 				"name": {
 					"en": "Wooden Ceremonials",
@@ -6046,12 +6457,12 @@
 					{"en": "Weapon. +2 prowess (to a maximum of 7).During each of your organization phases, you may discard a non Wose character in bearer’s company and place him “off to the side” with this card. This character does not provide any MP. If you have at least 1 character with this card, you receive this card’s values within brackets."},
 				"quote": 
 					{"en": ""},
-				"image": "woodenceremonials_197.jpg",
+				"image": "woodenceremonials_209.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-198": {
-				"id": "LT-198",
+			"LT-210": {
+				"id": "LT-210",
 				"set": "LT",
 				"name": {
 					"en": "Wose Blood Ties",
@@ -6073,12 +6484,12 @@
 					{"en": "Lost Tribes Specific. Playable on a Man character. If character´s mind attribute is equal to 2 or less, that character does not require general influence points to be controlled. If character´s mind attribute is equal to 3 or more, character gets +2 to his direct influence against Woses or Wose factions. May not be duplicated on a given character. You may start the game with this card in lieu of playing a minor item."},
 				"quote": 
 					{"en": ""},
-				"image": "wosebloodties_198.jpg",
+				"image": "wosebloodties_210.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-199": {
-				"id": "LT-199",
+			"LT-211": {
+				"id": "LT-211",
 				"set": "LT",
 				"name": {
 					"en": "Wose Blowpipe",
@@ -6100,12 +6511,12 @@
 					{"en": "Weapon. Blowpipe. Tap to allow the bearer not to tap against one strike. Discard if its bearer is not a Wose."},
 				"quote": 
 					{"en": "“Used by the Woses to shoot poisoned darts known as Pûra” —Woses of the Black Wood"},
-				"image": "woseblowpipe_199.jpg",
+				"image": "woseblowpipe_211.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-200": {
-				"id": "LT-200",
+			"LT-212": {
+				"id": "LT-212",
 				"set": "LT",
 				"name": {
 					"en": "Wose Elite Guard",
@@ -6133,12 +6544,12 @@
 					{"en": "Lost Tribes Specific.-1 to all of his corruption checks."},
 				"quote": 
 					{"en": "“All groups of the Woses are composed nearly equaIIy of Warriors and Rangers.” —MERP: Riders of Rohan"},
-				"image": "woseeliteguard_200.jpg",
+				"image": "woseeliteguard_212.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-201": {
-				"id": "LT-201",
+			"LT-213": {
+				"id": "LT-213",
 				"set": "LT",
 				"name": {
 					"en": "Wose Laborer",
@@ -6166,12 +6577,12 @@
 					{"en": "Lost Tribes Specific. Wose Laborer is considered a Man (in addition to being a Wose) if there is a Man in his company. -1 to all of his corruption checks. -1 to influence checks against all factions."},
 				"quote": 
 					{"en": "“Wose laborers often know their surroundings better than most.”—The Lost Tribes"},
-				"image": "woselaborer_201.jpg",
+				"image": "woselaborer_213.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-202": {
-				"id": "LT-202",
+			"LT-214": {
+				"id": "LT-214",
 				"set": "LT",
 				"name": {
 					"en": "Wose Memories",
@@ -6192,12 +6603,12 @@
 					{"en": "During your organization phase, you may take a Wose character with a mind value of 5 or less from your sideboard or discard pile and place it “off to the side” with this card. This character gives no marshalling points. A maximum of two characters may be with this card at one time. You may play a character placed with this card as though it were in your hand."},
 				"quote": 
 					{"en": ""},
-				"image": "wosememories_202.jpg",
+				"image": "wosememories_214.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-203": {
-				"id": "LT-203",
+			"LT-215": {
+				"id": "LT-215",
 				"set": "LT",
 				"name": {
 					"en": "Wose Sentinel",
@@ -6226,12 +6637,12 @@
 					{"en": "Unique. Lost Tribes Specific. Discard Wose Sentinel to cancel an attack against his company. -1 to all of his corruption checks. -1 to influence checks against all factions."},
 				"quote": 
 					{"en": "“Less experienced than the Wose Chieftain guardians, these hunters are supreme in the use of group warfare” —The Lost Tribes"},
-				"image": "wosesentinel_203.jpg",
+				"image": "wosesentinel_215.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-204": {
-				"id": "LT-204",
+			"LT-216": {
+				"id": "LT-216",
 				"set": "LT",
 				"name": {
 					"en": "Wose Shaman",
@@ -6261,12 +6672,12 @@
 					{"en": "Unique. Lost Tribes Specific.Can use pûkel-magic.+2 to all rolls required for his company to move to an adjacent site in the Under deeps."},
 				"quote": 
 					{"en": "“Wose shamans often used ingredients from the deeper caves for their rituals” —Tribal Lore"},
-				"image": "woseshaman_204.jpg",
+				"image": "woseshaman_216.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-205": {
-				"id": "LT-205",
+			"LT-217": {
+				"id": "LT-217",
 				"set": "LT",
 				"name": {
 					"en": "Wose Tracker",
@@ -6294,12 +6705,12 @@
 					{"en": "Lost Tribes Specific. Wose Tracker may be played from your sideboard as if it were in your hand. -1 to all of his corruption checks.-1 to influence checks against all factions."},
 				"quote": 
 					{"en": "“Silently vigilant” —Woses of the Black Wood"},
-				"image": "wosetracker_205.jpg",
+				"image": "wosetracker_217.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-206": {
-				"id": "LT-206",
+			"LT-218": {
+				"id": "LT-218",
 				"set": "LT",
 				"name": {
 					"en": "Wudu-Wasa",
@@ -6324,12 +6735,12 @@
 					{"en": "Unique. Lost Tribes Specific. Playable at tapped or untapped Wose Passage-hold if the influence check is greater than 8.Standard Modifications: Woses (+2), Men (+1).Each of your other Wose factions give an additional marshalling point."},
 				"quote": 
 					{"en": "“Their late descendants near the borders of Rohan were called Woses, or “Wudu-Wasa”, by the Rohirrim.” —Woses of the Black Wood"},
-				"image": "wudu-wasa_206.jpg",
+				"image": "wudu-wasa_218.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			},
-			"LT-207": {
-				"id": "LT-207",
+			"LT-219": {
+				"id": "LT-219",
 				"set": "LT",
 				"name": {
 					"en": "Yfelwood",
@@ -6358,7 +6769,7 @@
 					{"en": "Rules Text"},
 				"quote": 
 					{"en": ""},
-				"image": "yfelwood_207.jpg",
+				"image": "yfelwood_219.jpg",
 				"rarity": "CA",
 				"artist": "DALL·E"
 			}
